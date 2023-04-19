@@ -8,14 +8,14 @@ done < "$INPUT"
 sort -u ipv4.list | grep -v "0.0.0.0" | sort -h >> ipv4.list.sorted && mv ipv4.list.sorted ipv4.list
 sort -u ipv6.list | grep -v "::" | sort -h >> ipv6.list.sorted && mv ipv6.list.sorted ipv6.list
 
-echo "set doh_servers_ipv4 { " >> nftables-ipv4.set
+echo "set doh_servers_ipv4 { " > nftables-ipv4.set
 echo "  type ipv4_addr" >> nftables-ipv4.set
 echo "  elements = {" >> nftables-ipv4.set
 cat ipv4.list | sed -e 's/$/,/g' -e 's/^/  /g' >> nftables-ipv4.set
 echo "  }" >> nftables-ipv4.set
 echo "}" >> nftables-ipv4.set
 
-echo "set doh_servers_ipv6 { " >> nftables-ipv6.set
+echo "set doh_servers_ipv6 { " > nftables-ipv6.set
 echo "  type ipv6_addr" >> nftables-ipv6.set
 echo "  elements = {" >> nftables-ipv6.set
 cat ipv6.list | sed -e 's/$/,/g' -e 's/^/  /g' >> nftables-ipv6.set
