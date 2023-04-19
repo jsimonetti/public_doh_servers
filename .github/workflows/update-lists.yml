@@ -13,7 +13,6 @@ jobs:
 
     - name: Update dependencies
       run: |
-        rm doh_server_urls.list doh_server_domains.list ipv4.list ipv6.list nftables-ipv4.set nftables-ipv6.set
         python scrape_doh.py > doh_server_urls.list
         bash url-to-domains.sh
         bash dns-to-ip.sh 1.1.1.1
