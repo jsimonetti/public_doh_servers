@@ -11,11 +11,18 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: Update dependencies
+    - name: Scrape DOH
       run: |
         python scrape_doh.py > doh_server_urls.list
+        
+    - name: Convert to domainlist
+      run: |
         bash url-to-domains.sh
+
+    - name: Resolve domains and create sets
+      run: |
         bash dns-to-ip.sh 1.1.1.1
+   
     - name: Create PR
       uses: peter-evans/create-pull-request@v4
       with:
