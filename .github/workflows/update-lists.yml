@@ -19,6 +19,10 @@ jobs:
       run: |
         bash url-to-domains.sh
 
+    - name: Scrape other lists
+      run: |
+        bash scrape_other_lists.sh
+
     - name: Resolve domains and create sets
       run: |
         bash dns-to-ip.sh 1.1.1.1
