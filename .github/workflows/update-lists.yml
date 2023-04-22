@@ -19,19 +19,23 @@ jobs:
         
     - name: Scrape DOH
       run: |
-        python scrape_doh.py > doh_server_urls.list
+        python scripts/scrape_doh.py > doh_server_urls.list
         
     - name: Convert to domainlist
       run: |
-        bash url-to-domains.sh
+        bash scripts/url-to-domains.sh
 
     - name: Scrape other lists
       run: |
-        bash scrape_other_lists.sh
+        bash scripts/scrape_other_lists.sh
 
-    - name: Resolve domains and create sets
+    - name: Resolve domains
       run: |
-        bash dns-to-ip.sh 1.1.1.1
+        bash scripts/dns-to-ip.sh 1.1.1.1
+   
+    - name: Create sets
+      run: |
+        bash scripts/create-sets.sh
    
     - name: Create PR
       uses: peter-evans/create-pull-request@v4
