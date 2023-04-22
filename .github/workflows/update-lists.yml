@@ -6,11 +6,17 @@ on:
 jobs:
   updates:
     timeout-minutes: 10
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
     - name: Checkout
       uses: actions/checkout@v3
 
+    - name: Install deps
+      run: |
+        sudo apt -yy update
+        sudo apt -yy install python3-pip bind9-dnsutils
+        sudo pip3 install aggregate6
+        
     - name: Scrape DOH
       run: |
         python scrape_doh.py > doh_server_urls.list
