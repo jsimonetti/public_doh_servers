@@ -7,6 +7,8 @@
     flake-utils.lib.eachDefaultSystem (system: {
       formatter = nixpkgs.legacyPackages.${system}.nixpkgs-fmt;
 
+      defaultPackage = self.packages.default;
+
       packages = {
         default = self.packages.${system}.public_doh_servers;
 
