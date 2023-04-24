@@ -38,7 +38,7 @@ jobs:
         bash scripts/create-sets.sh
    
     - name: Create PR
-      uses: peter-evans/create-pull-request@v4
+      uses: peter-evans/create-pull-request@v5
       with:
         commit-message: "auto update lists"
         branch: actions/update-lists
