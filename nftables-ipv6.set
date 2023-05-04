@@ -1,6 +1,7 @@
 set doh_servers_ipv6 { 
   type ipv6_addr
   elements = {
+  2a01:7a7:2:1ee5:215:5dff:fe12:1a16,
   2a01:7c8:d002:1ef:5054:ff:fe40:3703,
   2a01:e0a:10f:ed30:baac:6fff:feaa:6e7d,
   2a01:e0a:b08:b6d0:96de:80ff:feb7:a7a2,
@@ -48,6 +49,7 @@ set doh_servers_ipv6 {
   2001:9e8:4003:73ae:464e:6dff:fe3a:9dbc,
   2001:9e8:4003:76f9:464e:6dff:fe3a:9dbc,
   2001:9e8:4003:884e:464e:6dff:fe3a:9dbc,
+  2001:9e8:4003:8900:464e:6dff:fe3a:9dbc,
   2001:9e8:4003:8dd7:464e:6dff:fe3a:9dbc,
   2001:9e8:4003:9b83:464e:6dff:fe3a:9dbc,
   2001:9e8:4003:acc5:464e:6dff:fe3a:9dbc,
@@ -64,6 +66,7 @@ set doh_servers_ipv6 {
   2001:9e8:4039:61e:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:6bfb:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:7c9f:9a9b:cbff:fe1a:1cdd,
+  2001:9e8:4039:8cbb:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:921a:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:a28d:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:b2d6:9a9b:cbff:fe1a:1cdd,
@@ -84,6 +87,7 @@ set doh_servers_ipv6 {
   2603:c020:4000:3d34:6160:20db:353b:24d3,
   2603:c020:4000:acf1:573e:f4ab:bb59:7346,
   2603:c020:4000:acf1:b06d:1c00:bf79:9cd7,
+  2603:c020:4001:a28e:777e:8b95:4103:a124,
   2603:c020:5:3566:beef:beef:beef:beef,
   2603:c021:8002:5c77:1e9f:20d:512e:3fc3,
   2603:c021:8002:5c77:6a7c:6bf2:eaa0:b8fd,
