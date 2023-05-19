@@ -1,13 +1,14 @@
+0ms.run
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.dns.seby.io
 8888.google
-a-bld.sys-adm.in
 a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.safe.ns.dnslify.com
 aattwwss.duckdns.org
 abel.waringer-atg.de
+ada.openbld.net
 adblock-dot.dnswarden.com
 adblock.doh.mullvad.net
 adblock.mydns.network
@@ -30,6 +31,7 @@ adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
+adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.meddy94.de
@@ -60,7 +62,6 @@ basic.bravedns.com
 basic.rethinkdns.com
 bcandrade.ml
 blackhole.myon.lu
-bld.sys-adm.in
 blitz.ahadns.com
 block.abstergo.it
 blockerads.multimediaconcept.fr
@@ -106,6 +107,7 @@ dns.5ososea.com
 dns.7sec.com.br
 dns.7vpn.com
 dns.aa.net.uk
+dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
 dns.alekberg.net
@@ -133,9 +135,11 @@ dns.circl.lu
 dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
+dns.codepays.net
 dns.comeonjames.club
 dns.comss.one
 dns.containerpi.com
+dns.cooluc.com
 dns.cwlys.com
 dns.d365.in
 dns.d94.xyz
@@ -402,6 +406,7 @@ eu1.dns.lavate.ch
 externalmobiel.lekdijk.online
 family-filter-dns.cleanbrowsing.org
 family.5ososea.com
+family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 fdns1.dismail.de
@@ -532,6 +537,7 @@ resolver2.opendns.com
 resolver3.absolight.net
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
+ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sa01.dns4me.net

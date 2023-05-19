@@ -9,8 +9,8 @@ https://block.abstergo.it/dns-query
 https://adl.adfilter.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
-https://dns.adguard.com/dns-query
-https://dns-family.adguard.com/dns-query
+https://dns.adguard-dns.com/dns-query
+https://family.adguard-dns.com/dns-query
 https://unfiltered.adguard-dns.com/dns-query
 https://dns.adrianlam.com/dns-query
 https://blitz.ahadns.com
@@ -91,6 +91,7 @@ https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns-secondary.cloudnx.cloud/dns-query
 https://adguard.clroot.io/dns-query
+https://dns.codepays.net/dns-query
 https://jpdns.cola16.app/dns-query
 https://doh.xfinity.com/dns-query
 https://dns.comeonjames.club/dns-query
@@ -102,6 +103,7 @@ https://freedns.controld.com/p2
 https://freedns.controld.com/p3
 https://freedns.controld.com/family
 https://freedns.controld.com/x-oisd
+https://dns.cooluc.com/dns-query
 https://cossxiu.ga/dns-query
 https://dns.cwlys.com/dns-query
 https://odvr.nic.cz/dns-query
@@ -260,6 +262,7 @@ https://dns.kescher.at/dns-query
 https://kilabit.info/dns-query
 https://doh.killtw.im/dns-query
 https://adguard.avdkishore.dev/dns-query
+https://adguard.konikoni428.com/dns-query
 https://korzhov.dev/dns-query
 https://dart.kpsn.org/dns-query
 https://xray.krnl.eu/dns-query
@@ -328,8 +331,8 @@ https://o1.lt/dns-query
 https://dns.ofdoom.net/dns-query
 https://secure.onedns.cc/dns-query
 https://doh.onedns.net/dns-query
-https://a-bld.sys-adm.in/dns-query
-https://bld.sys-adm.in/dns-query
+https://ada.openbld.net/dns-query
+https://ric.openbld.net/dns-query
 https://dns.opnsource.com.au/dns-query
 https://osefcorp.duckdns.org/dns-query
 https://1a.ns.ozer.im/dns-query
@@ -447,6 +450,7 @@ https://yovbak.com/dns-query
 https://yovbak.com/dns-query
 https://zxcvb.pp.ua/dns-query
 https://zxcvb.pp.ua/dns-query
+https://0ms.run/dns-query
 https://dns.0ooo.icu/dns-query
 https://t2c.240130034.xyz/dns-query
 https://doh003.280blocker.net/dns-query
