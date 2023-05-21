@@ -78,6 +78,7 @@ cloudflare-gateway.com
 cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
+cnnic-chinatelecom-chinamobile-chinaunicom--bili-d.dahi.icu
 commons.host
 cossxiu.ga
 cvt-ic-us-adns-001.clearviewtechnology.net
@@ -172,6 +173,7 @@ dns.google
 dns.google.com
 dns.hafidzradhival.my.id
 dns.hahnjo.de
+dns.hanahira.dev::4433
 dns.haoxuan.xyz
 dns.hinet.net
 dns.hostux.net
