@@ -17,9 +17,7 @@ adg.jnorton.us
 adguard-dns.rouga.ch
 adguard.ambiya.net
 adguard.avdkishore.dev
-adguard.beliefanx.cn
 adguard.bitteeinbyte.de
-adguard.clroot.io
 adguard.ddns.network
 adguard.dekonix.ru
 adguard.depieri.net
@@ -136,7 +134,6 @@ dns.circl.lu
 dns.clanless.ovh
 dns.cloudflare.com
 dns.cmrg.net
-dns.codepays.net
 dns.comeonjames.club
 dns.comss.one
 dns.containerpi.com
@@ -155,6 +152,7 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
+dns.doh.best
 dns.dutchwhite.nl
 dns.east.comss.one
 dns.edison42.dev
@@ -166,7 +164,6 @@ dns.fancyorg.at
 dns.faze.dev
 dns.filipccz.eu
 dns.flatuslifir.is
-dns.flymc.cc
 dns.froth.zone
 dns.gnb09.id
 dns.google
@@ -211,7 +208,6 @@ dns.nextdns.io
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.njal.la
-dns.norvig.dk
 dns.novali.date
 dns.nullgate.net
 dns.ofdoom.net
@@ -325,6 +321,7 @@ doh.defaultroutes.de
 doh.disconnect.app
 doh.dns.apple.com
 doh.dns.sb
+doh.dns1.lonet.org
 doh.dns4all.eu
 doh.dnslify.com
 doh.dnswarden.com
@@ -363,12 +360,14 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.powerdns.org
 doh.pub
+doh.rdns.vond.net
 doh.rezhajul.io
 doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.securedns.eu
+doh.sungai.stream
 doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
@@ -473,7 +472,6 @@ n5.lsasss.com
 ns.00dani.me
 ns0.fdn.fr
 ns1.dnsprivacy.at
-ns1.dotls.org
 ns1.fdn.fr
 ns1.flodns.net
 ns1.qquack.org
@@ -485,7 +483,6 @@ ns3.bit-trail.nl
 ns3.com
 ns3.cx
 ns3.link
-ny.teradns.org
 ny1.nixnet.xyz
 nz01.dns4me.net
 o.rsaikat.com
@@ -545,7 +542,6 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sbdns.co.in
-sby-doh.limotelu.org
 secure.avastdns.com
 secure.onedns.cc
 securedns.vendorvista.xyz
