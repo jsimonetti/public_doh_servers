@@ -7,7 +7,6 @@ https://res-acst3.absolight.net/dns-query
 https://resolver1.absolight.net/dns-query
 https://resolver3.absolight.net/dns-query
 https://block.abstergo.it/dns-query
-https://adguard.acrobyte.org/dns-query
 https://adl.adfilter.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
@@ -93,7 +92,6 @@ https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns-secondary.cloudnx.cloud/dns-query
-https://jpdns.cola16.app/dns-query
 https://doh.xfinity.com/dns-query
 https://dns.comeonjames.club/dns-query
 https://dns.circl.lu/dns-query
@@ -104,7 +102,6 @@ https://freedns.controld.com/p2
 https://freedns.controld.com/p3
 https://freedns.controld.com/family
 https://freedns.controld.com/x-oisd
-https://dns.cooluc.com/dns-query
 https://cossxiu.ga/dns-query
 https://dns.cretu.xyz/dns-query
 https://dns.crownor.com/dns-query
@@ -216,7 +213,6 @@ https://8888.google/dns-query
 https://vpn.gosami.xyz/dns-query
 https://addguard.greenet.id/dns-query
 https://doh2.gslb2.xfinity.com/dns-query
-https://gustamadh.dynv6.net/dns-query
 https://cluster-0.gac.edu/dns-query
 https://cluster-1.gac.edu/dns-query
 https://gztech.me/dns-query
@@ -247,7 +243,6 @@ https://dns.imaicool.com/dns-query
 https://noads.imbuffering.com/dns-query
 https://dns1.in-berlin.de/dns-query
 https://dns.indust.me/dns-query
-https://dns.inforlogia.com/dns-query
 https://qlf-doh.inria.fr/dns-query
 https://doh.ibr.cs.tu-bs.de/dns-query
 https://public.dns.iij.jp/dns-query
@@ -264,7 +259,6 @@ https://tj.jamesxue.xyz/dns-query
 https://adguard.jfchenier.ca/dns-query
 https://dns.jinwoo.dev/dns-query
 https://dns.joaofidelix.com.br/dns-query
-https://vpn.jogjacloud.com/dns-query
 https://dns.hahnjo.de/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
@@ -334,7 +328,6 @@ https://doh.nic.lv/dns-query
 https://dns.nguyendn.com/dns-query
 https://dns1.nielsdb.be/dns-query
 https://www.nilanjan.rocks/dns-query
-https://dns1.niub.one/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
 https://resolver.noaddns.com/dns-query
@@ -514,7 +507,6 @@ https://dns.240527.xyz
 https://doh003.280blocker.net/dns-query
 https://doh.30x.me/dns-query
 https://dns.4-the.win/dns-query
-https://dns.5ive.net/dns-query
 https://dns.52306.org/dns-query
 https://dns.5ososea.com/dns-query
 https://family.5ososea.com/dns-query
@@ -522,8 +514,7 @@ https://kids.5ososea.com/dns-query
 https://jp.68360612.xyz/dns-query
 https://dns.7sec.com.br/dns-query/
 https://dns.7vpn.com/dns-query
-https://www.91557.cn/dns-query
-https://www.91557.cn/dns-query
+https://dns.7vpn.com/dns-query
 https://doh.crypto.sx/dns-query
 https://ibuki.cgnat.net/dns-query
 https://doh-2.seby.io/dns-query
