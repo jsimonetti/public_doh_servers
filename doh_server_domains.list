@@ -33,9 +33,9 @@ adguard.konikoni428.com
 adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.meddy94.de
+adguard.nocnik.org
 adguard.rowdyengeesje.nl
 adguard.shuting.idv.tw
-adguard.spaceindex.net
 adguard.spyrisk.fr
 adguard1.jsanagustin.net
 adguard1.leadmon.net
@@ -51,7 +51,6 @@ ams.nl.agh-dns.net
 ant.dns.qwer.pw
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
-apne1.dns.terumi.club
 arashi.eu.org
 area51.mywire.org
 armorrush.eu.org
@@ -108,7 +107,6 @@ dns-public.ibakerserver.pt
 dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
-dns.1.bsh4.com
 dns.209.wf
 dns.23-4.cn
 dns.240527.xyz
@@ -121,6 +119,7 @@ dns.aa.net.uk
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
+dns.aganin.org
 dns.alekberg.net
 dns.alidns.com
 dns.almir1904.eu
@@ -181,6 +180,7 @@ dns.filipccz.eu
 dns.flatuslifir.is
 dns.flwagners.com
 dns.foximao.cn
+dns.freyja.pw
 dns.froth.zone
 dns.glorydns.com
 dns.gnb09.id
@@ -192,15 +192,17 @@ dns.hahnjo.de
 dns.hanahira.dev::4433
 dns.haoxuan.xyz
 dns.hinet.net
+dns.hinytz.com
+dns.hostingim.com
 dns.hostux.net
 dns.iamninja.ru
 dns.imaicool.com
 dns.indust.me
-dns.invisv.com
 dns.ipv6dns.com
 dns.itdept.pro
 dns.jinwoo.dev
 dns.joaofidelix.com.br
+dns.joey01245.nl
 dns.jstockley.com
 dns.jucker.engineering
 dns.kamilszczepanski.com
@@ -228,6 +230,7 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
+dns.nikolagjorgjijoski.com
 dns.nixnet.xyz
 dns.njal.la
 dns.novali.date
@@ -240,12 +243,14 @@ dns.panszelescik.pl
 dns.privado.ovh
 dns.privilab.net
 dns.pub
+dns.pumpkinvrar.com
 dns.pumplex.com
 dns.purbalinggakab.go.id
 dns.quad9.net
 dns.reckoningslug.name
 dns.rin.sh
 dns.rkjha.com.np
+dns.rohanjain.in
 dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
@@ -297,8 +302,6 @@ dns1.nielsdb.be
 dns1.techeasy.org
 dns10.quad9.net
 dns11.quad9.net
-dns140.zhhz.cc
-dns168.zhhz.cc
 dns2.alekberg.net
 dns2.cbio.top
 dns2.developer.li
@@ -411,6 +414,7 @@ doh.seby.io
 doh.securedns.eu
 doh.sungai.stream
 doh.syshero.org
+doh.technochat.in
 doh.tiar.app
 doh.tiarap.org
 doh.vpnglobal.my.id
@@ -490,7 +494,6 @@ kaitain.restena.lu
 keithchung.hopto.org
 kids.5ososea.com
 kids.dns0.eu
-kilabit.info
 killads.vpms.xyz
 korzhov.dev
 kracon.anycast.censurfridns.dk
@@ -611,7 +614,6 @@ tls-dns-u.odvr.dns-oarc.net
 tor.vasi.li
 ttag.dns.nomu.pw
 typaza.com
-ueni.dyndns.org
 uk01.dns4me.net
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
