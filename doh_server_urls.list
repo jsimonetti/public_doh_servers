@@ -14,6 +14,7 @@ https://family.adguard-dns.com/dns-query
 https://unfiltered.adguard-dns.com/dns-query
 https://dns.adrianlam.com/dns-query
 https://adguard.agadez.net/dns-query
+https://dns.aganin.org/dns-query
 https://ams.nl.agh-dns.net/dns-query
 https://blitz.ahadns.com
 https://blitz.ahadns.com/1
@@ -35,6 +36,7 @@ https://arashi.eu.org/dns-query
 https://armorrush.eu.org/dns-query
 https://dns.artikel10.org/dns-query
 https://dns.b612.me/dns-query
+https://adguard.nocnik.org/dns-query
 https://secure.avastdns.com/dns-query
 https://dns.keweon.center/dns-query
 https://awan.ftp.sh/dns-query
@@ -100,6 +102,19 @@ https://freedns.controld.com/p2
 https://freedns.controld.com/p3
 https://freedns.controld.com/family
 https://freedns.controld.com/x-oisd
+https://freedns.controld.com/x-oisd-basic
+https://freedns.controld.com/x-stevenblack
+https://freedns.controld.com/x-devdan
+https://freedns.controld.com/x-notracking
+https://freedns.controld.com/x-1hosts-mini
+https://freedns.controld.com/x-1hosts-lite
+https://freedns.controld.com/x-1hosts-pro
+https://freedns.controld.com/x-hagezi-normal
+https://freedns.controld.com/x-hagezi-pro
+https://freedns.controld.com/x-hagezi-proplus
+https://freedns.controld.com/x-hagezi-ultimate
+https://freedns.controld.com/x-goodbyeads
+https://freedns.controld.com/x-adguard
 https://dns.cretu.xyz/dns-query
 https://dns.cryptomize.com/dns-query
 https://dns.cwlys.com/dns-query
@@ -137,7 +152,6 @@ https://dns.linkr.ninja/dns-query
 https://ttag.dns.nomu.pw/dns-query
 https://doh.dns.sb/dns-query
 https://doh.sb/dns-query
-https://apne1.dns.terumi.club/dns-query
 https://doh.dns4all.eu/dns-query
 https://nz01.dns4me.net
 https://au01.dns4me.net
@@ -197,6 +211,7 @@ https://dns.froth.zone/dns-query
 https://doh.futa.gg/dns-query
 https://doh.futa.gg/dns-query
 https://dns2.gms.net.id/dns-query
+https://dns.freyja.pw/dns-query
 https://bvo.giize.com/dns-query
 https://dns.glorydns.com/dns-query
 https://dns.gnb09.id/dns-query
@@ -216,12 +231,14 @@ https://adguard.haneulo.com/dns-query
 https://dns.haoxuan.xyz/dns-query
 https://us-ny-alula.heliumcloud.cc/dns-query
 https://dns.hinet.net/dns-query
+https://dns.hinytz.com/dns-query
 https://hitian.me/dns-query
 https://pihole1.hoerli.net/dns-query
 https://pihole2.hoerli.net/dns-query
 https://pihole4.hoerli.net/dns-query
 https://home27.duckdns.org/dns-query
 https://hoofoo.icu/dns-query
+https://dns.hostingim.com/dns-query
 https://dns.hostux.net/dns-query
 https://dns.hostux.net/ads
 https://doth.huque.com/dns-query
@@ -239,7 +256,6 @@ https://dns.indust.me/dns-query
 https://qlf-doh.inria.fr/dns-query
 https://doh.ibr.cs.tu-bs.de/dns-query
 https://public.dns.iij.jp/dns-query
-https://dns.invisv.com/dns-query
 https://dns.ipv6dns.com/dns-query
 https://irre.li/dns-query
 https://dns.iamninja.ru/dns-query
@@ -252,6 +268,7 @@ https://tj.jamesxue.xyz/dns-query
 https://adguard.jfchenier.ca/dns-query
 https://dns.jinwoo.dev/dns-query
 https://dns.joaofidelix.com.br/dns-query
+https://dns.joey01245.nl/dns-query
 https://dns.hahnjo.de/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
@@ -264,7 +281,6 @@ https://dns.karl.one/dns-query
 https://keithchung.hopto.org/dns-query
 https://dns.kernel-error.de/dns-query
 https://dns.kescher.at/dns-query
-https://kilabit.info/dns-query
 https://doh.killtw.im/dns-query
 https://storydoh.kinergetica.com/dns-query
 https://adguard.avdkishore.dev/dns-query
@@ -315,11 +331,12 @@ https://dns.nas-server.ru/dns-query
 https://doh.luigi.nexific.it/dns-query
 https://dns.nextdns.io
 https://dns.ngc7331.top/dns-query
+https://dns.nguyendn.com/dns-query
 https://dns.nhtsky.com/dns-query
 https://doh.lv/dns-query
 https://doh.nic.lv/dns-query
-https://dns.nguyendn.com/dns-query
 https://dns1.nielsdb.be/dns-query
+https://dns.nikolagjorgjijoski.com/dns-query
 https://www.nilanjan.rocks/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
@@ -354,6 +371,7 @@ https://thanos.pleumkungz.com/dns-query
 https://privacy.plumedns.com/dns-query
 https://dns.privado.ovh/dns-query
 https://dns.privilab.net/dns-query
+https://dns.pumpkinvrar.com/dns-query
 https://dns.purbalinggakab.go.id/dns-query
 https://puredns.org/dns-query
 https://puredns.org/dns-query
@@ -383,6 +401,7 @@ https://doh.rezhajul.io/dns-query
 https://resolver.rferee.dev/dns-query/
 https://dns.rin.sh/dns-query
 https://dns.rkjha.com.np/dns-query
+https://dns.rohanjain.in/dns-query
 https://adg.rokh.biz/dns-query
 https://dns.ronc.ru/dns-query
 https://dns.rotunneling.net/dns-query/public
@@ -411,7 +430,6 @@ https://sitdns.com/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://clientdns3.softcom.net/dns-query
-https://adguard.spaceindex.net/dns-query
 https://dns.spil.co.id/dns-query
 https://adguard.spyrisk.fr/dns-query
 https://dns.startupstack.tech/dns-query
@@ -429,6 +447,7 @@ https://doh.syshero.org/dns-query
 https://doh.syshero.org/dns-query
 https://dns.t53.de/dns-query
 https://dns1.techeasy.org/dns-query
+https://doh.technochat.in/dns-query
 https://dns.telekom.de/dns-query
 https://de.teradns.org/dns-query
 https://cloud.tezoi.com/dns-query
@@ -447,7 +466,6 @@ https://dns.twnic.tw/dns-query
 https://dns-east.tylerwahl.com/dns-query
 https://typaza.com/dns-query
 https://typaza.com/dns-query
-https://ueni.dyndns.org/dns-query
 https://open-resolver1.unima.ac.id/dns-query
 https://resolver.unstoppable.io/dns-query
 https://dns.uplenk.com/dns-query
@@ -483,13 +501,10 @@ https://dns.youni.win/dns-query
 https://yovbak.com/dns-query
 https://dns.yunmoc.top/dns-query
 https://dns.yunmoc.top/dns-query
-https://dns140.zhhz.cc/dns-query
-https://dns168.zhhz.cc/dns-query
 https://zxcvb.pp.ua/dns-query
 https://dns.zxi7.cn/dns-query
 https://dns.zxi7.cn/dns-query
 https://0ms.run/dns-query
-https://dns.1.bsh4.com/dns-query
 https://140.238.202.136.sslip.io/dns-query
 https://dns.209.wf/dns-query
 https://dns.23-4.cn/dns-query
