@@ -19,9 +19,7 @@ adfree.usableprivacy.net
 adg.rokh.biz
 adguard-dns.rouga.ch
 adguard.avdkishore.dev
-adguard.ddns.network
 adguard.dekonix.ru
-adguard.depieri.net
 adguard.dessoi.cloud
 adguard.ef67daisuki.club
 adguard.haneulo.com
@@ -49,7 +47,6 @@ ant.dns.qwer.pw
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
 arashi.eu.org
-armorrush.eu.org
 asia.dnscepat.id
 au01.dns4me.net
 au02.dns4me.net
@@ -80,7 +77,6 @@ cloudns.bosco.ovh
 cluster-0.gac.edu
 cluster-1.gac.edu
 commons.host
-cvt-ic-us-adns-001.clearviewtechnology.net
 d.apemlegit.my.id
 d.toairs.com
 darkness.is.my.waifu.cz
@@ -98,9 +94,7 @@ dns-dot.dnsforfamily.com
 dns-east.tylerwahl.com
 dns-family.adguard.com
 dns-nosec.quad9.net
-dns-nyc.aaflalo.me
 dns-public.ibakerserver.pt
-dns-secondary.cloudnx.cloud
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.209.wf
@@ -108,14 +102,11 @@ dns.23-4.cn
 dns.240527.xyz
 dns.4-the.win
 dns.52306.org
-dns.5ososea.com
 dns.7sec.com.br
-dns.7vpn.com
 dns.aa.net.uk
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
-dns.aganin.org
 dns.alekberg.net
 dns.alidns.com
 dns.almir1904.eu
@@ -223,7 +214,6 @@ dns.nextdns.io
 dns.ngc7331.top
 dns.nguyendn.com
 dns.nhtsky.com
-dns.nikolagjorgjijoski.com
 dns.nixnet.xyz
 dns.njal.la
 dns.novali.date
@@ -241,7 +231,6 @@ dns.purbalinggakab.go.id
 dns.quad9.net
 dns.reckoningslug.name
 dns.rin.sh
-dns.rkjha.com.np
 dns.rohanjain.in
 dns.ronc.ru
 dns.rotunneling.net
@@ -504,7 +493,6 @@ mozilla.cloudflare-dns.com
 msr177.com
 muli.stusta.mhn.de
 n0.eu
-n5.lsasss.com
 noads.imbuffering.com
 ns.00dani.me
 ns0.fdn.fr
@@ -542,7 +530,6 @@ pi1.node15.com
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole1.hoerli.net
-pihole2.hoerli.net
 pihole4.hoerli.net
 privacy.plumedns.com
 privacydns.go6lab.si
@@ -610,8 +597,6 @@ unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
 us-ny-alula.heliumcloud.cc
-us01.dns4me.net
-us02.dns4me.net
 us1.blissdns.net
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
