@@ -94,6 +94,7 @@ dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-east.tylerwahl.com
 dns-family.adguard.com
+dns-free.link
 dns-nosec.quad9.net
 dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
@@ -559,6 +560,7 @@ rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
+secure.anudeep.me
 secure.avastdns.com
 secure.onedns.cc
 securedns.vendorvista.xyz
