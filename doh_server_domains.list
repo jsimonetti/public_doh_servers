@@ -30,7 +30,6 @@ adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.meddy94.de
 adguard.shuting.idv.tw
-adguard1.jsanagustin.net
 adguard1.leadmon.net
 adl.adfilter.net
 ads-doh.securedns.eu
@@ -71,7 +70,6 @@ chaos.altendorfme.com
 chewbacca.meganerd.nl
 clientdns3.softcom.net
 cloud.samutz.com
-cloud.tezoi.com
 cloudflare-dns.com
 cloudflare-gateway.com
 cloudns.bosco.ovh
@@ -99,7 +97,6 @@ dns-nosec.quad9.net
 dns-public.ibakerserver.pt
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
-dns.209.wf
 dns.23-4.cn
 dns.240527.xyz
 dns.4-the.win
@@ -120,7 +117,6 @@ dns.belnet.be
 dns.benpro.fr
 dns.bitdefender.net
 dns.bitgeek.in
-dns.blindtechs.com
 dns.blokada.org
 dns.bobstrecansky.com
 dns.brahma.world
@@ -138,7 +134,6 @@ dns.cretu.xyz
 dns.cryptomize.com
 dns.cwlys.com
 dns.cynthialabs.net
-dns.d94.xyz
 dns.d96.info
 dns.daw.dev
 dns.decisivedevops.com
@@ -156,6 +151,7 @@ dns.dutchwhite.nl
 dns.east.comss.one
 dns.ebner.tech
 dns.edison42.dev
+dns.electrotm.org
 dns.elemental.software
 dns.ellichua.com
 dns.emiliyan.com
@@ -188,7 +184,6 @@ dns.itdept.pro
 dns.jinwoo.dev
 dns.joey01245.nl
 dns.jstockley.com
-dns.jucker.engineering
 dns.jupitrdns.net
 dns.kamilszczepanski.com
 dns.karl.one
@@ -225,7 +220,6 @@ dns.privado.ovh
 dns.pub
 dns.pumpkinvrar.com
 dns.pumplex.com
-dns.purbalinggakab.go.id
 dns.quad9.net
 dns.reckoningslug.name
 dns.rin.sh
@@ -238,14 +232,12 @@ dns.sev.monster
 dns.shecan.ir
 dns.silen.org
 dns.silentlybren.com
-dns.sips.my.id
 dns.siry.de
 dns.skrep.eu
 dns.slinkyman.net
 dns.spil.co.id
 dns.startupstack.tech
 dns.stvsk.ml
-dns.supercluster.io
 dns.surfshark.com
 dns.switch.ch
 dns.syaifullah.com
@@ -261,11 +253,9 @@ dns.uplenk.com
 dns.vinnyp.xyz
 dns.vishalk.com
 dns.vmath.my.id
-dns.worthmind.net
 dns.wugui.zone
 dns.yameenassotally.com
 dns.youni.win
-dns.yunmoc.top
 dns0.eu
 dns01.flm9.net
 dns1.digitale-gesellschaft.ch
@@ -366,7 +356,6 @@ doh.libredns.org
 doh.luigi.nexific.it
 doh.lv
 doh.mmmalia.com
-doh.moeyk.com
 doh.mullvad.net
 doh.netweaver.uk
 doh.nic.lv
@@ -463,7 +452,6 @@ jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net
 jp-dns1.bancuh.com
-jp.68360612.xyz
 jp.tiar.app
 jp.tiarap.org
 jurre-home.duckdns.org
@@ -527,7 +515,6 @@ pi1.node15.com
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole1.hoerli.net
-pihole4.hoerli.net
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -598,7 +585,6 @@ us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 virga.pp.ua
 vpn.gosami.xyz
-vpn.vokuev.org
 wantaquddin.com
 www.c-dns.com
 www.morbitzer.de
