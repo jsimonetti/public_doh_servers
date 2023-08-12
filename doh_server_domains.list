@@ -1,6 +1,5 @@
 0ms.run
 1.dns.noridev.moe
-140.238.202.136.sslip.io
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
@@ -22,7 +21,6 @@ adg.yybyy.wiki
 adguard-dns.rouga.ch
 adguard.avdkishore.dev
 adguard.dessoi.cloud
-adguard.ef67daisuki.club
 adguard.haneulo.com
 adguard.ihatemy.live
 adguard.jfchenier.ca
@@ -44,7 +42,6 @@ agh.xinfeng16m.top
 ant.dns.qwer.pw
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
-arashi.eu.org
 asia.dnscepat.id
 au01.dns4me.net
 au02.dns4me.net
@@ -135,7 +132,6 @@ dns.d96.info
 dns.daw.dev
 dns.decloudus.com
 dns.developer.li
-dns.dgea.fr
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-over-https.com
@@ -145,7 +141,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dutchwhite.nl
 dns.east.comss.one
-dns.ebner.tech
 dns.edison42.dev
 dns.electrotm.org
 dns.ellichua.com
@@ -183,7 +178,6 @@ dns.karl.one
 dns.kernel-error.de
 dns.kescher.at
 dns.keweon.center
-dns.laison.ltd
 dns.larsdebruin.net
 dns.linkr.ninja
 dns.meeo.win
@@ -214,7 +208,6 @@ dns.pumplex.com
 dns.quad9.net
 dns.reckoningslug.name
 dns.rin.sh
-dns.rohanjain.in
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
@@ -235,7 +228,6 @@ dns.syaifullah.com
 dns.t53.de
 dns.telekom.de
 dns.therifleman.name
-dns.timochan.cn
 dns.tls-data.de
 dns.tracker.ink
 dns.truong.fi
@@ -500,7 +492,6 @@ per.adfilter.net
 pi1.node15.com
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
-pihole1.hoerli.net
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -512,7 +503,6 @@ public-dns-b.dns.sb
 public.dns.iij.jp
 puredns.org
 qlf-doh.inria.fr
-r1bnc.com
 rayneau.fr
 rdns.faelix.net
 res-acst1.absolight.net
@@ -549,13 +539,11 @@ steering.nextdns.io
 storydoh.kinergetica.com
 syd.adfilter.net
 testaghome.meshkov.info
-thanos.pleumkungz.com
 tiger.dns.qwer.pw
 timmes.nl
 tj.jamesxue.xyz
 tk31z.com
 tls-dns-u.odvr.dns-oarc.net
-tor.vasi.li
 ttag.dns.nomu.pw
 uk01.dns4me.net
 uncensored-dot.dnswarden.com
@@ -571,7 +559,6 @@ vpn.gosami.xyz
 wantaquddin.com
 www.c-dns.com
 www.muxyuji.ru
-www.nilanjan.rocks
 xray.krnl.eu
 yarp.lefolgoc.net
 yovbak.com
