@@ -29,17 +29,18 @@ adguard.kss.ovh
 adguard.lege.despagne.net
 adguard.meddy94.de
 adguard.shuting.idv.tw
-adguard.streamlas.fr
 adl.adfilter.net
 ads-doh.securedns.eu
 adtec.aidentec.top
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
+ag.brianlee.fun
 ag.ff0x.ca
 ag.ssrahul96.xyz
 agh.printk.info
 agh.xinfeng16m.top
 ant.dns.qwer.pw
+antivirus.bebasid.com
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
 asia.dnscepat.id
@@ -57,7 +58,6 @@ block.abstergo.it
 blog.kimiblock.top
 bluemood.me
 bravedns.com
-bvo.giize.com
 ca01.dns4me.net
 ca02.dns4me.net
 canadianshield.cira.ca
@@ -166,7 +166,6 @@ dns.haoxuan.xyz
 dns.hinet.net
 dns.hostux.net
 dns.iamninja.ru
-dns.imaicool.com
 dns.indust.me
 dns.ipv6dns.com
 dns.itdept.pro
@@ -207,11 +206,13 @@ dns.pub
 dns.pumpkinvrar.com
 dns.pumplex.com
 dns.quad9.net
+dns.ramansarda.com
 dns.rayanbab.com
 dns.reckoningslug.name
 dns.rin.sh
 dns.rotunneling.net
 dns.rubyfish.cn
+dns.s3cure.us
 dns.sarak.as
 dns.sellan.fr
 dns.sev.monster
@@ -232,7 +233,6 @@ dns.telekom.de
 dns.therifleman.name
 dns.tls-data.de
 dns.tracker.ink
-dns.truong.fi
 dns.twnic.tw
 dns.uplenk.com
 dns.vinnyp.xyz
@@ -263,7 +263,6 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
-dnsenc.com
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
@@ -410,6 +409,7 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.ningkelle.id
+family.puredns.org
 fdns1.dismail.de
 fdns2.dismail.de
 fi.doh.dns.snopyta.org
@@ -431,6 +431,7 @@ home27.duckdns.org
 ibksturm.synology.me
 ibuki.cgnat.net
 ihctw.synology.me
+internetsehat.bebasid.com
 irre.li
 ivnkn.xyz
 jackyes.ovh
@@ -535,7 +536,6 @@ securedns.vendorvista.xyz
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg-dns1.bancuh.com
-sg01.dns4me.net
 shalenkov.dev
 sink.nolo.ltd
 sky.rethinkdns.com
@@ -559,10 +559,10 @@ us1.blissdns.net
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 virga.pp.ua
-vpn.gosami.xyz
 wantaquddin.com
 www.c-dns.com
 www.muxyuji.ru
+www.secforads3.ch
 xray.krnl.eu
 yarp.lefolgoc.net
 yovbak.com
