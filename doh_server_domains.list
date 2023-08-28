@@ -1,4 +1,3 @@
-0ms.run
 1.dns.noridev.moe
 1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
@@ -78,7 +77,6 @@ d.toairs.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
-de.teradns.org
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
@@ -164,6 +162,7 @@ dns.hanahira.dev::4433
 dns.haoxuan.xyz
 dns.hinet.net
 dns.hostux.net
+dns.hubservices.vn
 dns.iamninja.ru
 dns.indust.me
 dns.ipv6dns.com
@@ -186,7 +185,6 @@ dns.mrkaran.dev
 dns.msxnet.ru
 dns.murgi.de
 dns.muxinghe.cn
-dns.mzrme.cn
 dns.nas-server.ru
 dns.neutopia.org
 dns.nextdns.io
@@ -208,6 +206,7 @@ dns.quad9.net
 dns.ramansarda.com
 dns.rayanbab.com
 dns.reckoningslug.name
+dns.repressoh.it
 dns.rin.sh
 dns.rotunneling.net
 dns.rubyfish.cn
@@ -241,6 +240,7 @@ dns.wang.art
 dns.wibenson.cloud
 dns.wugui.zone
 dns.yameenassotally.com
+dns.yingroad.top
 dns.youni.win
 dns0.eu
 dns01.flm9.net
@@ -355,6 +355,7 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.powerdns.org
 doh.pub
+doh.qis.io
 doh.rezhajul.io
 doh.safesurfer.io
 doh.sandbox.opendns.com
@@ -509,7 +510,6 @@ puredns.org
 qlf-doh.inria.fr
 rayneau.fr
 rdns.faelix.net
-res-acst1.absolight.net
 res-acst3.absolight.net
 resolver-eu.lelux.fi
 resolver.noaddns.com
@@ -517,7 +517,6 @@ resolver.r0cket.net
 resolver.rferee.dev
 resolver.unstoppable.io
 resolver1-fs.opendns.com
-resolver1.absolight.net
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.opendns.com
