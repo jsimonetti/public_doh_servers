@@ -72,6 +72,7 @@ https://dns.chenu.ch/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://family.canadianshield.cira.ca/dns-query
+https://dns.circl.lu/dns-query
 https://doh.opendns.com/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://dns.clanless.ovh/dns-query
@@ -196,6 +197,7 @@ https://dns.hafidzradhival.my.id/dns-query
 https://dns.hanahira.dev::4433/dns-query
 https://adguard.haneulo.com/dns-query
 https://dns.haoxuan.xyz/dns-query
+https://query.hdns.io/dns-query
 https://us-ny-alula.heliumcloud.cc/dns-query
 https://dns.hinet.net/dns-query
 https://hitian.me/dns-query
@@ -203,6 +205,7 @@ https://home27.duckdns.org/dns-query
 https://dns.hostux.net/dns-query
 https://dns.hostux.net/ads
 https://dns.hubservices.vn/dns-query
+https://ordns.he.net/dns-query
 https://doth.huque.com/dns-query
 https://doth.huque.com/dns-query
 https://dns-public.ibakerserver.pt/dns-query
@@ -255,6 +258,8 @@ https://lastentarvike.fi/dns-query
 https://eu1.dns.lavate.ch/dns-query
 https://adguard.lege.despagne.net/dns-query
 https://externalmobiel.lekdijk.online/dns-query
+https://doh.libredns.gr/dns-query
+https://doh.libredns.gr/noads
 https://lindung.pp.ua/dns-query
 https://lindung.pp.ua/family
 https://doh.dns1.lonet.org/dns-query
@@ -283,6 +288,7 @@ https://www.muxyuji.ru/dns-query
 https://blackhole.myon.lu/dns-query
 https://blackhole.myon.lu/dns-query
 https://dns.nas-server.ru/dns-query
+https://dns.ndo.dev/dns-query
 https://doh.luigi.nexific.it/dns-query
 https://dns.nextdns.io
 https://dns.nhtsky.com/dns-query
@@ -310,6 +316,8 @@ https://dot.occ.top/dns-query
 https://dns.ofdoom.net/dns-query
 https://secure.onedns.cc/dns-query
 https://doh.onedns.net/dns-query
+https://ada.openbld.net/dns-query
+https://ric.openbld.net/dns-query
 https://osefcorp.duckdns.org/dns-query
 https://1a.ns.ozer.im/dns-query
 https://1a.ns.ozer.im/dns-query
@@ -378,6 +386,7 @@ https://dns.sitdns.com/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://clientdns3.softcom.net/dns-query
+https://spacedns.org/dns-query
 https://dns.spil.co.id/dns-query
 https://dns.startupstack.tech/dns-query
 https://muli.stusta.mhn.de/dns-query
