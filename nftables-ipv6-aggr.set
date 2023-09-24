@@ -2,6 +2,7 @@ set doh_servers_ipv6 {
   flags interval
   type ipv6_addr
   elements = {
+  2001:470:26:7c:1c21:1cff:fef1:e544/128,
   2001:470:26:7c:b26e:bfff:fe1d:e19b/128,
   2001:470:36:b90:beba:5:0:1d/128,
   2001:610:1:40ba:145:100:185:15/128,
@@ -127,6 +128,7 @@ set doh_servers_ipv6 {
   2406:da19:66f:e800:e62b:6932:38d5:9409/128,
   2406:da19:66f:e810:63fc:4173:1c08:a00d/128,
   2406:da1a:1b5:d610:53:d6ea:3cdb:70eb/128,
+  2406:da1a:1b5:d610:159b:60e5:b0a:8fff/128,
   2409:8a6a:a11:7c30:7812:48ff:fed1:63e0/128,
   2603:c020:5:3566:beef:beef:beef:beef/128,
   2603:c020:4000:3d34:6160:20db:353b:24d3/128,
