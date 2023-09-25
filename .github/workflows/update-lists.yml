@@ -37,15 +37,22 @@ jobs:
       run: |
         bash scripts/create-sets.sh
    
-    - name: Create PR
-      uses: peter-evans/create-pull-request@v5
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "auto update lists"
-        branch: actions/update-lists
-        title: Update lists
-        body: Updated lists
-        delete-branch: true
-        labels: actions
-        author: "Jeroen Simonetti <jeroen@simonetti.nl>"
-        signoff: true
+#    - name: Create PR
+#      uses: peter-evans/create-pull-request@v5
+#      with:
+#        token: ${{ secrets.GITHUB_TOKEN }}
+#        commit-message: "auto update lists"
+#        branch: actions/update-lists
+#        title: Update lists
+#        body: Updated lists
+#        delete-branch: true
+#        labels: actions
+#        signoff: true
+
+    # Commit all changed files back to the repository
+    - name: Update Repo
+      uses: stefanzweifel/git-auto-commit-action@v4
+      commit_message: [action] auto update lists
+      commit_options: '--no-verify --signoff'
+
+
