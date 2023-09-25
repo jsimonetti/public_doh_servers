@@ -40,9 +40,12 @@ jobs:
     - name: Create PR
       uses: peter-evans/create-pull-request@v5
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: "auto update lists"
         branch: actions/update-lists
         title: Update lists
         body: Updated lists
         delete-branch: true
         labels: actions
+        author: "Jeroen Simonetti <jeroen@simonetti.nl>"
+        signoff: true
