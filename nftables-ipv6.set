@@ -141,6 +141,7 @@ set doh_servers_ipv6 {
   2001:9e8:4039:ee37:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:f588:9a9b:cbff:fe1a:1cdd,
   2001:9e8:4039:f5c9:9a9b:cbff:fe1a:1cdd,
+  2001:b011:9805:2195:2cee:75e9:2726:bfb3,
   2001:b011:9805:4fb5:2cee:75e9:2726:bfb3,
   2001:bc8:710:1efa:dc00:ff:fe34:a339,
   2001:e68:5040:a7da:d8e7:f548:508b:6346,
