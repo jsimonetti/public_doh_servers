@@ -15,7 +15,6 @@ adblock-dot.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.mydns.network
-addns.clubbase.club
 addns1.m-it.ro
 adfree.usableprivacy.net
 adguard.abd.ong
@@ -28,7 +27,6 @@ adguard.leadseason.eu
 adguard.lege.despagne.net
 adguard.londonwebnerd.cloud
 adguard.marto.si
-adguard.mattiafenzi.uk
 adguard.meddy94.de
 adguard.pmoebi.xyz
 adguard.quydang.name.vn
@@ -82,7 +80,6 @@ cloudflare-gateway.com
 cluster-0.gac.edu
 cluster-1.gac.edu
 coe01.dnscry.pt
-common.dot.dns.yandex.net
 commons.host
 console.carestyle.org
 cubedns.com
@@ -146,7 +143,6 @@ dns.cxl.moe
 dns.cynthialabs.net
 dns.daemon.za.net
 dns.danayasastore.my.id
-dns.daw.dev
 dns.decky.eu
 dns.decloudus.com
 dns.dekedin.me
@@ -159,7 +155,6 @@ dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.doh.best
-dns.doserver.top
 dns.dotnet.win
 dns.east.comss.one
 dns.emiliyan.com
@@ -167,7 +162,6 @@ dns.esnube.es
 dns.expert
 dns.extrawdw.net
 dns.ezyss.id
-dns.f97.xyz
 dns.fancyorg.at
 dns.flatuslifir.is
 dns.freyja.pw
@@ -212,7 +206,6 @@ dns.nixnet.xyz
 dns.njal.la
 dns.novali.date
 dns.npsolution.it
-dns.nzxti5.co.uk
 dns.oasg.xyz
 dns.ofdoom.net
 dns.oszx.co
@@ -258,7 +251,6 @@ dns.thebuckners.org
 dns.tls-data.de
 dns.tryk.app
 dns.twnic.tw
-dns.twopudding.icu
 dns.txq.life
 dns.unx.io
 dns.wahr.top
@@ -294,14 +286,12 @@ dnses.alekberg.net
 dnsfilter.domotik.us
 dnsforge.de
 dnslow.me
-dnsnl-noads.alekberg.net
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
-dnsse-noads.alekberg.net
 dnsse.alekberg.net
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -412,7 +402,6 @@ dot.pub
 dot.seby.io
 dot.securedns.eu
 dot.tiar.app
-dot.tooli.ca
 dot.westus.pi-dns.com
 doth.huque.com
 dukun.de
@@ -429,7 +418,6 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.dns.teknoholistik.com
-family.dot.dns.yandex.net
 family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
@@ -460,7 +448,6 @@ i-puppy.ru
 ibksturm.synology.me
 ibuki.cgnat.net
 ikarosalpha.xyz
-inde.ragnvindr.org
 int.ragnvindr.org
 isakula.space
 jackyes.ovh
@@ -476,7 +463,6 @@ kaitain.restena.lu
 kids.dns0.eu
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
-ksedns.ru
 las01.dnscry.pt
 lastentarvike.fi
 lax01.dnscry.pt
@@ -497,7 +483,6 @@ mozilla.cloudflare-dns.com
 muc01.dnscry.pt
 myv2ray.cn
 nenam.eu
-noads.venovedo.ro
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
@@ -521,7 +506,6 @@ open.dns0.eu
 ord01.dnscry.pt
 ordns.he.net
 ortudns.com
-outdoorchair.us
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -535,7 +519,6 @@ phx01.dnscry.pt
 pi.adblocker.eu.org
 pi1.node15.com
 pihole.aws.ketan.dev
-pns2.sadraidc.com
 pooblet.co.za
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -562,7 +545,6 @@ rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
-safe.dot.dns.yandex.net
 safeservedns.com
 secure-4ud.de
 secure-dns.pleumkungz.com
@@ -591,7 +573,6 @@ testguard.meexx.de
 tigrons.ru
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
-to.llzz.top
 tpa01.dnscry.pt
 trf01.dnscry.pt
 trovs.ru
@@ -615,6 +596,5 @@ www.maxfong.cc
 x.ns1net.com
 xray.krnl.eu
 yarp.lefolgoc.net
-yeralin.net
 yunyun.is.my.waifu.cz
 zero.dns0.eu
