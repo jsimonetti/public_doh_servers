@@ -6,7 +6,6 @@ a.family.ns.dnslify.com
 a.ns.dnslify.com
 a.safe.ns.dnslify.com
 abe01.dnscry.pt
-ad.dsh.lol
 ad.justincounts.com
 ad.systemfall.ru
 ada.openbld.net
@@ -23,7 +22,6 @@ adguard.jakinet.id
 adguard.konikoni428.com
 adguard.leadseason.eu
 adguard.londonwebnerd.cloud
-adguard.marto.si
 adguard.meddy94.de
 adguard.pmoebi.xyz
 adguard.quydang.name.vn
@@ -67,7 +65,6 @@ cdn.thetcs.eu.org
 chrome.cloudflare-dns.com
 circumitor.de
 clean.dnsforge.de
-clientdns3.softcom.net
 cloudflare-dns.com
 cloudflare-gateway.com
 cluster-0.gac.edu
@@ -77,7 +74,6 @@ commons.host
 console.carestyle.org
 cubedns.com
 cvt01.dnscry.pt
-d3.shabi.icu
 darkness.is.my.waifu.cz
 darya.persiannit.net
 deic-lgb.anycast.censurfridns.dk
@@ -89,7 +85,6 @@ dns-asia.wugui.zone
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
 dns-family.adguard.com
-dns-fr-psv1.cloudsides.com
 dns-free.link
 dns-nosec.quad9.net
 dns-ovh.panszelescik.pl
@@ -99,7 +94,6 @@ dns-unfiltered.adguard.com
 dns.4-the.win
 dns.52306.org
 dns.aa.net.uk
-dns.abdullahabas.de
 dns.adguard-dns.com
 dns.adguard.com
 dns.adrianlam.com
@@ -119,19 +113,16 @@ dns.carson-family.com
 dns.carter.me
 dns.cfiec.net
 dns.chadeyron.fr
-dns.chalkychalk.com
 dns.chenu.ch
 dns.circl.lu
 dns.cloud88.com.au
 dns.cloudflare.com
-dns.cloudseriousshit.com
 dns.cmrg.net
 dns.comss.one
 dns.containerpi.com
 dns.cxl.moe
 dns.cynthialabs.net
 dns.daemon.za.net
-dns.decky.eu
 dns.decloudus.com
 dns.dekedin.me
 dns.developer.li
@@ -164,12 +155,10 @@ dns.hostux.net
 dns.huseynov.work
 dns.huyhoangit.net
 dns.indybanipal.com
-dns.jundev.org
 dns.kernel-error.de
 dns.korzhyk.pp.ua
 dns.larsdebruin.net
 dns.lista.my.id
-dns.loony-tech.de
 dns.lupine.solutions
 dns.mandre.dev
 dns.moesite.top
@@ -178,15 +167,12 @@ dns.mullvad.net
 dns.narl.app
 dns.neutopia.org
 dns.nextdns.io
-dns.ninhs.org
 dns.nixnet.xyz
 dns.njal.la
 dns.npsolution.it
-dns.oasg.xyz
 dns.ofdoom.net
 dns.oszx.co
 dns.ours.luxe
-dns.ovpn.bond
 dns.pacificmonster.com
 dns.paesa.es
 dns.paxavemedia.com
@@ -248,7 +234,6 @@ dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
 dns2.guidocioni.it
 dns2.lezainski.com
-dns2.linzefeng.top
 dns2.nextdns.io
 dns2.saferbfc.org
 dns64.cloudflare-dns.com
@@ -286,7 +271,6 @@ doh.appliedprivacy.net
 doh.armadillodns.net
 doh.artsvr.my.id
 doh.au.ahadns.net
-doh.azoris.ovh
 doh.blockerdns.com
 doh.captnemo.in
 doh.centraleu.pi-dns.com
@@ -388,7 +372,6 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
-family.dns.teknoholistik.com
 family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
@@ -409,7 +392,6 @@ getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 green2.jnraptor.net
-guard.thefather.cloud
 hanniel.tech
 hk.ahua.ltd
 hk.rslvr.eu
@@ -457,7 +439,6 @@ nl.rslvr.eu
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
-ns.rabot.fi
 ns.ral9005.org
 ns0.fdn.fr
 ns1.dnsprivacy.at
@@ -515,8 +496,6 @@ ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 safeservedns.com
-secure-4ud.de
-secure-dns.pleumkungz.com
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
