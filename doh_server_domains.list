@@ -36,11 +36,9 @@ adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 ag.hostme.co.il
 ag.marschi.de
-agent.frankutils.xyz
 agh2.server.my.id
 all.dns.mullvad.net
 ams01.dnscry.pt
-ams02.dnscry.pt
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
@@ -53,7 +51,6 @@ b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
 bg.rslvr.eu
-bigart.su
 blitz.ahadns.com
 bravedns.com
 callies-online.site
@@ -171,7 +168,6 @@ dns.npsolution.it
 dns.ofdoom.net
 dns.oszx.co
 dns.ours.luxe
-dns.pacificmonster.com
 dns.paesa.es
 dns.paxavemedia.com
 dns.pbs.gentility.org
@@ -197,6 +193,7 @@ dns.silen.org
 dns.silentlybren.com
 dns.skrep.eu
 dns.slinkyman.net
+dns.spirio.fr
 dns.strassmair.org
 dns.streamvine.app
 dns.superstefan.win
@@ -226,7 +223,6 @@ dns1.saferbfc.org
 dns10.quad9.net
 dns11.quad9.net
 dns2.alekberg.net
-dns2.cybrespace.net
 dns2.developer.li
 dns2.digitale-gesellschaft.ch
 dns2.dnscrypt.ca
@@ -274,7 +270,6 @@ doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cleanbrowsing.org
 doh.crypto.sx
-doh.datahata.by
 doh.defaultroutes.de
 doh.disconnect.app
 doh.dns-ga.de
@@ -294,7 +289,6 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.ibr.cs.tu-bs.de
 doh.in.ahadns.net
-doh.iranet.cam
 doh.it.ahadns.net
 doh.la.ahadns.net
 doh.lacontrevoie.fr
@@ -387,7 +381,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 green2.jnraptor.net
 hanniel.tech
-hk.ahua.ltd
 hk.rslvr.eu
 hkg01.dnscry.pt
 ibksturm.synology.me
@@ -409,20 +402,15 @@ kaitain.restena.lu
 kids.dns0.eu
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
-las01.dnscry.pt
-lastentarvike.fi
 lax01.dnscry.pt
-lax02.dnscry.pt
 life.flylcc.cc
 lindung.pp.ua
 llk01.dnscry.pt
 lon01.dnscry.pt
-los01.dnscry.pt
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mailer.amlegion.org
 masters-of-cloud.de
-math.netlab.my.id
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mozilla.cloudflare-dns.com
@@ -517,6 +505,7 @@ tls-dns-u.odvr.dns-oarc.net
 tpa01.dnscry.pt
 trf01.dnscry.pt
 trovs.ru
+truta.org
 ukns.milangas2.top
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
@@ -531,7 +520,6 @@ vpn.technicule.info
 vtcuong.site
 waw02.dnscry.pt
 wikimedia-dns.org
-www.c-dns.com
 x.ns1net.com
 xray.krnl.eu
 yarp.lefolgoc.net
