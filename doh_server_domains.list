@@ -13,7 +13,6 @@ adblock-dot.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.mydns.network
-addns1.m-it.ro
 adfree.usableprivacy.net
 adguard.abd.ong
 adguard.avdkishore.dev
@@ -151,10 +150,8 @@ dns.huseynov.work
 dns.huyhoangit.net
 dns.indybanipal.com
 dns.kernel-error.de
-dns.korzhyk.pp.ua
 dns.larsdebruin.net
 dns.lista.my.id
-dns.lupine.solutions
 dns.mandre.dev
 dns.moesite.top
 dns.mrkaran.dev
@@ -170,7 +167,6 @@ dns.oszx.co
 dns.ours.luxe
 dns.paesa.es
 dns.paxavemedia.com
-dns.pbs.gentility.org
 dns.pccoach.nl
 dns.pragmasec.nl
 dns.pub
@@ -185,7 +181,6 @@ dns.rotunneling.net
 dns.rubyfish.cn
 dns.sarak.as
 dns.sarilouis.com
-dns.scarx.net
 dns.schlagheck.berlin
 dns.scuola.org
 dns.serdcebolit.ru
@@ -386,18 +381,15 @@ hkg01.dnscry.pt
 ibksturm.synology.me
 ibuki.cgnat.net
 ikarosalpha.xyz
-int.ragnvindr.org
 isakula.space
 jackyes.ovh
 jambi.undo.it
 jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net
-jkt01.dnscry.pt
 jp.rslvr.eu
 jp.tiar.app
 jp.tiarap.org
-jpdns.hker.me
 kaitain.restena.lu
 kids.dns0.eu
 kracon.anycast.censurfridns.dk
@@ -463,7 +455,6 @@ rdns.faelix.net
 rdu01.dnscry.pt
 resolver-eu.lelux.fi
 resolver.noaddns.com
-resolver.rferee.dev
 resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
