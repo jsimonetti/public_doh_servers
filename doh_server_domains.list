@@ -317,7 +317,6 @@ doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
-doh.viatech.com.tw
 doh.westus.pi-dns.com
 doh.xfinity.com
 doh.xyz
@@ -354,6 +353,7 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
+family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
 felipefalcao.ninja
@@ -365,6 +365,7 @@ fr-dns1.bancuh.com
 fra01.dnscry.pt
 free.bravedns.com
 freedns.controld.com
+freedom.mydns.network
 fwgw.orangepipc.mywire.org
 geg01.dnscry.pt
 getdnsapi.net
@@ -379,7 +380,6 @@ ibuki.cgnat.net
 ikarosalpha.xyz
 isakula.space
 jackyes.ovh
-jambi.undo.it
 jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net
@@ -430,6 +430,7 @@ p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
+paranoia.mydns.network
 paulo.nom.za
 pdns.faelix.net
 per.adfilter.net
@@ -493,7 +494,6 @@ tpa01.dnscry.pt
 trf01.dnscry.pt
 trovs.ru
 truta.org
-ukns.milangas2.top
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk

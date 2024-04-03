@@ -32,8 +32,7 @@ https://dns.blokada.org/dns-query
 https://adguard.bonis.de/dns-query
 https://dns.brahma.world/dns-query
 https://stratus.bugz.fr/dns-query
-https://doh1.b-cdn.net/dns-query
-https://doh1.b-cdn.net/dns-query
+https://stratus.bugz.fr/dns-query
 https://callies-online.site/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
 https://console.carestyle.org/dns-query
@@ -198,7 +197,6 @@ https://darkness.is.my.waifu.cz/dns-query
 https://isakula.space/dns-query
 https://isakula.space/dns-query
 https://jackyes.ovh/dns-query
-https://jambi.undo.it/dns-query
 https://green2.jnraptor.net/dns-query
 https://dns.hahnjo.de/dns-query
 https://jp.tiar.app/dns-query
@@ -235,7 +233,6 @@ https://adguard.meddy94.de/dns-query
 https://testguard.meexx.de/dns-query
 https://snoke.meganerd.nl/dns-query
 https://ns.mtsoln.com/dns-query
-https://ukns.milangas2.top/dns-query
 https://nue2.moderateinfra.net/dns-query
 https://ps1.modr.club/dns-query
 https://dns.moesite.top/dns-query
@@ -245,12 +242,14 @@ https://base.dns.mullvad.net/dns-query
 https://extended.dns.mullvad.net/dns-query
 https://all.dns.mullvad.net/dns-query
 https://family.dns.mullvad.net/dns-query
-https://dns.mullvad.net/dns-query
-https://adblock.dns.mullvad.net/dns-query
-https://base.dns.mullvad.net/dns-query
-https://extended.dns.mullvad.net/dns-query
-https://all.dns.mullvad.net/dns-query
-https://family.dns.mullvad.net/dns-query
+https://freedom.mydns.network/dns-query
+https://paranoia.mydns.network/dns-query
+https://adblock.mydns.network/dns-query
+https://family.mydns.network/dns-query
+https://freedom.mydns.network/dns-query
+https://paranoia.mydns.network/dns-query
+https://adblock.mydns.network/dns-query
+https://family.mydns.network/dns-query
 https://dns.narl.app/dns-query
 https://nenam.eu/dns-query
 https://doh.luigi.nexific.it/dns-query
@@ -371,7 +370,6 @@ https://resolver.unstoppable.io/dns-query
 https://dns.unx.io/dns-query
 https://dns.unx.io/dns-query
 https://adguard.vape.ong/dns-query
-https://doh.viatech.com.tw/dns-query
 https://virga.pp.ua/dns-query
 https://virga.pp.ua/porn
 https://vtcuong.site/dns-query
