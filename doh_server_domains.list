@@ -29,7 +29,6 @@ adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 ag.hostme.co.il
 ag.marschi.de
-agh2.server.my.id
 all.dns.mullvad.net
 ams01.dnscry.pt
 anycast.censurfridns.dk
@@ -259,7 +258,6 @@ doh.dns.sb
 doh.dns4all.eu
 doh.dnslify.com
 doh.dnswarden.com
-doh.dscloud.me
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
