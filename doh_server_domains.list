@@ -12,6 +12,7 @@ ada.openbld.net
 adblock-dot.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
+adblock.indianets.net
 adblock.mydns.network
 adfree.usableprivacy.net
 adguard.abd.ong
@@ -32,6 +33,7 @@ adult-filter-dot.dnswarden.com
 ag.hostme.co.il
 ag.marschi.de
 all.dns.mullvad.net
+alleesph.online
 ams01.dnscry.pt
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
@@ -50,7 +52,6 @@ bravedns.com
 canadianshield.cira.ca
 catdns.org
 chrome.cloudflare-dns.com
-circumitor.de
 clean.dnsforge.de
 cloudflare-dns.com
 cloudflare-gateway.com
@@ -68,6 +69,7 @@ deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
 dfw01.dnscry.pt
+diy.itsa.top
 dns-asia.wugui.zone
 dns-cybersec.nordthreatprotection.com
 dns-doh.dnsforfamily.com
@@ -80,6 +82,7 @@ dns-ovh.panszelescik.pl
 dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
+dns.0x55.net
 dns.4-the.win
 dns.52306.org
 dns.aa.net.uk
@@ -145,8 +148,10 @@ dns.hostux.net
 dns.huseynov.work
 dns.hypercute.eu
 dns.iki.my.id
+dns.immanuelschaffer.de
 dns.indybanipal.com
 dns.janl.eu
+dns.karfamily.net
 dns.keke125.com
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -166,10 +171,12 @@ dns.nixnet.xyz
 dns.njal.la
 dns.npsolution.it
 dns.ofdoom.net
+dns.oliviertv.co.za
 dns.oryxlabs.com
 dns.oszx.co
 dns.paesa.es
 dns.pccoach.nl
+dns.pesaventofilippo.com
 dns.pragmasec.nl
 dns.pub
 dns.pumplex.com
@@ -228,12 +235,12 @@ dns2.guidocioni.it
 dns2.lezainski.com
 dns2.nextdns.io
 dns2.nordvpn.com
+dns2.prima-solusindo.com
 dns2.saferbfc.org
 dns64.cloudflare-dns.com
 dns64.dns.google
 dns9.quad9.net
 dnses.alekberg.net
-dnsfilter.domotik.us
 dnsforge.de
 dnslow.me
 dnsnl.alekberg.net
@@ -346,6 +353,7 @@ dot.securedns.eu
 dot.tiar.app
 dot.westus.pi-dns.com
 doth.huque.com
+drs.rustsword.com
 dukun.de
 ea-dns.rubyfish.cn
 ecs-doh.dnswarden.com
