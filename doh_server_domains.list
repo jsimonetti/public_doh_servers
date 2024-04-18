@@ -49,7 +49,6 @@ b.ns.dnslify.com
 b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
-bg.rslvr.eu
 blitz.ahadns.com
 bravedns.com
 canadianshield.cira.ca
@@ -149,8 +148,10 @@ dns.google.com
 dns.guard.io
 dns.hahnjo.de
 dns.henek.ovh
+dns.horcrux.vip
 dns.hostux.net
 dns.hypercute.eu
+dns.ian.rocks
 dns.iki.my.id
 dns.immanuelschaffer.de
 dns.indybanipal.com
@@ -183,6 +184,7 @@ dns.oszx.co
 dns.paesa.es
 dns.pccoach.nl
 dns.pesaventofilippo.com
+dns.phillipjberry.net
 dns.pnh.my.id
 dns.pragmasec.nl
 dns.pub
@@ -221,6 +223,7 @@ dns.wahr.top
 dns.wang.art
 dns.warma.me
 dns.wugui.zone
+dns.xwdmw.xyz
 dns.yatima.tv
 dns0.eu
 dns01.flm9.net
@@ -281,6 +284,7 @@ doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cleanbrowsing.org
+doh.cnetwork.cloud
 doh.crypto.sx
 doh.defaultroutes.de
 doh.disconnect.app
