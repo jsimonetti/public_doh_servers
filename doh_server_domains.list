@@ -26,10 +26,12 @@ adguard.londonwebnerd.cloud
 adguard.meddy94.de
 adguard.quydang.name.vn
 adguard.ruby.ci
+adguard.samonte.ovh
 adguard.sealyserver.com
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.sscw.win
+adguard.twotigers.xyz
 ads-doh.securedns.eu
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
@@ -70,7 +72,6 @@ deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
-diy.itsa.top
 dns-asia.wugui.zone
 dns-cybersec.nordthreatprotection.com
 dns-doh.dnsforfamily.com
@@ -321,7 +322,6 @@ doh.ny.ahadns.net
 doh.opendns.com
 doh.phdns1.lonet.org
 doh.phdns2.lonet.org
-doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 doh.pi-dns.com
 doh.pl.ahadns.net
@@ -388,7 +388,6 @@ fra01.dnscry.pt
 free.bravedns.com
 freedns.controld.com
 freedom.mydns.network
-fwgw.orangepipc.mywire.org
 geg01.dnscry.pt
 getdnsapi.net
 google-public-dns-a.google.com
