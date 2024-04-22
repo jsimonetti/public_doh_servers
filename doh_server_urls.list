@@ -58,7 +58,6 @@ https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
-https://voyage-s01.cloudku.technology/dns-query
 https://doh.cnetwork.cloud/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
@@ -105,12 +104,10 @@ https://zero.dns0.eu
 https://kids.dns0.eu
 https://doh.dns4all.eu/dns-query
 https://abe01.dnscry.pt/dns-query
-https://ams01.dnscry.pt/dns-query
 https://ord01.dnscry.pt/dns-query
 https://coe01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://rdu01.dnscry.pt/dns-query
-https://fra01.dnscry.pt/dns-query
 https://fjr01.dnscry.pt/dns-query
 https://llk01.dnscry.pt/dns-query
 https://lon01.dnscry.pt/dns-query
@@ -223,10 +220,8 @@ https://dns.lobbygod.com/dns-query
 https://adguard.londonwebnerd.cloud/dns-query
 https://doh.phdns1.lonet.org/dns-query
 https://doh.phdns2.lonet.org/dns-query
-https://doh.phdns5.lonet.org/dns-query
 https://doh.phdns1.lonet.org/dns-query
 https://doh.phdns2.lonet.org/dns-query
-https://doh.phdns5.lonet.org/dns-query
 https://dns.mandre.dev/dns-query
 https://ag.marschi.de/dns-query
 https://doh.maskab.com/dns-query
@@ -234,7 +229,6 @@ https://masters-of-cloud.de/dns-query
 https://family.dns.doubleangels.com/dns-query
 https://adguard.meddy94.de/dns-query
 https://testguard.meexx.de/dns-query
-https://snoke.meganerd.nl/dns-query
 https://ns.mtsoln.com/dns-query
 https://dns.mihanentalpo.me
 https://nue2.moderateinfra.net/dns-query
@@ -290,7 +284,6 @@ https://dns1.pietjacobs.be/dns-query
 https://dns.pnh.my.id/dns-query
 https://pooblet.co.za/dns-query
 https://dns.pragmasec.nl/dns-query
-https://dns2.prima-solusindo.com/dns-query
 https://dns-privacy.puregeni.us/dns-query
 https://dns-privacy.puregeni.us/dns-query
 https://ns1.qquack.org/dns-query
@@ -320,8 +313,6 @@ https://doh.runsel.id/dns-query
 https://drs.rustsword.com/dns-query
 https://drs.rustsword.com/dns-query
 https://doh.safesurfer.io/dns-query
-https://dns1.saferbfc.org/dns-query
-https://dns2.saferbfc.org/dns-query
 https://safeservedns.com/dns-query
 https://dns.sarilouis.com/dns-query
 https://ns1.sc-lezhi.com/dns-query
