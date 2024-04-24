@@ -13,7 +13,6 @@ jobs:
 
     - name: Install deps
       run: |
-        sudo apt -yy update
         sudo apt -yy install python3-pip bind9-dnsutils
         sudo pip3 install aggregate6
         
