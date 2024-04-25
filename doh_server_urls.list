@@ -26,6 +26,7 @@ https://pihole.aws.ketan.dev/dns-query
 https://dns.a47.me/dns-query
 https://dns.a47.me/dns-query
 https://dns.baishiyuan.cn/dns-query
+https://b-ii.com/dns-query
 https://dns.bitdefender.net/dns-query
 https://dns.bitservices.io/dns-query
 https://dns.blaze-sk.ru/dns-query
@@ -144,10 +145,11 @@ https://doh.apad.pro/dns-query
 https://edgy-dns.com/dns-query
 https://dns.henek.ovh/dns-query
 https://dns.emiliyan.com/dns-query
+https://dns.enzonix.com/dns-query
+https://bl.eq.md/dns-query
 https://dns.esnube.es/dns-query
 https://dns.extrawdw.net/dns-query
-https://dns.ezyss.id/dns-query
-https://dns.ezyss.id/dns-query
+https://dns.extrawdw.net/dns-query
 https://dnsvps.familiamv.net/dns-query
 https://dns.fancyorg.at/dns-query
 https://ns0.fdn.fr/dns-query
@@ -199,6 +201,7 @@ https://jp.tiarap.org/dns-query
 https://ad.justincounts.com/dns-query
 https://ad.justincounts.com/dns-query
 https://dns.keke125.com/dns-query
+https://doh.kekew.info/dns-query
 https://dns.kerekes.xyz/dns-query
 https://adguard.avdkishore.dev/dns-query
 https://dns.koala.us.to/dns-query
@@ -207,7 +210,8 @@ https://adguard.konikoni428.com/dns-query
 https://xray.krnl.eu/dns-query
 https://dns.kugoapps.com/dns-query
 https://dns.kukal.cz/dns-query
-https://dns.kukal.cz/dns-query
+https://dns.kusoneko.moe::9443/dns-query
+https://dns.kusoneko.moe::9443/dns-query
 https://dns.labnekotest.site/dns-query
 https://doh.lacontrevoie.fr/dns-query
 https://eu1.dns.lavate.ch/dns-query
@@ -250,11 +254,16 @@ https://family.mydns.network/dns-query
 https://dns.narl.app/dns-query
 https://dns.neilzone.co.uk/dns-query
 https://nenam.eu/dns-query
+https://dns1.us.newpangea.de/dns-query
+https://dns1.au.newpangea.de/dns-query
+https://dns1.in.newpangea.de/dns-query
+https://dns1.sg.newpangea.de/dns-query
+https://dns1.cl.newpangea.de/dns-query
+https://dns1.fi.newpangea.de/dns-query
 https://doh.luigi.nexific.it/dns-query
 https://dns.nextdns.io
 https://doh.lv/dns-query
 https://doh.nic.lv/dns-query
-https://dns1.nielsdb.be/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
 https://resolver.noaddns.com/dns-query
@@ -284,6 +293,7 @@ https://dns1.pietjacobs.be/dns-query
 https://dns.pnh.my.id/dns-query
 https://pooblet.co.za/dns-query
 https://dns.pragmasec.nl/dns-query
+https://doh.archuser.org/dns-query
 https://dns-privacy.puregeni.us/dns-query
 https://dns-privacy.puregeni.us/dns-query
 https://ns1.qquack.org/dns-query
