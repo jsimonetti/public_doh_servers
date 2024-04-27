@@ -27,7 +27,6 @@ https://pihole.aws.ketan.dev/dns-query
 https://dns.a47.me/dns-query
 https://dns.a47.me/dns-query
 https://dns.baishiyuan.cn/dns-query
-https://dns.bemag.app
 https://b-ii.com/dns-query
 https://dns.bitdefender.net/dns-query
 https://dns.bitservices.io/dns-query
@@ -148,7 +147,6 @@ https://dns.henek.ovh/dns-query
 https://dns.emiliyan.com/dns-query
 https://dns.enzonix.com/dns-query
 https://bl.eq.md/dns-query
-https://dns.esnube.es/dns-query
 https://dns.extrawdw.net/dns-query
 https://dns.extrawdw.net/dns-query
 https://dnsvps.familiamv.net/dns-query
@@ -173,7 +171,6 @@ https://cluster-1.gac.edu/dns-query
 https://cluster-0.gac.edu/dns-query
 https://cluster-1.gac.edu/dns-query
 https://dns.horcrux.vip/dns-query
-https://ag.hostme.co.il/dns-query
 https://dns.hostux.net/ads
 https://doth.huque.com/dns-query
 https://doth.huque.com/dns-query
@@ -225,8 +222,8 @@ https://dns.lobbygod.com/dns-query
 https://adguard.londonwebnerd.cloud/dns-query
 https://doh.phdns1.lonet.org/dns-query
 https://doh.phdns2.lonet.org/dns-query
-https://lostradns.de/dns-query
-https://lostradns.de/dns-query
+https://doh.phdns1.lonet.org/dns-query
+https://doh.phdns2.lonet.org/dns-query
 https://dns.mandre.dev/dns-query
 https://ag.marschi.de/dns-query
 https://doh.maskab.com/dns-query
@@ -328,7 +325,6 @@ https://doh.safesurfer.io/dns-query
 https://safeservedns.com/dns-query
 https://dns.sarilouis.com/dns-query
 https://ns1.sc-lezhi.com/dns-query
-https://adguard.sealyserver.com/dns-query
 https://dns.seiffert.me/dns-query
 https://dns.sheggi.ch/dns-query
 https://adguard.shoupperuser.com/dns-query
