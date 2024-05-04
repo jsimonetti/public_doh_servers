@@ -35,7 +35,6 @@ https://dns.brahma.world/dns-query
 https://stratus.bugz.fr/dns-query
 https://stratus.bugz.fr/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
-https://console.carestyle.org/dns-query
 https://dns.carson-family.com/dns-query
 https://dns.carter.me/dns-query
 https://catdns.org/dns-query
@@ -289,9 +288,11 @@ https://dns.pragmasec.nl/dns-query
 https://doh.archuser.org/dns-query
 https://dns-privacy.puregeni.us/dns-query
 https://dns-privacy.puregeni.us/dns-query
-https://ns1.qquack.org/dns-query
 https://hostdare.qtxd.net/dns-query
 https://dns.quad9.net/dns-query
+https://dns10.quad9.net/dns-query
+https://dns11.quad9.net/dns-query
+https://dns12.quad9.net/dns-query
 https://adguard.quydang.name.vn/dns-query
 https://adguard.quydang.name.vn/dns-query
 https://ns.ral9005.org/dns-query
@@ -302,7 +303,6 @@ https://sky.rethinkdns.com/1
 https://doh.rezhajul.io/dns-query
 https://dns.rin.sh/dns-query
 https://dns.rbn.gr/dns-query
-https://dns.rootlab.top/dns-query
 https://dns.rotunneling.net/dns-query/public
 https://us.rslvr.eu/dns-query
 https://nl.rslvr.eu/dns-query
@@ -328,7 +328,6 @@ https://dns.silentlybren.com/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
 https://spacedns.org/dns-query
-https://adguard.sscw.win/dns-query
 https://dns.strassmair.org/dns-query
 https://sukidayo.eu.org/dns-query
 https://sundalandia.pp.ua/dns-query
@@ -371,8 +370,7 @@ https://yarp.lefolgoc.net/dns-query
 https://dns.yatima.tv/dns-query
 https://dns.yatima.tv/dns-query
 https://www.zburger.top/dns-query
-https://a.zpn.me/dns-query
-https://a.zpn.me/dns-query
+https://www.zburger.top/dns-query
 https://dns.0x55.net/dns-query
 https://dns.4-the.win/dns-query
 https://dns.52306.org/dns-query
