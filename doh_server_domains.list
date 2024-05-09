@@ -55,7 +55,6 @@ clean.dnsforge.de
 cloudflare-dns.com
 cloudflare-gateway.com
 cluster-0.gac.edu
-cluster-1.gac.edu
 coe01.dnscry.pt
 commons.host
 cubedns.com
@@ -123,6 +122,7 @@ dns.doh.best
 dns.dotnet.win
 dns.east.comss.one
 dns.emiliyan.com
+dns.engineer.web.id
 dns.enzonix.com
 dns.expert
 dns.extrawdw.net
@@ -149,6 +149,7 @@ dns.koala.us.to
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe::9443
+dns.l6.ee
 dns.labnekotest.site
 dns.larsdebruin.net
 dns.levonet.sk
@@ -171,6 +172,7 @@ dns.paesa.es
 dns.pccoach.nl
 dns.pesaventofilippo.com
 dns.phillipjberry.net
+dns.powerbs.net
 dns.pragmasec.nl
 dns.pub
 dns.pumplex.com
@@ -339,6 +341,7 @@ dot.eastau.pi-dns.com
 dot.eastus.pi-dns.com
 dot.ffmuc.net
 dot.libredns.gr.com
+dot.modsh.top
 dot.northeu.pi-dns.com
 dot.pub
 dot.seby.io
@@ -412,7 +415,6 @@ ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.dnsprivacy.at
 ns2.recursive.dnsbycomodo.com
-nue2.moderateinfra.net
 ny1.nixnet.xyz
 nyc01.dnscry.pt
 odvr.nic.cz
