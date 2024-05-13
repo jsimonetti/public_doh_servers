@@ -84,10 +84,12 @@ dns.adguard.com
 dns.alekberg.net
 dns.alidns.com
 dns.andrewnw.xyz
+dns.aquilenet.fr
 dns.arapurayil.com
 dns.artikel10.org
 dns.asterimoon.com
 dns.baishiyuan.cn
+dns.belnet.be
 dns.bitdefender.net
 dns.bitgeek.in
 dns.bitservices.io
@@ -137,6 +139,7 @@ dns.google.com
 dns.guard.io
 dns.hahnjo.de
 dns.henek.ovh
+dns.hinet.net
 dns.horcrux.vip
 dns.hostux.net
 dns.hypercute.eu
@@ -145,6 +148,7 @@ dns.indybanipal.com
 dns.janl.eu
 dns.keke125.com
 dns.kerekes.xyz
+dns.kescher.at
 dns.koala.us.to
 dns.kugoapps.com
 dns.kukal.cz
@@ -153,9 +157,11 @@ dns.l6.ee
 dns.labnekotest.site
 dns.larsdebruin.net
 dns.levonet.sk
+dns.lista.my.id
 dns.lobbygod.com
 dns.mandre.dev
 dns.mihanentalpo.me
+dns.mnet-online.de
 dns.mrkaran.dev
 dns.mullvad.net
 dns.narl.app
@@ -165,6 +171,8 @@ dns.nextdns.io
 dns.nhtsky.com
 dns.nixnet.xyz
 dns.njal.la
+dns.novg.net
+dns.nydau.fr
 dns.oliviertv.co.za
 dns.oszx.co
 dns.paesa.es
@@ -241,6 +249,7 @@ dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
+dnspub.restena.lu
 dnsse.alekberg.net
 dnsvps.familiamv.net
 dnswebvsn.com
@@ -295,6 +304,7 @@ doh.libredns.gr
 doh.libredns.org
 doh.luigi.nexific.it
 doh.lv
+doh.manish.ltd
 doh.maskab.com
 doh.mullvad.net
 doh.netweaver.uk
@@ -426,6 +436,7 @@ p3.freedns.controld.com
 paranoia.mydns.network
 paulo.nom.za
 pdns.faelix.net
+pdns.krctechnologies.net
 per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
@@ -460,7 +471,6 @@ secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
-senpai.pp.ua
 sg.rslvr.eu
 sin01.dnscry.pt
 sky.rethinkdns.com
