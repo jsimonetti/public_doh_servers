@@ -65,7 +65,6 @@ https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
-https://doh.cnetwork.cloud/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
 https://freedns.controld.com/p2
@@ -111,6 +110,13 @@ https://dns0.eu
 https://zero.dns0.eu
 https://kids.dns0.eu
 https://doh.dns4all.eu/dns-query
+https://ca01.dns4me.net
+https://us01.dns4me.net
+https://sg01.dns4me.net
+https://sa01.dns4me.net
+https://au01.dns4me.net
+https://uk01.dns4me.net
+https://nz01.dns4me.net
 https://abe01.dnscry.pt/dns-query
 https://ord01.dnscry.pt/dns-query
 https://coe01.dnscry.pt/dns-query
@@ -185,7 +191,6 @@ https://ordns.he.net/dns-query
 https://dns.ian.rocks/dns-query
 https://ikarosalpha.xyz/dns-query
 https://dns1.in-berlin.de/dns-query
-https://adblock.indianets.net/dns-query
 https://dns.indybanipal.com/dns-query
 https://qlf-doh.inria.fr/dns-query
 https://public.dns.iij.jp/dns-query
@@ -292,6 +297,7 @@ https://darya.persiannit.net/dns-query
 https://dns.pesaventofilippo.com/dns-query
 https://dns.phillipjberry.net/dns-query
 https://dns1.pietjacobs.be/dns-query
+https://privacy.plumedns.com/dns-query
 https://pooblet.co.za/dns-query
 https://dns.powerbs.net/dns-query
 https://dns.pragmasec.nl/dns-query
@@ -336,7 +342,6 @@ https://dns.silentlybren.com/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
 https://spacedns.org/dns-query
-https://dns.strassmair.org/dns-query
 https://sukidayo.eu.org/dns-query
 https://sundalandia.pp.ua/dns-query
 https://sundalandia.pp.ua/family
@@ -381,7 +386,6 @@ https://www.zburger.top/dns-query
 https://www.zburger.top/dns-query
 https://dns.l6.ee/dns-query
 https://dns.0x55.net/dns-query
-https://dns.4-the.win/dns-query
 https://dns.52306.org/dns-query
 https://dns.9999.sg/dns-query
 https://dns.9999.sg/dns-query

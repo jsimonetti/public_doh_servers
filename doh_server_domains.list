@@ -12,7 +12,6 @@ ada.openbld.net
 adblock-dot.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
-adblock.indianets.net
 adblock.mydns.network
 adblockersite.com
 adfree.usableprivacy.net
@@ -38,6 +37,7 @@ anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 asia.dnscepat.id
 au.rslvr.eu
+au01.dns4me.net
 awan.ftp.sh
 b-ii.com
 b.family.ns.dnslify.com
@@ -48,6 +48,7 @@ basic.bravedns.com
 bl.eq.md
 blitz.ahadns.com
 bravedns.com
+ca01.dns4me.net
 canadianshield.cira.ca
 catdns.org
 chrome.cloudflare-dns.com
@@ -74,7 +75,6 @@ dns-privacy.puregeni.us
 dns-tls.bitwiseshift.net
 dns-unfiltered.adguard.com
 dns.0x55.net
-dns.4-the.win
 dns.52306.org
 dns.9999.sg
 dns.a47.me
@@ -197,7 +197,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.slinkyman.net
 dns.smartguard.io
-dns.strassmair.org
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
@@ -276,7 +275,6 @@ doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
 doh.cleanbrowsing.org
-doh.cnetwork.cloud
 doh.crypto.sx
 doh.defaultroutes.de
 doh.disconnect.app
@@ -424,6 +422,7 @@ ns2.dnsprivacy.at
 ns2.recursive.dnsbycomodo.com
 ny1.nixnet.xyz
 nyc01.dnscry.pt
+nz01.dns4me.net
 odvr.nic.cz
 one.one.one.one
 open.dns0.eu
@@ -443,6 +442,7 @@ phx01.dnscry.pt
 pi1.node15.com
 pihole.aws.ketan.dev
 pooblet.co.za
+privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
 protected.canadianshield.cira.ca
@@ -466,12 +466,14 @@ rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
 rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
+sa01.dns4me.net
 safeservedns.com
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg.rslvr.eu
+sg01.dns4me.net
 sin01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
@@ -490,11 +492,13 @@ tls-dns-u.odvr.dns-oarc.net
 tpa01.dnscry.pt
 trf01.dnscry.pt
 truta.org
+uk01.dns4me.net
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
 unicast.censurfridns.dk
 unicast.uncensoreddns.org
 us.rslvr.eu
+us01.dns4me.net
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 virga.pp.ua
