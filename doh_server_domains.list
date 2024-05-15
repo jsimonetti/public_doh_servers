@@ -1,3 +1,4 @@
+0ms.dev
 1.dns.noridev.moe
 1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.dns.seby.io
@@ -207,7 +208,6 @@ dns.thegoodsource.net
 dns.tls-data.de
 dns.tryk.app
 dns.twnic.tw
-dns.txq.life
 dns.unx.io
 dns.wahr.top
 dns.wang.art
@@ -270,10 +270,12 @@ doh.appliedprivacy.net
 doh.archuser.org
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.b86.nl
 doh.blockerdns.com
 doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.chi.ahadns.net
+doh.cippapp.com
 doh.cleanbrowsing.org
 doh.crypto.sx
 doh.defaultroutes.de
@@ -304,6 +306,7 @@ doh.luigi.nexific.it
 doh.lv
 doh.manish.ltd
 doh.maskab.com
+doh.max.net.id
 doh.mullvad.net
 doh.netweaver.uk
 doh.nic.lv
@@ -319,6 +322,7 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.powerdns.org
 doh.pub
+doh.qis.io
 doh.runsel.id
 doh.safesurfer.io
 doh.sandbox.opendns.com
@@ -330,6 +334,7 @@ doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
 doh.valscosmos.com
+doh.viatech.com.tw
 doh.westus.pi-dns.com
 doh.xfinity.com
 doh.xyz
@@ -477,6 +482,7 @@ sg01.dns4me.net
 sin01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
+snoke.meganerd.nl
 sof01.dnscry.pt
 spacedns.org
 steering.nextdns.io
