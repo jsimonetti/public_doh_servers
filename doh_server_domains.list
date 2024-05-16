@@ -124,6 +124,7 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.east.comss.one
+dns.editechstudio.com
 dns.emiliyan.com
 dns.engineer.web.id
 dns.enzonix.com
@@ -161,6 +162,7 @@ dns.levonet.sk
 dns.lista.my.id
 dns.lobbygod.com
 dns.mandre.dev
+dns.mateo.ovh
 dns.mihanentalpo.me
 dns.mnet-online.de
 dns.mrkaran.dev
@@ -186,13 +188,13 @@ dns.pub
 dns.pumplex.com
 dns.quad9.net
 dns.rbn.gr
+dns.repinger.my.id
 dns.retakecs.com
 dns.rin.sh
 dns.rotunneling.net
 dns.rubyfish.cn
 dns.saneaki.com
 dns.sarilouis.com
-dns.seiffert.me
 dns.sheggi.ch
 dns.silen.org
 dns.silentlybren.com
@@ -209,6 +211,7 @@ dns.tls-data.de
 dns.tryk.app
 dns.twnic.tw
 dns.unx.io
+dns.velyn.my.id
 dns.wahr.top
 dns.wang.art
 dns.warma.me
@@ -294,6 +297,7 @@ doh.ffmuc.net
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
+doh.infotek.net.id::3443
 doh.it.ahadns.net
 doh.kekew.info
 doh.kooman.org
@@ -340,6 +344,7 @@ doh.xfinity.com
 doh.xyz
 doh1.b-cdn.net
 doh1.blahdns.com
+doh1.infotek.net.id::3443
 doh2.abmb.win
 doh2.b-cdn.net
 doh2.blahdns.com
@@ -386,7 +391,6 @@ geg01.dnscry.pt
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-hk.rslvr.eu
 ibksturm.synology.me
 ibuki.cgnat.net
 ikarosalpha.xyz
@@ -418,6 +422,7 @@ ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
 ns.ral9005.org
+ns.trcnet.fi
 ns0.fdn.fr
 ns1.dnsprivacy.at
 ns1.fdn.fr
