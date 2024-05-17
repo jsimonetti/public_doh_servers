@@ -125,6 +125,7 @@ dns.doh.best
 dns.dotnet.win
 dns.east.comss.one
 dns.editechstudio.com
+dns.eliv.co.kr
 dns.emiliyan.com
 dns.engineer.web.id
 dns.enzonix.com
@@ -463,6 +464,9 @@ public.dns.iij.jp
 qlf-doh.inria.fr
 rdns.faelix.net
 rdu01.dnscry.pt
+resolv1.trash.net
+resolv2.trash.net
+resolv3.trash.net
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.sunet.se
