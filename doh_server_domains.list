@@ -27,7 +27,6 @@ adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
-adguard.twotigers.xyz
 ads-doh.securedns.eu
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
@@ -130,7 +129,6 @@ dns.emiliyan.com
 dns.engineer.web.id
 dns.enzonix.com
 dns.expert
-dns.extrawdw.net
 dns.fancyorg.at
 dns.flatuslifir.is
 dns.freyja.pw
@@ -216,6 +214,7 @@ dns.velyn.my.id
 dns.wahr.top
 dns.wang.art
 dns.warma.me
+dns.wixxm.asia
 dns.wugui.zone
 dns.yatima.tv
 dns0.eu
@@ -229,6 +228,7 @@ dns1.in.newpangea.de
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.pietjacobs.be
+dns1.ryan-palmer.com
 dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns10.quad9.net
@@ -392,6 +392,7 @@ geg01.dnscry.pt
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+helios.plan9-dns.com
 ibksturm.synology.me
 ibuki.cgnat.net
 ikarosalpha.xyz
@@ -406,6 +407,7 @@ kaitain.restena.lu
 kids.dns0.eu
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
+kronos.plan9-dns.com
 lax01.dnscry.pt
 lindung.pp.ua
 llk01.dnscry.pt
@@ -452,6 +454,7 @@ phl01.dnscry.pt
 phx01.dnscry.pt
 pi1.node15.com
 pihole.aws.ketan.dev
+pluton.plan9-dns.com
 pooblet.co.za
 privacy.plumedns.com
 privacydns.go6lab.si
@@ -482,6 +485,7 @@ rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
+sby-doh.limotelu.org
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
@@ -502,6 +506,7 @@ sundalandia.pp.ua
 sunnygyl.com
 syd.adfilter.net
 testguard.meexx.de
+tirapan.top
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tpa01.dnscry.pt
