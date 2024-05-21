@@ -44,7 +44,6 @@ https://dns.brahma.world/dns-query
 https://stratus.bugz.fr/dns-query
 https://stratus.bugz.fr/dns-query
 https://doh.aaaab3n.moe/dns-query-114514
-https://dns.carson-family.com/dns-query
 https://dns.carter.me/dns-query
 https://catdns.org/dns-query
 https://dns.chadeyron.fr/dns-query
@@ -163,7 +162,6 @@ https://dns.enzonix.com/dns-query
 https://dns.engineer.web.id/dns-query
 https://bl.eq.md/dns-query
 https://bl.eq.md/dns-query
-https://doh.manish.ltd/dns-query
 https://dnsvps.familiamv.net/dns-query
 https://dns.fancyorg.at/dns-query
 https://ns0.fdn.fr/dns-query
@@ -176,6 +174,7 @@ https://dns.fullaccesstointernet.jp.eu.org/dns-query
 https://dns.fullaccesstointernet.jp.eu.org/dns-query
 https://dns.gamban.com/dns-query
 https://dns.freyja.pw/dns-query
+https://dns.glorydns.com/dns-query
 https://dns.google/dns-query
 https://dns64.dns.google/dns-query
 https://8888.google/dns-query
@@ -205,7 +204,6 @@ https://yunyun.is.my.waifu.cz/dns-query
 https://darkness.is.my.waifu.cz/dns-query
 https://jackyes.ovh/dns-query
 https://dns.janl.eu/dns-query
-https://dns.hahnjo.de/dns-query
 https://jp.tiar.app/dns-query
 https://jp.tiarap.org/dns-query
 https://ad.justincounts.com/dns-query
@@ -214,6 +212,7 @@ https://dns.keke125.com/dns-query
 https://doh.kekew.info/dns-query
 https://dns.kerekes.xyz/dns-query
 https://dns.kescher.at/dns-query
+https://noad.kipp.cool/dns-query
 https://adguard.avdkishore.dev/dns-query
 https://dns.koala.us.to/dns-query
 https://doh.kooman.org/dns-query
@@ -230,11 +229,11 @@ https://eu1.dns.lavate.ch/dns-query
 https://dns.levonet.sk/dns-query
 https://doh.libredns.gr/dns-query
 https://doh.libredns.gr/noads
-https://sby-doh.limotelu.org/dns-query
 https://lindung.pp.ua/dns-query
 https://lindung.pp.ua/family
 https://dns.lista.my.id/dns-query
 https://dns.lobbygod.com/dns-query
+https://ca.loii.in/dns-query
 https://doh.phdns1.lonet.org/dns-query
 https://doh.phdns2.lonet.org/dns-query
 https://doh.phdns1.lonet.org/dns-query
@@ -272,9 +271,7 @@ https://nenam.eu/dns-query
 https://dns1.us.newpangea.de/dns-query
 https://dns1.au.newpangea.de/dns-query
 https://dns1.in.newpangea.de/dns-query
-https://dns1.sg.newpangea.de/dns-query
 https://dns1.pl.newpangea.de/dns-query
-https://dns1.fi.newpangea.de/dns-query
 https://doh.luigi.nexific.it/dns-query
 https://dns.nextdns.io
 https://dns.nhtsky.com/dns-query
@@ -346,6 +343,7 @@ https://ns1.sc-lezhi.com/dns-query
 https://dns.sheggi.ch/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://adguard.shutgaming.net/dns-query
+https://signsservers.ru/dns-query
 https://dns.silen.org/dns-query
 https://dns.silentlybren.com/dns-query
 https://dns.slinkyman.net/dns-query

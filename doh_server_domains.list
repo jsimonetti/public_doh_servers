@@ -48,6 +48,7 @@ basic.bravedns.com
 bl.eq.md
 blitz.ahadns.com
 bravedns.com
+ca.loii.in
 ca01.dns4me.net
 canadianshield.cira.ca
 catdns.org
@@ -95,7 +96,6 @@ dns.bitgeek.in
 dns.bitservices.io
 dns.blokada.org
 dns.brahma.world
-dns.carson-family.com
 dns.carter.me
 dns.cfiec.net
 dns.chadeyron.fr
@@ -134,10 +134,10 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
+dns.glorydns.com
 dns.google
 dns.google.com
 dns.guard.io
-dns.hahnjo.de
 dns.henek.ovh
 dns.hinet.net
 dns.horcrux.vip
@@ -220,7 +220,6 @@ dns01.flm9.net
 dns1.au.newpangea.de
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
-dns1.fi.newpangea.de
 dns1.in-berlin.de
 dns1.in.newpangea.de
 dns1.nextdns.io
@@ -228,7 +227,6 @@ dns1.nordvpn.com
 dns1.pietjacobs.be
 dns1.pl.newpangea.de
 dns1.ryan-palmer.com
-dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns10.quad9.net
 dns11.quad9.net
@@ -306,7 +304,6 @@ doh.libredns.gr
 doh.libredns.org
 doh.luigi.nexific.it
 doh.lv
-doh.manish.ltd
 doh.maskab.com
 doh.max.net.id
 doh.mullvad.net
@@ -417,6 +414,7 @@ mozilla.cloudflare-dns.com
 muc01.dnscry.pt
 nenam.eu
 nl.rslvr.eu
+noad.kipp.cool
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
@@ -481,13 +479,13 @@ rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
-sby-doh.limotelu.org
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 sg.rslvr.eu
 sg01.dns4me.net
+signsservers.ru
 sin01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
