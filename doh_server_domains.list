@@ -26,6 +26,7 @@ adguard.quydang.name.vn
 adguard.ruby.ci
 adguard.shoupperuser.com
 adguard.shutgaming.net
+adl01.dnscry.pt
 ads-doh.securedns.eu
 adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
@@ -36,6 +37,7 @@ anycast.censurfridns.dk
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 asia.dnscepat.id
+atl01.dnscry.pt
 au01.dns4me.net
 awan.ftp.sh
 b-ii.com
@@ -45,6 +47,7 @@ b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
 blitz.ahadns.com
+bom01.dnscry.pt
 bravedns.com
 bud01.dnscry.pt
 ca.loii.in
@@ -65,6 +68,8 @@ deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
+den01.dnscry.pt
+dfw02.dnscry.pt
 dns-asia.wugui.zone
 dns-doh.dnsforfamily.com
 dns-dot.dnsforfamily.com
@@ -109,7 +114,6 @@ dns.daemon.za.net
 dns.decloudus.com
 dns.dev-umbrellagov.com
 dns.developer.li
-dns.diarbagus.id
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-over-https.com
@@ -148,7 +152,6 @@ dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe::9443
 dns.l6.ee
-dns.labnekotest.site
 dns.larsdebruin.net
 dns.levonet.sk
 dns.lista.my.id
@@ -170,7 +173,6 @@ dns.nydau.fr
 dns.oliviertv.co.za
 dns.oszx.co
 dns.paesa.es
-dns.pccoach.nl
 dns.pesaventofilippo.com
 dns.phillipjberry.net
 dns.powerbs.net
@@ -310,7 +312,6 @@ doh.pi-dns.com
 doh.pl.ahadns.net
 doh.powerdns.org
 doh.pub
-doh.qis.io
 doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
@@ -347,6 +348,7 @@ dot.securedns.eu
 dot.tiar.app
 dot.westus.pi-dns.com
 doth.huque.com
+dtw01.dnscry.pt
 dukun.de
 dus01.dnscry.pt
 ea-dns.rubyfish.cn
@@ -364,10 +366,12 @@ family.dns.mullvad.net
 family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
+fet01.dnscry.pt
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
 firefox.dns.nextdns.io
 fjr01.dnscry.pt
+fnt01.dnscry.pt
 fra01.dnscry.pt
 free.bravedns.com
 freedns.controld.com
@@ -379,6 +383,7 @@ google-public-dns-b.google.com
 gva01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
+hkg01.dnscry.pt
 hrk01.dnscry.pt
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -397,10 +402,14 @@ kiv01.dnscry.pt
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
+las01.dnscry.pt
 lax01.dnscry.pt
+lax02.dnscry.pt
+lim01.dnscry.pt
 lindung.pp.ua
 llk01.dnscry.pt
 lon01.dnscry.pt
+los01.dnscry.pt
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mad01.dnscry.pt
@@ -409,6 +418,7 @@ megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
+mru01.dnscry.pt
 muc01.dnscry.pt
 naw01.dnscry.pt
 nenam.eu
@@ -435,6 +445,7 @@ one.one.one.one
 open.dns0.eu
 ord01.dnscry.pt
 ordns.he.net
+ott01.dnscry.pt
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -444,6 +455,8 @@ paranoia.mydns.network
 paulo.nom.za
 pdns.faelix.net
 pdns.krctechnologies.net
+pdx01.dnscry.pt
+ped01.dnscry.pt
 per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
@@ -479,6 +492,7 @@ rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
+sea01.dnscry.pt
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
@@ -486,6 +500,8 @@ security.cloudflare-dns.com
 sg01.dns4me.net
 signsservers.ru
 sin01.dnscry.pt
+sin02.dnscry.pt
+sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
 snoke.meganerd.nl
@@ -498,13 +514,18 @@ sukidayo.eu.org
 sundalandia.pp.ua
 sunnygyl.com
 syd.adfilter.net
+syd01.dnscry.pt
 testguard.meexx.de
 tirapan.top
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tpa01.dnscry.pt
+tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
+tsm01.dnscry.pt
+tyo01.dnscry.pt
+tyo02.dnscry.pt
 uk01.dns4me.net
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
@@ -522,4 +543,6 @@ www.zburger.top
 xray.krnl.eu
 yarp.lefolgoc.net
 yunyun.is.my.waifu.cz
+yyz01.dnscry.pt
+zal01.dnscry.pt
 zero.dns0.eu
