@@ -13,6 +13,7 @@ a.ns.dnslify.com
 a.safe.ns.dnslify.com
 abe01.dnscry.pt
 abel.waringer-atg.de
+ad.johnwick.me
 ad.justincounts.com
 ada.openbld.net
 adblock-dot.dnswarden.com
@@ -35,6 +36,7 @@ adguard.bonis.de
 adguard.cloudmini.net
 adguard.gambini.org
 adguard.konikoni428.com
+adguard.leadseason.eu
 adguard.meddy94.de
 adguard.quydang.name.vn
 adguard.rowdyengeesje.nl
@@ -52,6 +54,7 @@ ag.apollohct.com
 agh.dshubham.xyz
 agh.kyusang.win
 agh.workfordemo.co.in
+albertocognetti.com
 all.dns.mullvad.net
 alleesph.online
 anycast.censurfridns.dk
@@ -69,7 +72,6 @@ b.ns.dnslify.com
 b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
-blackhole.gugainfo.com.br
 blitz.ahadns.com
 blocker.thethorsens.org
 bom01.dnscry.pt
@@ -134,6 +136,7 @@ dns.bitgeek.in
 dns.bitservices.io
 dns.blokada.org
 dns.brahma.world
+dns.bravoc.one
 dns.carter.me
 dns.cfiec.net
 dns.chadeyron.fr
@@ -161,6 +164,8 @@ dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.doh.best
+dns.dooks.uk
+dns.doserver.top
 dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
@@ -170,6 +175,8 @@ dns.eliv.co.kr
 dns.emiliyan.com
 dns.engineer.web.id
 dns.enzonix.com
+dns.esnube.es
+dns.everdns.tech
 dns.expert
 dns.extrawdw.net
 dns.fancyorg.at
@@ -184,6 +191,7 @@ dns.guard.io
 dns.henek.ovh
 dns.hinet.net
 dns.hostux.net
+dns.huas.me
 dns.hypercute.eu
 dns.ian.rocks
 dns.indust.me
@@ -223,15 +231,18 @@ dns.neutopia.org
 dns.nextdns.io
 dns.nhtsky.com
 dns.nixnet.xyz
+dns.nj0.de
 dns.njal.la
 dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns.nydau.fr
+dns.oasg.xyz
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
 dns.ours.luxe
+dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
 dns.pesaventofilippo.com
@@ -246,6 +257,7 @@ dns.rbn.gr
 dns.reckoningslug.name
 dns.retakecs.com
 dns.rin.sh
+dns.rjls.me
 dns.rkjha.com.np
 dns.rotunneling.net
 dns.rubyfish.cn
@@ -261,7 +273,6 @@ dns.silen.org
 dns.silentlybren.com
 dns.sitdns.com
 dns.skrep.eu
-dns.skrzypiec.pl
 dns.slinkyman.net
 dns.smartguard.io
 dns.startupstack.tech
@@ -290,6 +301,7 @@ dns.wixxm.asia
 dns.wugui.zone
 dns.yatima.tv
 dns.yingroad.top
+dns.yumenashyi.com
 dns0.eu
 dns01.flm9.net
 dns1.digitale-gesellschaft.ch
@@ -385,7 +397,6 @@ doh.libredns.org
 doh.luigi.nexific.it
 doh.lv
 doh.maskab.com
-doh.max.net.id
 doh.mcasviper.de
 doh.mmmalia.com
 doh.mullvad.net
@@ -483,6 +494,7 @@ google-public-dns-b.google.com
 gva01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
+hk.ahua.ltd
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hole.elbschloss.xyz
@@ -504,7 +516,6 @@ jkt01.dnscry.pt
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
-justhost.bedro.cloud
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
@@ -531,6 +542,7 @@ mailkyb.co
 masters-of-cloud.de
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
+mikatos.de
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
@@ -541,7 +553,6 @@ naganohara-yoimiya.momokko.moe
 nenam.eu
 netcup.mismat.ch
 nightlymoon.us.kg
-noad.kipp.cool
 ns.00dani.me
 ns.data.haus
 ns.mtsoln.com
@@ -657,7 +668,6 @@ tls-dns-u.odvr.dns-oarc.net
 tor.vasi.li
 tpa01.dnscry.pt
 tpe01.dnscry.pt
-trf01.dnscry.pt
 truta.org
 tsm01.dnscry.pt
 tyo01.dnscry.pt
@@ -674,8 +684,9 @@ uw-dns.rubyfish.cn
 v2.xx3210766.live
 vie01.dnscry.pt
 virga.pp.ua
+voyage-s01.cloudku.technology
+voyage-s02.cloudku.technology
 vpn.technicule.info
-vps.abgnetwork.es
 wantaquddin.com
 waw02.dnscry.pt
 wikimedia-dns.org
