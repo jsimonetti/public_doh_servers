@@ -19,6 +19,7 @@ ada.openbld.net
 adblock-dot.dnswarden.com
 adblock.dns.mullvad.net
 adblock.doh.mullvad.net
+adblock.indianets.net
 adblock.mydns.network
 addns.jpr.space
 addns1.m-it.ro
@@ -41,6 +42,7 @@ adguard.meddy94.de
 adguard.quydang.name.vn
 adguard.rowdyengeesje.nl
 adguard.ruby.ci
+adguard.sealyserver.com
 adguard.shoupperuser.com
 adguard.shutgaming.net
 adguard.sparshbajaj.me
@@ -154,6 +156,7 @@ dns.cretu.xyz
 dns.cynthialabs.net
 dns.d96.info
 dns.daemon.za.net
+dns.decky.eu
 dns.decloudus.com
 dns.dev-umbrellagov.com
 dns.developer.li
@@ -194,12 +197,16 @@ dns.hostux.net
 dns.huas.me
 dns.hypercute.eu
 dns.ian.rocks
+dns.iki.my.id
+dns.immanuelschaffer.de
 dns.indust.me
 dns.indybanipal.com
 dns.inforlogia.com
+dns.janl.eu
 dns.jhangy.us
 dns.jinwoo.dev
 dns.kamilszczepanski.com
+dns.karfamily.net
 dns.kawa.tf
 dns.keke125.com
 dns.kerekes.xyz
@@ -236,6 +243,7 @@ dns.njal.la
 dns.novali.date
 dns.novg.net
 dns.npe.bz
+dns.npsolution.it
 dns.nydau.fr
 dns.oasg.xyz
 dns.ofdoom.net
@@ -245,8 +253,10 @@ dns.ours.luxe
 dns.pacificmonster.com
 dns.paesa.es
 dns.panszelescik.pl
+dns.pccoach.nl
 dns.pesaventofilippo.com
 dns.phillipjberry.net
+dns.ple91.uk
 dns.powerbs.net
 dns.pragmasec.nl
 dns.psociety.de
@@ -255,6 +265,7 @@ dns.pumplex.com
 dns.quad9.net
 dns.rbn.gr
 dns.reckoningslug.name
+dns.renardyre.com
 dns.retakecs.com
 dns.rin.sh
 dns.rjls.me
@@ -266,6 +277,7 @@ dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
 dns.scuola.org
+dns.seiffert.me
 dns.sev.monster
 dns.sheggi.ch
 dns.shimul.me
@@ -297,7 +309,6 @@ dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warpnine.de
-dns.wixxm.asia
 dns.wugui.zone
 dns.yatima.tv
 dns.yingroad.top
@@ -355,6 +366,7 @@ doh.42l.fr
 doh.aaaab3n.moe
 doh.abmb.win
 doh.abraservice.xyz
+doh.amonsul.net
 doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
@@ -415,10 +427,12 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 doh.pi-dns.com
 doh.pl.ahadns.net
+doh.plaawan.uk
 doh.powerdns.org
 doh.pub
 doh.qis.io
 doh.rezhajul.io
+doh.runsel.id
 doh.safesurfer.io
 doh.sandbox.opendns.com
 doh.sb
@@ -491,6 +505,7 @@ geg01.dnscry.pt
 getdnsapi.net
 google-public-dns-a.google.com
 google-public-dns-b.google.com
+guard.thefather.cloud
 gva01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
@@ -638,9 +653,9 @@ secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+senpai.pp.ua
 server01.dr-adguard.de
 sg01.dns4me.net
-shield1.eranext.net
 signsservers.ru
 sin01.dnscry.pt
 sin02.dnscry.pt
