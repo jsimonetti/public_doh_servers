@@ -15,7 +15,6 @@ https://blitz.ahadns.com
 https://blitz.ahadns.com/1
 https://doh.nl.ahadns.net/dns-query
 https://hk.ahua.ltd/dns-query
-https://albertocognetti.com/dns-query
 https://alleesph.online/dns-query
 https://mailer.amlegion.org/dns-query
 https://doh.amonsul.net/dns-query
@@ -69,6 +68,7 @@ https://dns.chenu.ch/dns-query
 https://dns.dooks.uk/dns-query
 https://oraclejp2.chungyu.com/dns-query
 https://c.cicitt.ch/dns-query
+https://doh.cippapp.com/dns-query
 https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://family.canadianshield.cira.ca/dns-query
@@ -151,15 +151,20 @@ https://de01.dns4me.net
 https://jp01.dns4me.net
 https://adl01.dnscry.pt/dns-query
 https://abe01.dnscry.pt/dns-query
+https://ams01.dnscry.pt/dns-query
+https://abn01.dnscry.pt/dns-query
+https://ath01.dnscry.pt/dns-query
 https://atl01.dnscry.pt/dns-query
 https://bud01.dnscry.pt/dns-query
 https://ord01.dnscry.pt/dns-query
 https://kiv01.dnscry.pt/dns-query
 https://coe01.dnscry.pt/dns-query
+https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dfw02.dnscry.pt/dns-query
 https://den01.dnscry.pt/dns-query
 https://dtw01.dnscry.pt/dns-query
+https://dub01.dnscry.pt/dns-query
 https://rdu01.dnscry.pt/dns-query
 https://dus01.dnscry.pt/dns-query
 https://mru01.dnscry.pt/dns-query
@@ -197,6 +202,7 @@ https://phx01.dnscry.pt/dns-query
 https://pdx01.dnscry.pt/dns-query
 https://ped01.dnscry.pt/dns-query
 https://slc01.dnscry.pt/dns-query
+https://trf01.dnscry.pt/dns-query
 https://sjc01.dnscry.pt/dns-query
 https://sea01.dnscry.pt/dns-query
 https://sin01.dnscry.pt/dns-query
@@ -214,6 +220,7 @@ https://tyo02.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
 https://zal01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
+https://vno01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
 https://dnsforge.de/dns-query
 https://clean.dnsforge.de/dns-query
@@ -253,6 +260,7 @@ https://eth.link/dns-query
 https://dns.everdns.tech/dns-query
 https://dns.extrawdw.net/dns-query
 https://dns.extrawdw.net/dns-query
+https://doh.manish.ltd/dns-query
 https://dnsvps.familiamv.net/dns-query
 https://dns.fancyorg.at/dns-query
 https://ns0.fdn.fr/dns-query
@@ -388,7 +396,6 @@ https://paranoia.mydns.network/dns-query
 https://adblock.mydns.network/dns-query
 https://family.mydns.network/dns-query
 https://dns.narl.app/dns-query
-https://dns.neilzone.co.uk/dns-query
 https://nenam.eu/dns-query
 https://dns1.us.newpangea.de/dns-query
 https://dns1.in.newpangea.de/dns-query
@@ -493,7 +500,6 @@ https://ns1.sc-lezhi.com/dns-query
 https://dns.scuola.org/dns-query
 https://adguard.sealyserver.com/dns-query
 https://dns.seiffert.me/dns-query
-https://senpai.pp.ua/dns-query
 https://dns.sev.monster/dns-query
 https://dns.sheggi.ch/dns-query
 https://dns.shimul.me/dns-query
@@ -540,7 +546,6 @@ https://doh.tiarap.org/dns-query
 https://dns.tipsy.coffee/dns-query
 https://tirapan.top/nomen-quaesitum
 https://dns.tls-data.de/dns-query
-https://d.toairs.com/dns-query
 https://dns.apigw.online/dns-query
 https://resolv1.trash.net/trash-dns
 https://resolv2.trash.net/trash-dns
@@ -558,11 +563,10 @@ https://adfree.usableprivacy.net/dns-query
 https://doh.valscosmos.com
 https://tor.vasi.li/dns-query
 https://doh.viatech.com.tw/dns-query
-https://dns.vinnyp.xyz/dns-query
 https://virga.pp.ua/dns-query
 https://virga.pp.ua/porn
-https://killads.vpms.xyz/dns-query
-https://killads.vpms.xyz/dns-query
+https://virga.pp.ua/dns-query
+https://virga.pp.ua/porn
 https://dns.wahr.top/dns-query
 https://dns.wang.art/dns-query
 https://wantaquddin.com/dns-query
