@@ -117,6 +117,7 @@ dns-unfiltered.adguard.com
 dns.0ooo.icu
 dns.0x55.net
 dns.52306.org
+dns.56k.uy
 dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
@@ -142,6 +143,7 @@ dns.blokada.org
 dns.brahma.world
 dns.bravoc.one
 dns.carter.me
+dns.cctld.kg
 dns.cfiec.net
 dns.chadeyron.fr
 dns.chenu.ch
@@ -157,7 +159,6 @@ dns.cooluc.com
 dns.cretu.xyz
 dns.cynthialabs.net
 dns.d96.info
-dns.daemon.za.net
 dns.decky.eu
 dns.decloudus.com
 dns.dev-umbrellagov.com
@@ -207,6 +208,7 @@ dns.inforlogia.com
 dns.janl.eu
 dns.jhangy.us
 dns.jinwoo.dev
+dns.jupitrdns.com
 dns.kamilszczepanski.com
 dns.karfamily.net
 dns.kawa.tf
@@ -315,6 +317,7 @@ dns.yingroad.top
 dns.yumenashyi.com
 dns0.eu
 dns01.flm9.net
+dns1.au.newpangea.de
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.in-berlin.de
@@ -323,8 +326,8 @@ dns1.lothuscorp.com.br
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.pietjacobs.be
-dns1.pl.newpangea.de
 dns1.ryan-palmer.com
+dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns10.quad9.net
 dns11.quad9.net
@@ -396,6 +399,7 @@ doh.eastus.pi-dns.com
 doh.es.ahadns.net
 doh.familyshield.opendns.com
 doh.ffmuc.net
+doh.futa.app
 doh.futa.gg
 doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
@@ -422,11 +426,6 @@ doh.no.ahadns.net
 doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.opendns.com
-doh.phdns1.lonet.org
-doh.phdns2.lonet.org
-doh.phdns3.lonet.org
-doh.phdns4.lonet.org
-doh.phdns5.lonet.org
 doh.pi-dns.com
 doh.pl.ahadns.net
 doh.plaawan.uk
@@ -525,12 +524,12 @@ ie01.dns4me.net
 ihctw.synology.me
 ikarosalpha.xyz
 ist01.dnscry.pt
-jackyes.ovh
 jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
+jnb01.dnscry.pt
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
@@ -716,5 +715,6 @@ your-dns.run
 yovbak.com
 yyz01.dnscry.pt
 zal01.dnscry.pt
+zdn.ro
 zero.dns0.eu
 zuhause.webteufel.net
