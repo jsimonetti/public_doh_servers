@@ -143,8 +143,8 @@ dns.blokada.org
 dns.brahma.world
 dns.bravoc.one
 dns.carter.me
-dns.cctld.kg
 dns.cfiec.net
+dns.ch6se.com
 dns.chadeyron.fr
 dns.chenu.ch
 dns.circl.lu
@@ -198,6 +198,7 @@ dns.henek.ovh
 dns.hinet.net
 dns.hostux.net
 dns.huas.me
+dns.hyas.com
 dns.hypercute.eu
 dns.ian.rocks
 dns.iki.my.id
@@ -237,6 +238,7 @@ dns.mrkaran.dev
 dns.mullvad.net
 dns.n23.io
 dns.narl.app
+dns.neowutran.ovh
 dns.neutopia.org
 dns.nextdns.io
 dns.nhtsky.com
@@ -269,6 +271,7 @@ dns.quad9.net
 dns.rbn.gr
 dns.reckoningslug.name
 dns.renardyre.com
+dns.repinger.my.id
 dns.retakecs.com
 dns.rin.sh
 dns.rjls.me
@@ -295,7 +298,6 @@ dns.stevenz.net
 dns.superstefan.win
 dns.svoi.dev
 dns.switch.ch
-dns.syaifullah.com
 dns.t53.de
 dns.technostriker.com
 dns.telekom.de
@@ -307,6 +309,7 @@ dns.tls-data.de
 dns.twnic.tw
 dns.unerror.network
 dns.unx.io
+dns.wael.name::4433
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
@@ -320,6 +323,7 @@ dns01.flm9.net
 dns1.au.newpangea.de
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
+dns1.hanahira.dev
 dns1.in-berlin.de
 dns1.in.newpangea.de
 dns1.lothuscorp.com.br
@@ -342,6 +346,7 @@ dns64.cloudflare-dns.com
 dns64.dns.google
 dns8.org
 dns9.quad9.net
+dnsdoh.art::444
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
@@ -353,6 +358,7 @@ dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 dnspub.restena.lu
 dnsse.alekberg.net
+dnssilo.top
 dnsvps.familiamv.net
 dnswebvsn.com
 doh-01.spectrum.com
@@ -363,6 +369,7 @@ doh-ch.blahdns.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh-rs.whalebone.io
 doh-sg.blahdns.com
 doh.360.cn
 doh.42l.fr
@@ -396,6 +403,7 @@ doh.dnswarden.com
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
+doh.eddi.net
 doh.es.ahadns.net
 doh.familyshield.opendns.com
 doh.ffmuc.net
@@ -599,6 +607,7 @@ oraclejp2.chungyu.com
 ord01.dnscry.pt
 ordns.he.net
 ott01.dnscry.pt
+outdoor.v6.army
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -695,6 +704,7 @@ unicast.censurfridns.dk
 unicast.uncensoreddns.org
 us01.dns4me.net
 us02.dns4me.net
+us1.blissdns.net
 us1.dns.lavate.ch
 uw-dns.rubyfish.cn
 v2.xx3210766.live
