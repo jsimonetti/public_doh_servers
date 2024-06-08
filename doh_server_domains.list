@@ -23,7 +23,6 @@ adblock.doh.mullvad.net
 adblock.indianets.net
 adblock.mydns.network
 addns.jpr.space
-addns1.m-it.ro
 adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
@@ -55,6 +54,7 @@ adult-filter-dns.cleanbrowsing.org
 adult-filter-dot.dnswarden.com
 ag.apollohct.com
 agh.dshubham.xyz
+agh.ero-sayhi.com
 agh.kyusang.win
 agh.workfordemo.co.in
 all.dns.mullvad.net
@@ -143,6 +143,7 @@ dns.blokada.org
 dns.brahma.world
 dns.bravoc.one
 dns.carter.me
+dns.cctld.kg
 dns.cfiec.net
 dns.ch6se.com
 dns.chadeyron.fr
@@ -171,7 +172,6 @@ dns.dnsoverhttps.net
 dns.dnswarden.com
 dns.doh.best
 dns.dooks.uk
-dns.doserver.top
 dns.dyn1.de
 dns.east.comss.one
 dns.edison42.dev
@@ -242,6 +242,7 @@ dns.neowutran.ovh
 dns.neutopia.org
 dns.nextdns.io
 dns.nhtsky.com
+dns.ningkelle.id
 dns.nixnet.xyz
 dns.nj0.de
 dns.njal.la
@@ -309,6 +310,7 @@ dns.tls-data.de
 dns.twnic.tw
 dns.unerror.network
 dns.unx.io
+dns.velyn.my.id
 dns.wael.name::4433
 dns.wahr.top
 dns.wang.art
@@ -331,7 +333,6 @@ dns1.nextdns.io
 dns1.nordvpn.com
 dns1.pietjacobs.be
 dns1.ryan-palmer.com
-dns1.sg.newpangea.de
 dns1.us.newpangea.de
 dns10.quad9.net
 dns11.quad9.net
@@ -344,9 +345,7 @@ dns2.nextdns.io
 dns2.nordvpn.com
 dns64.cloudflare-dns.com
 dns64.dns.google
-dns8.org
 dns9.quad9.net
-dnsdoh.art::444
 dnses.alekberg.net
 dnsforge.de
 dnslow.me
@@ -373,9 +372,11 @@ doh-rs.whalebone.io
 doh-sg.blahdns.com
 doh.360.cn
 doh.42l.fr
+doh.978159.xyz
 doh.aaaab3n.moe
 doh.abmb.win
 doh.abraservice.xyz
+doh.airwaynet.cz
 doh.amonsul.net
 doh.apad.pro
 doh.applied-privacy.net
@@ -394,6 +395,7 @@ doh.cleanbrowsing.org
 doh.cornes.me
 doh.crypto.sx
 doh.defaultroutes.de
+doh.denypradana.com
 doh.disconnect.app
 doh.dns.apple.com
 doh.dns.sb
@@ -413,6 +415,8 @@ doh.gcp.pathofgrace.com
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
+doh.iucc.ac.il
+doh.kel.pe
 doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
@@ -497,6 +501,7 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
+family.dns.ningkelle.id
 family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
@@ -572,7 +577,6 @@ mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
-n0.eu
 naganohara-yoimiya.momokko.moe
 nenam.eu
 netcup.mismat.ch
@@ -590,9 +594,7 @@ ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.dnsprivacy.at
 ns2.recursive.dnsbycomodo.com
-ns3.com
-ns3.cx
-ns3.link
+nsec.arnor.org
 nue01.dnscry.pt
 nue2.moderateinfra.net
 ny1.nixnet.xyz
@@ -640,11 +642,13 @@ rdu01.dnscry.pt
 resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
+resolve.corpa.me
 resolver-eu.lelux.fi
 resolver.noaddns.com
 resolver.sunet.se
 resolver.unstoppable.io
 resolver1-fs.opendns.com
+resolver1.absolight.net
 resolver1.opendns.com
 resolver2-fs.opendns.com
 resolver2.absolight.net
