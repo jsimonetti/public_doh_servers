@@ -1,6 +1,5 @@
 1.0rz.space
 1.dns.noridev.moe
-1a.ns.ozer.im
 1dot1dot1dot1.cloudflare-dns.com
 2.0rz.space
 2.dns.noridev.moe
@@ -386,6 +385,7 @@ doh.appliedprivacy.net
 doh.archuser.org
 doh.armadillodns.net
 doh.au.ahadns.net
+doh.beauty
 doh.blockerdns.com
 doh.bt.com
 doh.buzz
@@ -526,7 +526,6 @@ guard.thefather.cloud
 gva01.dnscry.pt
 hel01.dnscry.pt
 helios.plan9-dns.com
-hk.ahua.ltd
 hkg02.dnscry.pt
 hole.elbschloss.xyz
 home.wriedts.de
@@ -564,6 +563,7 @@ lindung.pp.ua
 llk01.dnscry.pt
 lon01.dnscry.pt
 los01.dnscry.pt
+luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 mad01.dnscry.pt
@@ -579,6 +579,7 @@ mru01.dnscry.pt
 muc01.dnscry.pt
 muli.stusta.mhn.de
 naganohara-yoimiya.momokko.moe
+nana-is.so-gorgeo.us.kg
 nenam.eu
 netcup.mismat.ch
 nightlymoon.us.kg
@@ -629,6 +630,7 @@ pi1.node15.com
 pihole.aws.ketan.dev
 pluton.plan9-dns.com
 pooblet.co.za
+princez.uk
 privacy.plumedns.com
 privacydns.go6lab.si
 private.canadianshield.cira.ca
@@ -676,7 +678,6 @@ sin02.dnscry.pt
 sjc01.dnscry.pt
 sky.rethinkdns.com
 slc01.dnscry.pt
-socolov.home.ro
 sof01.dnscry.pt
 spacedns.org
 steering.nextdns.io
@@ -690,6 +691,7 @@ syd01.dnscry.pt
 testadguardhome.adtidy.net
 testaghome.meshkov.info
 testguard.meexx.de
+tetty-is.so-gorgeo.us.kg
 tirapan.top
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
@@ -725,9 +727,12 @@ www.dnsadguard.co.uk
 www.zburger.top
 xray.krnl.eu
 yarp.lefolgoc.net
+yeralin.net
 your-dns.run
 yovbak.com
+yunyun.is.my.waifu.cz
 yyz01.dnscry.pt
+zakaria.website
 zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
