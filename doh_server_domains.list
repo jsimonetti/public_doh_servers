@@ -21,7 +21,6 @@ adblock.dns.mullvad.net
 adblock.doh.mullvad.net
 adblock.indianets.net
 adblock.mydns.network
-addns.jpr.space
 adfiltro.fun
 adfree.usableprivacy.net
 adfreedns.top
@@ -35,11 +34,17 @@ adguard.abd.ong
 adguard.avdkishore.dev
 adguard.bonis.de
 adguard.cloudmini.net
+adguard.dantynes.cyou
+adguard.foxcross.de
 adguard.gambini.org
+adguard.jakinet.id
 adguard.konikoni428.com
 adguard.leadseason.eu
+adguard.maison.gifino.fr
 adguard.meddy94.de
+adguard.netkolik.org
 adguard.quydang.name.vn
+adguard.relskor.com
 adguard.rowdyengeesje.nl
 adguard.ruby.ci
 adguard.sealyserver.com
@@ -66,6 +71,7 @@ anycast.censurfridns.dk
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 asia.dnscepat.id
+atelier.alica.idv.tw
 ath01.dnscry.pt
 atl01.dnscry.pt
 au01.dns4me.net
@@ -148,14 +154,12 @@ dns.blokada.org
 dns.brahma.world
 dns.bravoc.one
 dns.carter.me
-dns.cctld.kg
 dns.cert.ee
 dns.cfiec.net
 dns.ch6se.com
 dns.chadeyron.fr
 dns.chenu.ch
 dns.circl.lu
-dns.clanto.cloud
 dns.cloud.ionutl.ro
 dns.cloudflare.com
 dns.cmrg.net
@@ -166,6 +170,7 @@ dns.cretu.xyz
 dns.csa-rz.de
 dns.cynthialabs.net
 dns.d96.info
+dns.dallinbryce.com
 dns.decky.eu
 dns.decloudus.com
 dns.dev-umbrellagov.com
@@ -186,9 +191,7 @@ dns.electrotm.org
 dns.eliv.co.kr
 dns.emiliyan.com
 dns.engineer.web.id
-dns.enzonix.com
 dns.esnube.es
-dns.everdns.tech
 dns.expert
 dns.extrawdw.net
 dns.fancyorg.at
@@ -204,7 +207,6 @@ dns.henek.ovh
 dns.hinet.net
 dns.hostux.net
 dns.huas.me
-dns.hyas.com
 dns.hypercute.eu
 dns.ian.rocks
 dns.iki.my.id
@@ -247,7 +249,6 @@ dns.neowutran.ovh
 dns.neutopia.org
 dns.nextdns.io
 dns.nhtsky.com
-dns.ningkelle.id
 dns.nixnet.xyz
 dns.nj0.de
 dns.njal.la
@@ -289,7 +290,6 @@ dns.saneaki.com
 dns.sarak.as
 dns.sarilouis.com
 dns.scarx.net
-dns.scuola.org
 dns.sec511.com
 dns.seiffert.me
 dns.sev.monster
@@ -497,6 +497,7 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 ecs-doh.dnswarden.com
 edgy-dns.com
+eka.dilli.dev
 eliatofani.ovh
 eropa.dnscepat.id
 eth.link
@@ -509,7 +510,6 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
-family.dns.ningkelle.id
 family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
@@ -548,13 +548,13 @@ jcdns.fun
 jit.ddns.net
 jkdns.me
 jkt01.dnscry.pt
-jnb01.dnscry.pt
 jp.tiar.app
 jp.tiarap.org
 jp01.dns4me.net
 kaitain.restena.lu
 kids.5ososea.com
 kids.dns0.eu
+kiri.nonexiste.net
 kiv01.dnscry.pt
 korzhov.dev
 kracon.anycast.censurfridns.dk
@@ -568,7 +568,6 @@ lim01.dnscry.pt
 lindung.pp.ua
 llk01.dnscry.pt
 lon01.dnscry.pt
-los01.dnscry.pt
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -603,7 +602,6 @@ ns1.opennameserver.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
 ns2.dnsprivacy.at
-ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
 ns3.opennameserver.org
 ns4.opennameserver.org
@@ -622,7 +620,6 @@ oraclejp2.chungyu.com
 ord01.dnscry.pt
 ordns.he.net
 ott01.dnscry.pt
-outdoor.v6.army
 p0.freedns.controld.com
 p1.freedns.controld.com
 p2.freedns.controld.com
@@ -649,6 +646,7 @@ protected.canadianshield.cira.ca
 ps1.modr.club
 public-dns-a.dns.sb
 public-dns-b.dns.sb
+public.deepdns.net
 public.dns.iij.jp
 qlf-doh.inria.fr
 rdns.faelix.net
@@ -669,6 +667,8 @@ resolver2.absolight.net
 resolver2.opendns.com
 resolver3.absolight.net
 resov.wehao.net
+rfree1.blue-shield.at
+rfree2.blue-shield.at
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
 ric.openbld.net
@@ -734,8 +734,7 @@ vpn.technicule.info
 wantaquddin.com
 waw02.dnscry.pt
 wikimedia-dns.org
-www.dnsadguard.co.uk
-www.morbitzer.de
+www.jabber-germany.de
 www.zburger.top
 xray.krnl.eu
 yarp.lefolgoc.net
