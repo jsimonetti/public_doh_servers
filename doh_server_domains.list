@@ -71,7 +71,6 @@ anycast.censurfridns.dk
 anycast.uncensoreddns.org
 aqua.is.my.waifu.cz
 asia.dnscepat.id
-atelier.alica.idv.tw
 ath01.dnscry.pt
 atl01.dnscry.pt
 au01.dns4me.net
@@ -88,7 +87,6 @@ blitz.ahadns.com
 blocker.thethorsens.org
 bom01.dnscry.pt
 bravedns.com
-bud01.dnscry.pt
 c.cicitt.ch
 ca.loii.in
 ca01.dns4me.net
@@ -142,7 +140,6 @@ dns.aquilenet.fr
 dns.arapurayil.com
 dns.artikel10.org
 dns.asterimoon.com
-dns.axto.me
 dns.b33.network
 dns.b612.me
 dns.baishiyuan.cn
@@ -200,6 +197,7 @@ dns.freyja.pw
 dns.froth.zone
 dns.fullaccesstointernet.jp.eu.org
 dns.gamban.com
+dns.girino.org
 dns.google
 dns.google.com
 dns.guard.io
@@ -230,6 +228,7 @@ dns.kosan.moe
 dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe::9443
+dns.kuuhaku.moe
 dns.l337.site
 dns.l6.ee
 dns.lars-lehmann.net
@@ -256,7 +255,6 @@ dns.novali.date
 dns.novg.net
 dns.npe.bz
 dns.npsolution.it
-dns.nydau.fr
 dns.oasg.xyz
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -281,7 +279,7 @@ dns.reckoningslug.name
 dns.renardyre.com
 dns.repinger.my.id
 dns.retakecs.com
-dns.rin.sh
+dns.richoux.me
 dns.rjls.me
 dns.rkjha.com.np
 dns.rotunneling.net
@@ -322,19 +320,16 @@ dns.wael.name::4433
 dns.wahr.top
 dns.wang.art
 dns.wargan.io
-dns.warpnine.de
 dns.wugui.zone
 dns.yatima.tv
 dns.yingroad.top
 dns.yumenashyi.com
 dns0.eu
-dns01.flm9.net
 dns1.au.newpangea.de
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.hanahira.dev
 dns1.in-berlin.de
-dns1.in.newpangea.de
 dns1.lothuscorp.com.br
 dns1.nextdns.io
 dns1.nordvpn.com
@@ -677,6 +672,7 @@ rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
 sea01.dnscry.pt
+secure-dns.gridlax.com
 secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
@@ -743,7 +739,6 @@ your-dns.run
 yovbak.com
 yyz01.dnscry.pt
 zakaria.website
-zal01.dnscry.pt
 zdn.ro
 zero.dns0.eu
 zuhause.webteufel.net
