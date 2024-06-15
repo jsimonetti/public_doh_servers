@@ -1,5 +1,4 @@
 https://adguard.abd.ong/dns-query
-https://doh.abraservice.xyz/dns-query
 https://resolver1.absolight.net/dns-query
 https://resolver2.absolight.net/dns-query
 https://resolver3.absolight.net/dns-query
@@ -91,7 +90,6 @@ https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://voyage-s01.cloudku.technology/dns-query
 https://voyage-s02.cloudku.technology/dns-query
-https://adguard.cloudmini.net/dns-query
 https://dns.comss.one/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
@@ -119,7 +117,6 @@ https://resolve.corpa.me/dns-query
 https://dns.cooluc.com/dns-query
 https://dns.cooluc.com/dns-query-ad
 https://dns.cretu.xyz/dns-query
-https://public.deepdns.net/dns-query
 https://dns.csa-rz.de/dns-query
 https://cubedns.com/dns-query
 https://dns.cynthialabs.net/dns-query
@@ -220,7 +217,6 @@ https://tpe01.dnscry.pt/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://tsm01.dnscry.pt/dns-query
-https://tyo01.dnscry.pt/dns-query
 https://tyo02.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
@@ -327,7 +323,6 @@ https://www.jabber-germany.de/dns-query
 https://adguard.jakinet.id/dns-query
 https://dns.janl.eu/dns-query
 https://dns.jhangy.us/dns-query
-https://dns.jinwoo.dev/dns-query
 https://jkdns.me/dns-query
 https://ad.johnwick.me/dns-query
 https://dns.jupitrdns.com/dns-query
@@ -483,9 +478,10 @@ https://dns.quad9.net/dns-query
 https://dns10.quad9.net/dns-query
 https://dns11.quad9.net/dns-query
 https://dns12.quad9.net/dns-query
-https://adguard.quydang.name.vn/dns-query
-https://adguard.quydang.name.vn/dns-query
-https://dns.rafn.is/dns-query
+https://dns.quad9.net/dns-query
+https://dns10.quad9.net/dns-query
+https://dns11.quad9.net/dns-query
+https://dns12.quad9.net/dns-query
 https://ns.ral9005.org/dns-query
 https://la.ray0512.win/dns-query
 https://dns.renardyre.com/dns-query
@@ -499,15 +495,13 @@ https://sky.rethinkdns.com/1
 https://doh.rezhajul.io/dns-query
 https://dns.richoux.me/dns-query
 https://dns.rjls.me/dns-query
-https://dns.rkjha.com.np/dns-query
 https://dns.rbn.gr/dns-query
 https://dns.rotunneling.net/dns-query/public
 https://adguard.rowdyengeesje.nl/dns-query
 https://adguard.ruby.ci/dns-query
 https://adg.rueiliu.space/dns-query
 https://doh.runsel.id/dns-query
-https://dns1.ryan-palmer.com/dns-query
-https://dns1.ryan-palmer.com/dns-query
+https://doh.runsel.id/dns-query
 https://doh.safesurfer.io/dns-query
 https://safeservedns.com/dns-query
 https://dns.saneaki.com/dns-query
