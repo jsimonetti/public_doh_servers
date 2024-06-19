@@ -33,7 +33,6 @@ adguard.avdkishore.dev
 adguard.bonis.de
 adguard.dantynes.cyou
 adguard.gambini.org
-adguard.jakinet.id
 adguard.konikoni428.com
 adguard.leadseason.eu
 adguard.maison.gifino.fr
@@ -105,6 +104,7 @@ deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
 deic-ore.anycast.censurfridns.dk
 deic-ore.anycast.uncensoreddns.org
+delegated-ipfs.dev
 den01.dnscry.pt
 dfw02.dnscry.pt
 dns-1.wil.cloud
@@ -130,13 +130,13 @@ dns.adguard.com
 dns.alekberg.net
 dns.alidns.com
 dns.applewebkit.dev
-dns.aquilenet.fr
 dns.arapurayil.com
 dns.artikel10.org
 dns.asterimoon.com
 dns.b33.network
 dns.b612.me
 dns.baishiyuan.cn
+dns.bebasid.com
 dns.belnet.be
 dns.bitdefender.net
 dns.bitgeek.in
@@ -147,7 +147,6 @@ dns.bravoc.one
 dns.carter.me
 dns.cert.ee
 dns.cfiec.net
-dns.chadeyron.fr
 dns.chenu.ch
 dns.circl.lu
 dns.cloud.ionutl.ro
@@ -295,7 +294,6 @@ dns.thegoodsource.net
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
-dns.unx.io
 dns.velyn.my.id
 dns.wang.art
 dns.wargan.io
@@ -509,6 +507,7 @@ ie01.dns4me.net
 ihctw.synology.me
 ikarosalpha.xyz
 ist01.dnscry.pt
+ivnkn.xyz
 jarjar.meganerd.nl
 jcdns.fun
 jit.ddns.net
@@ -671,7 +670,6 @@ tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tor.vasi.li
 tpa01.dnscry.pt
-tpe01.dnscry.pt
 trf01.dnscry.pt
 truta.org
 tsm01.dnscry.pt

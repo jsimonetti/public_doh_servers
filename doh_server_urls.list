@@ -20,7 +20,6 @@ https://dns.aa.net.uk/dns-query
 https://secure.anudeep.me/dns-query
 https://dns.hypercute.eu/dns-query
 https://dns.applewebkit.dev/dns-query
-https://dns.aquilenet.fr/dns-query
 https://nsec.arnor.org/dns-query
 https://dns.artikel10.org/dns-query
 https://dns.asterimoon.com/dns-query
@@ -34,6 +33,7 @@ https://ayasesayuki.shop/dns-query
 https://dns.a47.me/dns-query
 https://dns.a47.me/dns-query
 https://dns.baishiyuan.cn/dns-query
+https://dns.bebasid.com/dns-query
 https://dns.belnet.be/dns-query
 https://b-ii.com/dns-query
 https://dns.bitdefender.net/dns-query
@@ -61,7 +61,6 @@ https://doh.aaaab3n.moe/dns-query-114514
 https://dns.carter.me/dns-query
 https://catdns.org/dns-query
 https://dns.cert.ee/dns-query
-https://dns.chadeyron.fr/dns-query
 https://doh-01.spectrum.com/dns-query
 https://doh-02.spectrum.com/dns-query
 https://dns.chenu.ch/dns-query
@@ -122,6 +121,7 @@ https://yeralin.net/dns-query
 https://adguard.dantynes.cyou/dns-query
 https://filter.das.sch.id/dns-query
 https://ns.data.haus/dns-query
+https://delegated-ipfs.dev/dns-query
 https://doh.denypradana.com/dns-query
 https://dns.dev-umbrellagov.com/dns-query
 https://dns.digitale-gesellschaft.ch/dns-query
@@ -208,7 +208,6 @@ https://sof01.dnscry.pt/dns-query
 https://geg01.dnscry.pt/dns-query
 https://sto01.dnscry.pt/dns-query
 https://syd01.dnscry.pt/dns-query
-https://tpe01.dnscry.pt/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://tsm01.dnscry.pt/dns-query
@@ -308,11 +307,9 @@ https://dns.cloud.ionutl.ro/dns-query
 https://aqua.is.my.waifu.cz/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://darkness.is.my.waifu.cz/dns-query
-https://aqua.is.my.waifu.cz/dns-query
-https://megumin.is.my.waifu.cz/dns-query
-https://darkness.is.my.waifu.cz/dns-query
+https://ivnkn.xyz/dns-query
+https://ivnkn.xyz/dns-query
 https://www.jabber-germany.de/dns-query
-https://adguard.jakinet.id/dns-query
 https://dns.janl.eu/dns-query
 https://dns.jhangy.us/dns-query
 https://jkdns.me/dns-query
@@ -546,8 +543,7 @@ https://dns.twnic.tw/dns-query
 https://dns.twnic.tw/dns-query
 https://anycast.uncensoreddns.org/dns-query
 https://resolver.unstoppable.io/dns-query
-https://dns.unx.io/dns-query
-https://dns.unx.io/dns-query
+https://resolver.unstoppable.io/dns-query
 https://tor.vasi.li/dns-query
 https://dns.velyn.my.id/query
 https://doh.viatech.com.tw/dns-query
