@@ -13,7 +13,8 @@ jobs:
 
     - name: Install deps
       run: |
-        sudo apt -yy install python3-pip bind9-dnsutils
+        sudo apt -yy update
+        sudo apt -yy install python3-pip bind9-dnsutils golang-go
         sudo pip3 install aggregate6
         
     - name: Scrape DOH
@@ -28,26 +29,18 @@ jobs:
       run: |
         bash scripts/scrape_other_lists.sh
 
-    - name: Resolve domains
+    - name: Resolv domains
       run: |
-        bash scripts/dns-to-ip.sh 1.1.1.1
+        go run scripts/dns-to-ip.go
+   
+    - name: Sort list
+      run: |
+        bash scripts/dns-to-ip.sh
    
     - name: Create sets
       run: |
         bash scripts/create-sets.sh
    
-#    - name: Create PR
-#      uses: peter-evans/create-pull-request@v5
-#      with:
-#        token: ${{ secrets.GITHUB_TOKEN }}
-#        commit-message: "auto update lists"
-#        branch: actions/update-lists
-#        title: Update lists
-#        body: Updated lists
-#        delete-branch: true
-#        labels: actions
-#        signoff: true
-
     # Commit all changed files back to the repository
     - name: Update Repo
       uses: stefanzweifel/git-auto-commit-action@v5
