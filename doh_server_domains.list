@@ -77,7 +77,6 @@ b.safe.ns.dnslify.com
 base.dns.mullvad.net
 basic.bravedns.com
 blitz.ahadns.com
-blocker.thethorsens.org
 bom01.dnscry.pt
 bravedns.com
 c.cicitt.ch
@@ -409,6 +408,7 @@ doh.northeu.pi-dns.com
 doh.ny.ahadns.net
 doh.opendns.com
 doh.pi-dns.com
+doh.pink
 doh.pl.ahadns.net
 doh.plaawan.uk
 doh.powerdns.org
