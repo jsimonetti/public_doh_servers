@@ -83,8 +83,6 @@ https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
-https://voyage-s01.cloudku.technology/dns-query
-https://voyage-s02.cloudku.technology/dns-query
 https://dns.comss.one/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
@@ -304,7 +302,6 @@ https://qlf-doh.inria.fr/dns-query
 https://public.dns.iij.jp/dns-query
 https://doh.iucc.ac.il/dns-query
 https://dns.cloud.ionutl.ro/dns-query
-https://aqua.is.my.waifu.cz/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://darkness.is.my.waifu.cz/dns-query
 https://ivnkn.xyz/dns-query
@@ -335,7 +332,6 @@ https://dart.kpsn.org/dns-query
 https://pdns.krctechnologies.net/dns-query
 https://dns.kugoapps.com/dns-query
 https://dns.kukal.cz/dns-query
-https://dns.kusoneko.moe::9443/dns-query
 https://dns.kuuhaku.moe/dns-query
 https://agh.kyusang.win/dns-query
 https://agh.kyusang.win/dns-query
