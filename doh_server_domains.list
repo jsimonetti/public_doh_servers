@@ -183,7 +183,6 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dnswarden.com
-dns.doh.best
 dns.dooks.uk
 dns.east.comss.one
 dns.edison42.dev
@@ -195,7 +194,9 @@ dns.engineer.web.id
 dns.esnube.es
 dns.expert
 dns.extrawdw.net
+dns.faked.org
 dns.fancyorg.at
+dns.fizz.studio
 dns.flatuslifir.is
 dns.freyja.pw
 dns.froth.zone
@@ -213,8 +214,10 @@ dns.hypercute.eu
 dns.ian.rocks
 dns.iki.my.id
 dns.immanuelschaffer.de
+dns.inclusioproject.com
 dns.indybanipal.com
 dns.inforlogia.com
+dns.ipoac.nl
 dns.janl.eu
 dns.jhangy.us
 dns.jupitrdns.com
@@ -237,6 +240,7 @@ dns.levonet.sk
 dns.lista.my.id
 dns.lobbygod.com
 dns.mateo.ovh
+dns.mayx.eu.org
 dns.mikeliu.org
 dns.mikrotikrumahan.my.id
 dns.milftech.xyz
@@ -250,6 +254,7 @@ dns.neowutran.ovh
 dns.neutopia.org
 dns.nextdns.io
 dns.nhtsky.com
+dns.nick-slowinski.de
 dns.nixnet.xyz
 dns.nj0.de
 dns.njal.la
@@ -257,6 +262,7 @@ dns.novali.date
 dns.novg.net
 dns.npsolution.it
 dns.numerus.com
+dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
 dns.oszx.co
@@ -269,8 +275,10 @@ dns.psociety.de
 dns.pub
 dns.pumplex.com
 dns.quad9.net
+dns.rabbitdns.org
 dns.rbn.gr
 dns.reckoningslug.name
+dns.redvau.lt
 dns.renardyre.com
 dns.repinger.com
 dns.retakecs.com
@@ -289,11 +297,13 @@ dns.sheggi.ch
 dns.shimul.me
 dns.silen.org
 dns.silentlybren.com
+dns.sindominio.net
 dns.skrep.eu
 dns.slinkyman.net
 dns.smartguard.io
 dns.startupstack.tech
 dns.stevenz.net
+dns.stirringphoto.com
 dns.suhaila.dev
 dns.superstefan.win
 dns.svoi.dev
@@ -303,10 +313,14 @@ dns.technostriker.com
 dns.telekom.de
 dns.tesem.dog
 dns.thebuckners.org
+dns.tierradeayala.com
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
 dns.velyn.my.id
+dns.vojtat.cz
+dns.volatile.ovh
+dns.w3ctag.org
 dns.wang.art
 dns.wargan.io
 dns.wugui.zone
@@ -314,7 +328,6 @@ dns.yatima.tv
 dns.yingroad.top
 dns.yumenashyi.com
 dns0.eu
-dns1.au.newpangea.de
 dns1.digitale-gesellschaft.ch
 dns1.dnscrypt.ca
 dns1.hanahira.dev
@@ -323,7 +336,6 @@ dns1.lothuscorp.com.br
 dns1.nextdns.io
 dns1.nordvpn.com
 dns1.pietjacobs.be
-dns1.us.newpangea.de
 dns1.zettawize.xyz
 dns10.quad9.net
 dns11.quad9.net
@@ -364,6 +376,7 @@ doh.5u3.org
 doh.978159.xyz
 doh.aaaab3n.moe
 doh.abmb.win
+doh.angry.im
 doh.apad.pro
 doh.applied-privacy.net
 doh.appliedprivacy.net
@@ -371,6 +384,7 @@ doh.archuser.org
 doh.armadillodns.net
 doh.au.ahadns.net
 doh.beauty
+doh.best
 doh.blockerdns.com
 doh.bt.com
 doh.buzz
@@ -404,14 +418,15 @@ doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.iucc.ac.il
-doh.jtcargokebumen.com
 doh.kel.pe
+doh.kidzonet.io
 doh.kooman.org
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
 doh.libredns.gr
 doh.libredns.org
+doh.linngde.com
 doh.lv
 doh.maskab.com
 doh.mcasviper.de
@@ -440,7 +455,6 @@ doh.syshero.org
 doh.tiar.app
 doh.tiarap.org
 doh.umbrella.com
-doh.viatech.com.tw
 doh.webnmail.de
 doh.westus.pi-dns.com
 doh.xfinity.com
@@ -488,6 +502,7 @@ family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
 family.mydns.network
+family.rabbitdns.org
 fdns1.dismail.de
 fdns2.dismail.de
 fet01.dnscry.pt
@@ -523,7 +538,6 @@ hkg02.dnscry.pt
 hole.elbschloss.xyz
 home.enjoymylife.net
 home.wriedts.de
-horus-team.com
 hrk01.dnscry.pt
 ibksturm.synology.me
 ibuki.cgnat.net
@@ -546,6 +560,7 @@ kids.5ososea.com
 kids.dns0.eu
 kiri.nonexiste.net
 kiv01.dnscry.pt
+kostik-66.online
 kracon.anycast.censurfridns.dk
 kracon.anycast.uncensoreddns.org
 kronos.plan9-dns.com
@@ -557,18 +572,21 @@ lax02.dnscry.pt
 lim01.dnscry.pt
 lindung.pp.ua
 llk01.dnscry.pt
+loadlow.me
 lon01.dnscry.pt
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
 m-cm.circumitor.de
 mad01.dnscry.pt
+maherhost.uk
 mailer.amlegion.org
 masters-of-cloud.de
 megumin.is.my.waifu.cz
 mia01.dnscry.pt
 mikatos.de
 mil01.dnscry.pt
+mnrv.trade
 mozilla.cloudflare-dns.com
 mru01.dnscry.pt
 muc01.dnscry.pt
@@ -586,12 +604,14 @@ ns.mtsoln.com
 ns.ral9005.org
 ns.trcnet.fi
 ns0.fdn.fr
+ns1.4netguides.org
 ns1.dnsprivacy.at
 ns1.dotls.org
 ns1.fdn.fr
 ns1.opennameserver.org
 ns1.recursive.dnsbycomodo.com
 ns1.sc-lezhi.com
+ns2.4netguides.org
 ns2.dnsprivacy.at
 ns2.recursive.dnsbycomodo.com
 ns3.opennameserver.org
@@ -673,6 +693,7 @@ secure.anudeep.me
 secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
+security.rabbitdns.org
 server01.dr-adguard.de
 sg-w-f-1.nashkan.net
 sg-w-f-2.nashkan.net
@@ -741,6 +762,7 @@ waw02.dnscry.pt
 wikimedia-dns.org
 www.jabber-germany.de
 www.zburger.top
+xn--durhre-yxa.de
 yarp.lefolgoc.net
 yeralin.net
 your-dns.run
