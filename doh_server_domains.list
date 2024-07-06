@@ -166,6 +166,7 @@ dns.carter.me
 dns.cert.ee
 dns.cfiec.net
 dns.chenu.ch
+dns.christerwaren.fi
 dns.circl.lu
 dns.cloud.ionutl.ro
 dns.cloudflare.com
@@ -269,7 +270,6 @@ dns.njal.la
 dns.novali.date
 dns.novg.net
 dns.npsolution.it
-dns.numerus.com
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -518,7 +518,6 @@ fdns1.dismail.de
 fdns2.dismail.de
 fet01.dnscry.pt
 fi-hel-w-f-2.nashkan.net
-fi-hel-w-p-1.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
 filter.das.sch.id
@@ -654,7 +653,6 @@ pdx01.dnscry.pt
 per.adfilter.net
 phl01.dnscry.pt
 phx01.dnscry.pt
-pi1.node15.com
 pihole.aws.ketan.dev
 pl-waw-w-f-1.nashkan.net
 pl-waw-w-p-2.nashkan.net
@@ -695,7 +693,6 @@ rgnet-iad.anycast.uncensoreddns.org
 ro-buc-w-f-1.nashkan.net
 ro-buc-w-p-1.nashkan.net
 rpz-public-resolver1.rrdns.pch.net
-ru-mos-w-p-1.nashkan.net
 rumpelsepp.org
 sa01.dns4me.net
 safeservedns.com
@@ -707,6 +704,7 @@ security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
 server01.dr-adguard.de
+servis4u.top
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
