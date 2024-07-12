@@ -274,7 +274,6 @@ dns.nj0.de
 dns.njal.la
 dns.novali.date
 dns.novg.net
-dns.npsolution.it
 dns.odinpl.com
 dns.ofdoom.net
 dns.oliviertv.co.za
@@ -420,6 +419,7 @@ doh.dns.sb
 doh.dns4all.eu
 doh.dnslify.com
 doh.dnswarden.com
+doh.domreg.lt
 doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
@@ -477,6 +477,7 @@ doh.webnmail.de
 doh.westus.pi-dns.com
 doh.xfinity.com
 doh.xyz
+doh.ztbro.com
 doh1.b-cdn.net
 doh1.blahdns.com
 doh2.abmb.win
@@ -527,7 +528,6 @@ fet01.dnscry.pt
 fi-hel-w-f-2.nashkan.net
 fi.doh.dns.snopyta.org
 fi.dot.dns.snopyta.org
-filter.das.sch.id
 firefox.dns.nextdns.io
 fjr01.dnscry.pt
 fnt01.dnscry.pt
@@ -594,7 +594,6 @@ lon01.dnscry.pt
 luna-is.so-gorgeo.us.kg
 lux1.nixnet.xyz
 lv1.nixnet.xyz
-m-cm.circumitor.de
 mad01.dnscry.pt
 maherhost.uk
 masters-of-cloud.de
@@ -710,7 +709,6 @@ secure.avastdns.com
 security-filter-dns.cleanbrowsing.org
 security.cloudflare-dns.com
 security.rabbitdns.org
-server01.dr-adguard.de
 servis4u.top
 sg-w-f-1.nashkan.net
 sg-w-p-1.nashkan.net
@@ -745,7 +743,6 @@ trf01.dnscry.pt
 truta.org
 tsm01.dnscry.pt
 tyo02.dnscry.pt
-tyo03.dnscry.pt
 uk01.dns4me.net
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com
@@ -778,10 +775,8 @@ waw02.dnscry.pt
 wikimedia-dns.org
 www.jabber-germany.de
 www.zburger.top
-x2ox.com
 xn--durhre-yxa.de
 yarp.lefolgoc.net
-yeralin.net
 your-dns.run
 yovbak.com
 yvr01.dnscry.pt

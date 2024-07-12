@@ -89,7 +89,6 @@ https://private.canadianshield.cira.ca/dns-query
 https://protected.canadianshield.cira.ca/dns-query
 https://family.canadianshield.cira.ca/dns-query
 https://dns.circl.lu/dns-query
-https://m-cm.circumitor.de/dns-query
 https://doh.opendns.com/dns-query
 https://doh.familyshield.opendns.com/dns-query
 https://doh.umbrella.com/dns-query
@@ -134,9 +133,7 @@ https://dns.cynthialabs.net/dns-query
 https://odvr.nic.cz/dns-query
 https://odvr.nic.cz/dns-query
 https://ns.00dani.me/dns-query
-https://yeralin.net/dns-query
 https://adguard.dantynes.cyou/dns-query
-https://filter.das.sch.id/dns-query
 https://ns.data.haus/dns-query
 https://delegated-ipfs.dev/dns-query
 https://doh.denypradana.com/dns-query
@@ -230,7 +227,6 @@ https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
 https://tsm01.dnscry.pt/dns-query
 https://tyo02.dnscry.pt/dns-query
-https://tyo03.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
 https://yvr01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
@@ -251,8 +247,8 @@ https://doh.buzz/dns-query
 https://doh.pink/dns-query
 https://doh.xyz/dns-query
 https://3dns.eu/dns-query
+https://doh.domreg.lt/dns-query
 https://ns1.dotls.org
-https://server01.dr-adguard.de/dns-query
 https://agh.dshubham.xyz/dns-query
 https://dukun.de/dns-query
 https://xn--durhre-yxa.de/dns-query
@@ -490,7 +486,6 @@ https://1.dns.noridev.moe/dns-query
 https://2.dns.noridev.moe/dns-query
 https://dns.novali.date/dns-query
 https://dns.novg.net/dns-query
-https://dns.npsolution.it/dns-query
 https://dns.n23.io/dns-query
 https://dns.n23.io/dns-query
 https://dns.odinpl.com/dns-query
@@ -643,8 +638,7 @@ https://dns.w3ctag.org/dns-query
 https://dns.w3ctag.org/dns-query
 https://dns.xiumu.org
 https://dns.xlion.tw/dns-query
-https://x2ox.com/dns-query
-https://x2ox.com/dns-query
+https://dns.xlion.tw/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://dns.yatima.tv/dns-query
 https://dns.yingroad.top/dns-query
@@ -659,7 +653,8 @@ https://zdn.ro/dns-query
 https://blocker.zebrzydowa110.eu/dns-query
 https://dns.zemows.industries/dns-query
 https://dns1.zettawize.xyz/dns-query
-https://dns1.zettawize.xyz/dns-query
+https://doh.ztbro.com/dns-query
+https://doh.ztbro.com/dns-query
 https://dns.0ooo.icu/dns-query
 https://1.0rz.space/dns-query
 https://2.0rz.space/dns-query
