@@ -91,8 +91,17 @@ func writeDNSList(filename string, dnsList DNSList) error {
 func pruneDnsList(dnsList *DNSList) {
 	for domain, entries := range *dnsList {
 		for i, entry := range entries {
+			// remove entry from list if it's older than 30 days
 			if time.Since(entry.LastSeen) > 30*24*time.Hour {
-				(*dnsList)[domain] = append((*dnsList)[domain][:i], (*dnsList)[domain][i+1:]...)
+				if len((*dnsList)[domain]) == 1 {
+					delete(*dnsList, domain)
+					break
+				}
+				if len((*dnsList)[domain]) > i+1 {
+					(*dnsList)[domain] = append((*dnsList)[domain][:i], (*dnsList)[domain][i+1:]...)
+				} else {
+					(*dnsList)[domain] = (*dnsList)[domain][:i]
+				}
 			}
 		}
 		if len((*dnsList)[domain]) == 0 {
