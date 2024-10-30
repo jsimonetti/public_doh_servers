@@ -215,7 +215,6 @@ dns.gutwe.in
 dns.haka.se
 dns.henek.ovh
 dns.hoody.com
-dns.hoservers.com
 dns.hostux.net
 dns.hshoe.cn
 dns.huas.me
@@ -463,7 +462,6 @@ doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.securedns.eu
-doh.serverhost.no
 doh.sunoaki.net
 doh.thio.me
 doh.tiar.app
@@ -634,11 +632,13 @@ ns1.opennameserver.org
 ns1.recursive.dnsbycomodo.com
 ns2.4netguides.org
 ns2.dnsprivacy.at
+ns2.opennameserver.org
 ns2.recursive.dnsbycomodo.com
 ns2.wuyouss.com
 ns3.com
 ns3.cx
 ns3.link
+ns3.opennameserver.org
 ns3.wuyouss.com
 ns4.opennameserver.org
 nsec.arnor.org
