@@ -2,7 +2,6 @@
 0ms.dev
 123000123.xyz
 1dot1dot1dot1.cloudflare-dns.com
-2.dns.noridev.moe
 2.dnscrypt-cert.dns.seby.io
 3dcosas.xyz
 3dns.eu
@@ -85,12 +84,12 @@ ca02.dns4me.net
 canadianshield.cira.ca
 chrome.cloudflare-dns.com
 clean.dnsforge.de
+cloudbenders.fun
 cloudflare-dns.com
 cloudflare-gateway.com
 commons.host
 cph01.dnscry.pt
 cvt01.dnscry.pt
-d.bod.lol
 d.niaox.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
@@ -185,8 +184,6 @@ dns.dns-over-https.com
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.east.comss.one
-dns.edgeburnmedia.com
-dns.editechstudio.com
 dns.efficientdocuments.com
 dns.elemental.software
 dns.eliv.kr
@@ -224,7 +221,6 @@ dns.k3nny.fr
 dns.kapite.in
 dns.karadag.me
 dns.kastner-online.de
-dns.kawa.tf
 dns.kebree.fr
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -247,6 +243,7 @@ dns.luma-medien.com
 dns.marasov.id
 dns.mateo.ovh
 dns.mayx.eu.org
+dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mnet-online.de
 dns.momou.ch
@@ -264,7 +261,6 @@ dns.nick-slowinski.de
 dns.ningkelle.id
 dns.nixnet.xyz
 dns.njal.la
-dns.nodoa.me
 dns.novali.date
 dns.novg.net
 dns.numerus.com
@@ -292,7 +288,6 @@ dns.retakecs.com
 dns.roedel.cloud
 dns.rubyfish.cn
 dns.sarilouis.com
-dns.sec511.com
 dns.seia.io
 dns.seiffert.me
 dns.sev.monster
@@ -379,6 +374,8 @@ doh-ch.blahdns.com
 doh-de.blahdns.com
 doh-fi.blahdns.com
 doh-jp.blahdns.com
+doh-own-recursion.nicolas-dorriere.fr
+doh-random-upstream.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.360.cn
 doh.42l.fr
@@ -414,7 +411,6 @@ doh.eastas.pi-dns.com
 doh.eastau.pi-dns.com
 doh.eastus.pi-dns.com
 doh.eddi.net
-doh.ersei.net
 doh.es.ahadns.net
 doh.excdn.eu.org
 doh.familyshield.opendns.com
@@ -673,7 +669,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.properties
 polisitogel.show
 polisitogel.webcam
 pooblet.co.za

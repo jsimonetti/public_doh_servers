@@ -52,7 +52,6 @@ https://us1.blissdns.net/dns-query
 https://dns.blokada.org/dns-query
 https://rfree1.blue-shield.at/dns-query
 https://rfree2.blue-shield.at/dns-query
-https://d.bod.lol/dns-query
 https://adguard.bonis.de/dns-query
 https://dns.braene.com/dns-query
 https://dns.brahma.world/dns-query
@@ -87,6 +86,7 @@ https://doh.umbrella.com/dns-query
 https://doh.cleanbrowsing.org/doh/family-filter/
 https://doh.cleanbrowsing.org/doh/adult-filter/
 https://doh.cleanbrowsing.org/doh/security-filter/
+https://cloudbenders.fun/dns-query
 https://cloudflare-dns.com/dns-query
 https://mozilla.cloudflare-dns.com/dns-query
 https://security.cloudflare-dns.com/dns-query
@@ -239,15 +239,12 @@ https://dns.d96.info/dns-query
 https://adguard.easez.net/dns-query
 https://doh.apad.pro/dns-query
 https://doh.eddi.net/dns-query
-https://dns.edgeburnmedia.com/dns-query
-https://dns.editechstudio.com/dns-query
 https://dns.efficientdocuments.com/dns-query
 https://dns.henek.ovh/dns-query
 https://dns.elemental.software/dns-query
 https://eliatofani.ovh/dns-query
 https://dns.eliv.kr/dns-query
 https://dns.emiliyan.com/dns-query
-https://doh.ersei.net/dns-query
 https://doh.excdn.eu.org
 https://doh.excdn.eu.org
 https://dns.faked.org/dns-query
@@ -330,7 +327,6 @@ https://ad.justincounts.com/dns-query
 https://dns.kapite.in/dns-query
 https://dns.karadag.me/dns-query
 https://dns.kastner-online.de/dns-query
-https://dns.kawa.tf/dns-query
 https://dns.kebree.fr/dns-query
 https://dns.kerekes.xyz/dns-query
 https://dns.kernel-error.de/dns-query
@@ -381,6 +377,7 @@ https://dns.mateo.ovh/dns-query
 https://dns.lermer.nl/dns-query
 https://home.wriedts.de/dns-query
 https://dns.mayx.eu.org/dns-query
+https://dns.mbrjun.cn/dns-query
 https://mc-sft.cn/dns-query
 https://adguard.meddy94.de/dns-query
 https://mendozasdelivery.com/dns-query
@@ -456,6 +453,8 @@ https://dns.nick-slowinski.de/dns-query
 https://doh.lv/dns-query
 https://doh.nic.lv/dns-query
 https://adguard-kartoffel.zernico.de/dns-query
+https://doh-random-upstream.nicolas-dorriere.fr/dns-query
+https://doh-own-recursion.nicolas-dorriere.fr/dns-query
 https://nightlymoon.us.kg/dns-query
 https://nightlymoon.us.kg/family
 https://ns.nwps.fi/dns-query/family
@@ -464,11 +463,9 @@ https://dns.ningkelle.id/dns-query
 https://family.dns.ningkelle.id/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
-https://dns.nodoa.me/dns-query
 https://kiri.nonexiste.net/dns-query
 https://dns1.nordvpn.com/dns-query
 https://dns2.nordvpn.com/dns-query
-https://2.dns.noridev.moe/dns-query
 https://dns.novali.date/dns-query
 https://dns.novg.net/dns-query
 https://ns3.cx/dns-query
@@ -512,7 +509,6 @@ https://polisitogel.webcam/dns-query
 https://polisitogel.accountant/dns-query
 https://polisitogel.hair/dns-query
 https://polisitogel.luxe/dns-query
-https://polisitogel.properties/dns-query
 https://polisitogel.limo/dns-query
 https://polisitogel.show/dns-query
 https://polisitogel.contractors/dns-query
@@ -567,7 +563,6 @@ https://dns.roedel.cloud/dns-query
 https://dns.roedel.cloud/dns-query
 https://safeservedns.com/dns-query
 https://dns.sarilouis.com/dns-query
-https://dns.sec511.com/dns-query
 https://adguard.senthil.us/dns-query
 https://dns.seiffert.me/dns-query
 https://dns.sev.monster/dns-query
