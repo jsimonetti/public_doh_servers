@@ -31,6 +31,7 @@ https://nsec.arnor.org/dns-query
 https://dns.artikel10.org/dns-query
 https://doh.asagiri.moe/dns-query
 https://dns.asterimoon.com/dns-query
+https://dns.asysec.com/dns-query
 https://atris.cyou/dns-query
 https://secure.avastdns.com/dns-query
 https://awan.ftp.sh/dns-query
@@ -93,7 +94,6 @@ https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns.comff.net/dns-query
-https://dns.comss.one/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
 https://freedns.controld.com/p2
@@ -170,7 +170,6 @@ https://cph01.dnscry.pt/dns-query
 https://cvt01.dnscry.pt/dns-query
 https://dub01.dnscry.pt/dns-query
 https://dus01.dnscry.pt/dns-query
-https://eyg01.dnscry.pt/dns-query
 https://fra01.dnscry.pt/dns-query
 https://fra02.dnscry.pt/dns-query
 https://fjr01.dnscry.pt/dns-query
@@ -383,7 +382,10 @@ https://adguard.meddy94.de/dns-query
 https://mendozasdelivery.com/dns-query
 https://testaghome.meshkov.info/dns-query
 https://dns.mh4ckt3mh4ckt1c4s.xyz/dns-query
+https://dns.michelo.cl/dns-query
+https://mickedi.isgood.host/dns-query
 https://mikezhang.xyz/dns-query
+https://dns.mihalcea.eu/dns-query
 https://miniapp.global/dns-query
 https://netcup.mismat.ch/dns-query
 https://addns1.m-it.ro/dns-query
@@ -478,18 +480,22 @@ https://qdns02.nymterm.com/dns-query
 https://obscuro.top/dns-query
 https://dns.odinpl.com/dns-query
 https://dns.ofdoom.net/dns-query
+https://okado.online/dns-query
 https://dns.oliviertv.co.za/dns-query
 https://ada.openbld.net/dns-query
 https://ag.apollohct.com/dns-query
 https://ns1.opennameserver.org/dns-query
 https://ns2.opennameserver.org/dns-query
 https://ns3.opennameserver.org/dns-query
-https://dns.ourvau.lt/dns-query
-https://dns.ourvau.lt/dns-query
+https://ns1.opennameserver.org/dns-query
+https://ns2.opennameserver.org/dns-query
+https://ns3.opennameserver.org/dns-query
 https://dns.paesa.es/dns-query
 https://pashagame456.com/dns-query
 https://paulo.nom.za/dns-query
 https://dns.decky.eu/dns-query
+https://dns.peb-schmidt.de/dns-query
+https://dns.petqa.ru/dns-query
 https://dns.phillipjberry.net/dns-query
 https://dns1.pietjacobs.be/dns-query
 https://kronos.plan9-dns.com/dns-query
@@ -527,6 +533,7 @@ https://nl.dns.privex.io
 https://dns.propheci.xyz/dns-query
 https://doh.archuser.org/dns-query
 https://doh.archuser.org/dns-query
+https://v.qdev.cc/dns-query
 https://qqmcfw.tech/dns-query
 https://doh.qis.io/dns-query
 https://dns.quad9.net/dns-query
@@ -549,7 +556,6 @@ https://security.rabbitdns.org/dns-query
 https://family.rabbitdns.org/dns-query
 https://ns.ral9005.org/dns-query
 https://dns.redhosting.com.ar/dns-query
-https://dns.redvau.lt/dns-query
 https://dns.reitmeier.me/dns-query
 https://dns.reckoningslug.name/dns-query
 https://dnspub.restena.lu/dns-query
@@ -563,8 +569,9 @@ https://dns.roedel.cloud/dns-query
 https://dns.roedel.cloud/dns-query
 https://safeservedns.com/dns-query
 https://dns.sarilouis.com/dns-query
-https://adguard.senthil.us/dns-query
 https://dns.seiffert.me/dns-query
+https://adguard.senthil.us/dns-query
+https://dns1.serdcebolit.ru/dns-query
 https://dns.sev.monster/dns-query
 https://dns.shareworx.net/dns-query
 https://dns.sheggi.ch/dns-query
@@ -589,6 +596,7 @@ https://resolver.sunet.se/dns-query
 https://sunnygyl.com/dns-query
 https://doh.sunoaki.net/dns-query
 https://dns.superstefan.win/dns-query
+https://dns.surobe.com/dns-query
 https://dns.svoi.dev/dns-query
 https://dns.sv-zauner.at/dns-query
 https://dns.switch.ch/dns-query
@@ -596,6 +604,7 @@ https://dns.sy.st/dns-query
 https://dns.szpadel.ovh/dns-query
 https://dns.szpadel.ovh/dns-query
 https://dns.t53.de/dns-query
+https://adguard.taxiora.tn/dns-query
 https://tecdrive.site/dns-query
 https://dns.telekom.de/dns-query
 https://dns.thebuckners.org/dns-query
@@ -649,7 +658,8 @@ https://dns.xuming.studio/dns-query
 https://dns.yague.me/dns-query
 https://yarp.lefolgoc.net/dns-query
 https://your-dns.run/dns-query
-https://your-dns.run/dns-query
+https://dns.yuu-g.net/dns-query
+https://dns.yuu-g.net/dns-query
 https://zakaria.website/dns-query
 https://princez.uk/dns-query
 https://zdn.ro/dns-query
