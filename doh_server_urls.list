@@ -292,7 +292,6 @@ https://dns.deadsec.net/dns-query
 https://dns.haka.se/dns-query
 https://adguard.hjebbour.top/dns-query
 https://home-server.store/dns-query
-https://dns.lihj.me/dns-query
 https://dns.hoody.com/dns-query
 https://dns.hostux.net/dns-query
 https://dns.hostux.net/ads
@@ -437,8 +436,8 @@ https://doh-random-upstream.nicolas-dorriere.fr/dns-query
 https://doh-own-recursion.nicolas-dorriere.fr/dns-query
 https://nightlymoon.us.kg/dns-query
 https://nightlymoon.us.kg/family
-https://ns.nwps.fi/dns-query/family
-https://ns.nwps.fi/dns-query/public
+https://public.ns.nwps.fi/dns-query
+https://kids.ns.nwps.fi/dns-query
 https://dns.ningkelle.id/dns-query
 https://family.dns.ningkelle.id/dns-query
 https://doh.niyawe.de/dns-query
@@ -446,7 +445,6 @@ https://dns.njal.la/dns-query
 https://kiri.nonexiste.net/dns-query
 https://dns1.nordvpn.com/dns-query
 https://dns2.nordvpn.com/dns-query
-https://dns.novali.date/dns-query
 https://dns.novg.net/dns-query
 https://ntwrkh.pro/dns-query
 https://ntwrkh.pro/dns-query
@@ -473,7 +471,6 @@ https://privacy.plumedns.com/dns-query
 https://pm1239-bd.xyz/dns-query
 https://pm9352-bd.xyz/dns-query
 https://pm7051-br.xyz/dns-query
-https://polisitogel.diy/dns-query
 https://polisitogel.living/dns-query
 https://polisitogel.webcam/dns-query
 https://polisitogel.hair/dns-query
@@ -522,7 +519,6 @@ https://rockwell.website/dns-query
 https://dns.roedel.cloud/dns-query
 https://dns.roedel.cloud/dns-query
 https://safeservedns.com/dns-query
-https://dns.sarilouis.com/dns-query
 https://adguard.senthil.us/dns-query
 https://dns1.serdcebolit.ru/dns-query
 https://dns.sev.monster/dns-query
@@ -530,7 +526,6 @@ https://dns.sheggi.ch/dns-query
 https://dns.shimul.me/dns-query
 https://adguard.shoupperuser.com/dns-query
 https://dns.silen.org/dns-query
-https://simsim.lol/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.silentlybren.com/dns-query
 https://dns.slinkyman.net/dns-query
@@ -575,8 +570,10 @@ https://dns.twnic.tw/dns-query
 https://doh.tiar.app/dns-query
 https://tri-dns.net/dns-query
 https://eu.tri-dns.net/dns-query
+https://asia.tri-dns.net/dns-query
 https://tri-dns.net/dns-query
 https://eu.tri-dns.net/dns-query
+https://asia.tri-dns.net/dns-query
 https://anycast.uncensoreddns.org/dns-query
 https://dns.unx.io/dns-query
 https://adfree.usableprivacy.net/dns-query
