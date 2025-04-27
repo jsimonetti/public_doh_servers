@@ -71,6 +71,8 @@ https://security.cloudflare-dns.com/dns-query
 https://family.cloudflare-dns.com/dns-query
 https://dns64.cloudflare-dns.com/dns-query
 https://dns.comff.net/dns-query
+https://dns.comss.one/dns-query
+https://router.comss.one/dns-query
 https://freedns.controld.com/p0
 https://freedns.controld.com/p1
 https://freedns.controld.com/p2
@@ -216,7 +218,6 @@ https://dns.d96.info/dns-query
 https://dns.efficientdocuments.com/dns-query
 https://dns.henek.ovh/dns-query
 https://dns.elemental.software/dns-query
-https://eliatofani.ovh/dns-query
 https://dns.eliv.kr/dns-query
 https://dns.eliv.kr/dns-query
 https://dns.faked.org/dns-query
@@ -264,7 +265,6 @@ https://dns1.in-berlin.de/dns-query
 https://dns2.in-berlin.de/dns-query
 https://dns.inclusioproject.com/dns-query
 https://dns.inforlogia.com/dns-query
-https://qlf-doh.inria.fr/dns-query
 https://public.dns.iij.jp/dns-query
 https://megumin.is.my.waifu.cz/dns-query
 https://darkness.is.my.waifu.cz/dns-query
@@ -326,9 +326,6 @@ https://doh.mmmalia.com/dns-query
 https://dns.mnet-online.de/dns-query
 https://dnstls.mobik.com/dns-query
 https://moamao.shop/dns-query
-https://dns.momou.ch/dns-query
-https://dns.momou.ch/dns-query/kids
-https://dns.momou.ch/dns-query/unfiltered
 https://dns.mullvad.net/dns-query
 https://adblock.dns.mullvad.net/dns-query
 https://base.dns.mullvad.net/dns-query
@@ -404,7 +401,6 @@ https://nl.dns.privex.io
 https://dns.propheci.xyz/dns-query
 https://doh.archuser.org/dns-query
 https://doh.archuser.org/dns-query
-https://doh.qis.io/dns-query
 https://dns.quad9.net/dns-query
 https://dns9.quad9.net/dns-query
 https://dns10.quad9.net/dns-query
