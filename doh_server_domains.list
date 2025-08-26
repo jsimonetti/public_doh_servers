@@ -258,7 +258,6 @@ dns64.dns.google
 dns9.quad9.net
 dnses.alekberg.net
 dnsforge.de
-dnsguard.pub
 dnslow.me
 dnsnl.alekberg.net
 dnsotls.lab.nic.cl
@@ -314,7 +313,6 @@ doh.familyshield.opendns.com
 doh.ffmuc.net
 doh.futa.gg
 doh.gslb2.xfinity.com
-doh.immerda.ch
 doh.in.ahadns.net
 doh.it.ahadns.net
 doh.kel.pe
@@ -415,7 +413,6 @@ haf01.dnscry.pt
 han01.dnscry.pt
 hard.dnsforge.de
 helios.plan9-dns.com
-home-server.store
 ibksturm.synology.me
 ibuki.cgnat.net
 ie01.dns4me.net
@@ -504,6 +501,7 @@ rdns.faelix.net
 regiopolis.cloud
 renardbleu.dev
 resolver-eu.lelux.fi
+resolver.dnsprivacy.org.uk
 resolver.sunet.se
 resolver1-fs.opendns.com
 resolver1.absolight.net
