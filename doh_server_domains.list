@@ -155,7 +155,6 @@ dns.google.com
 dns.green-ping.lol
 dns.guard.io
 dns.haka.se
-dns.henek.ovh
 dns.hoody.com
 dns.hostux.net
 dns.inforlogia.com
@@ -175,7 +174,6 @@ dns.marasov.id
 dns.marbledfennec.net
 dns.mateo.ovh
 dns.mayx.eu.org
-dns.mbrjun.cn
 dns.mh4ckt3mh4ckt1c4s.xyz
 dns.mnet-online.de
 dns.mrkaran.dev
@@ -223,8 +221,6 @@ dns.szpadel.ovh
 dns.t53.de
 dns.technologycage.com
 dns.telekom.de
-dns.thebuckners.org
-dns.thiz.top
 dns.tipsy.coffee
 dns.tls-data.de
 dns.twnic.tw
@@ -241,7 +237,6 @@ dns1.dnscrypt.ca
 dns1.in-berlin.de
 dns1.nextdns.io
 dns1.nordvpn.com
-dns1.pietjacobs.be
 dns1.serdcebolit.ru
 dns10.quad9.net
 dns11.quad9.net
@@ -447,9 +442,7 @@ masters-of-cloud.de
 megumin.is.my.waifu.cz
 mil01.dnscry.pt
 mozilla.cloudflare-dns.com
-myatris.sbs
 nicsezcheckfbi.gov
-nl.dns.privex.io
 noads.joindns4.eu
 ns.00dani.me
 ns.data.haus
