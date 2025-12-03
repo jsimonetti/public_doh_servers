@@ -19,7 +19,6 @@ adfree.usableprivacy.net
 adfreedns.top
 adg.geili.me
 adg.khon.dev
-adguard-kartoffel.zernico.de
 adguard.meddy94.de
 adguard.shoupperuser.com
 adl.adfilter.net
@@ -125,7 +124,6 @@ dns.developer.li
 dns.digitale-gesellschaft.ch
 dns.digitalsize.net
 dns.dns-over-https.com
-dns.dnsguard.pub
 dns.dnshome.de
 dns.dnsoverhttps.net
 dns.dremaxx.de
@@ -400,6 +398,7 @@ jcdns.fun
 jit.ddns.net
 jp.tiar.app
 jp.tiarap.org
+juuri.hagezi.org
 kaitain.restena.lu
 kiv01.dnscry.pt
 kracon.anycast.censurfridns.dk
@@ -428,7 +427,6 @@ ns2.4netguides.org
 ns2.dnsprivacy.at
 ns2.recursive.dnsbycomodo.com
 nsec.arnor.org
-ntwrkh.pro
 nue01.dnscry.pt
 ny1.nixnet.xyz
 nz01.dns4me.net
@@ -477,8 +475,8 @@ rfree1.blue-shield.at
 rfree2.blue-shield.at
 rgnet-iad.anycast.censurfridns.dk
 rgnet-iad.anycast.uncensoreddns.org
-ro-bu.foxyfy.net
 ro-buc-w-p-1.nashkan.net
+root.hagezi.org
 router.comss.one
 rpz-public-resolver1.rrdns.pch.net
 rumpelsepp.org
@@ -524,9 +522,6 @@ us-jac-w-f-1.nashkan.net
 us-jac-w-p-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
-us-saj-w-f-1.nashkan.net
-us-saj-w-p-1.nashkan.net
-us-sj.foxyfy.net
 us01.dns4me.net
 us02.dns4me.net
 us1.dns.lavate.ch
@@ -536,6 +531,7 @@ vie01.dnscry.pt
 vno01.dnscry.pt
 waw02.dnscry.pt
 wikimedia-dns.org
+wurzn.hagezi.org
 xn--durhre-yxa.de
 yarp.lefolgoc.net
 yhz01.dnscry.pt
