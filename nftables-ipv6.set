@@ -2,7 +2,6 @@ set doh_servers_ipv6 {
   type ipv6_addr
   elements = {
   2a01:7c8:d002:1ef:5054:ff:fe40:3703,
-  2a01:e0a:f30:9100:6e2b:59ff:fee8:7a13,
   2a03:4000:59:de9:202:61:199:183,
   2a03:4000:5c:51:24b9:51ff:fe80:f3a7,
   2a03:4000:5d:64:1446:62ff:fe9c:f7a4,
