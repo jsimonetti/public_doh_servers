@@ -33,7 +33,6 @@ agh.dshubham.xyz
 all.dns.mullvad.net
 anycast.censurfridns.dk
 anycast.uncensoreddns.org
-arashi.net.eu.org
 asia.dnscepat.id
 ath01.dnscry.pt
 atl01.dnscry.pt
@@ -174,6 +173,7 @@ dns.oszx.co
 dns.paesa.es
 dns.paulo.nom.za
 dns.petqa.ru
+dns.practicallyunhackable.com
 dns.pub
 dns.pumplex.com
 dns.quad9.net
@@ -345,7 +345,6 @@ ecs-doh.dnswarden.com
 eropa.dnscepat.id
 es-ma.foxyfy.net
 eu1.dns.lavate.ch
-evn01.dnscry.pt
 extended.dns.mullvad.net
 family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
@@ -408,7 +407,6 @@ mozilla.cloudflare-dns.com
 nicsezcheckfbi.gov
 noads.joindns4.eu
 ns.data.haus
-ns.net.kg
 ns0.fdn.fr
 ns1.dnsprivacy.at
 ns1.fdn.fr

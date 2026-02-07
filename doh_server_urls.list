@@ -14,8 +14,6 @@ https://dns.aa.net.uk/dns-query
 https://doh.angry.im/dns-query
 https://dns.anon.no/dns-query
 https://dns.applewebkit.dev/dns-query
-https://arashi.net.eu.org/dns-query
-https://ns.net.kg/dns-query
 https://nsec.arnor.org/dns-query
 https://dns.asterimoon.com/dns-query
 https://dns.a47.me/dns-query
@@ -161,7 +159,6 @@ https://yvr01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
 https://vno01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
-https://evn01.dnscry.pt/dns-query
 https://dnsdoh.art/dns-query
 https://dns.flatuslifir.is/dns-query
 https://dns.dnshome.de/dns-query
@@ -305,6 +302,7 @@ https://helios.plan9-dns.com/dns-query
 https://pluton.plan9-dns.com/dns-query
 https://privacy.plumedns.com/dns-query
 https://pooblet.co.za/dns-query
+https://dns.practicallyunhackable.com/dns-query
 https://doh.archuser.org/dns-query
 https://doh.archuser.org/dns-query
 https://dns.quad9.net/dns-query
