@@ -80,7 +80,6 @@ https://freedns.controld.com/x-adguard
 https://cryptostorm.is/dns-query
 https://dns.csaonline.de/dns-query
 https://dns.csa-rz.de/dns-query
-https://dns.csswg.org/dns-query
 https://dns.cynthialabs.net/dns-query
 https://odvr.nic.cz/dns-query
 https://odvr.nic.cz/dns-query
@@ -127,7 +126,6 @@ https://gva01.dnscry.pt/dns-query
 https://haf01.dnscry.pt/dns-query
 https://yhz01.dnscry.pt/dns-query
 https://han01.dnscry.pt/dns-query
-https://sgn01.dnscry.pt/dns-query
 https://ist01.dnscry.pt/dns-query
 https://las01.dnscry.pt/dns-query
 https://lon01.dnscry.pt/dns-query
@@ -160,7 +158,6 @@ https://yvr01.dnscry.pt/dns-query
 https://vie01.dnscry.pt/dns-query
 https://vno01.dnscry.pt/dns-query
 https://waw02.dnscry.pt/dns-query
-https://dnsdoh.art/dns-query
 https://dns.flatuslifir.is/dns-query
 https://dns.dnshome.de/dns-query
 https://dnslow.me/dns-query
@@ -179,7 +176,6 @@ https://xn--durhre-yxa.de/dns-query
 https://dns.d94.xyz/dns-query
 https://dns.d94.xyz/dns-query
 https://dns.elemental.software/dns-query
-https://dns.eliv.kr/dns-query
 https://dns.envs.net/dns-query
 https://dns.envs.net/dns-query
 https://dns.faked.org/dns-query
@@ -197,7 +193,6 @@ https://doh.applied-privacy.net/query
 https://dns.foxyfy.net/dns-query
 https://de-f1.foxyfy.net/dns-query
 https://es-ma.foxyfy.net/dns-query
-https://dns.froth.zone/dns-query
 https://doh.futa.gg/dns-query
 https://doh.futa.gg/dns-query
 https://dns.gamban.com/dns-query
@@ -226,7 +221,6 @@ https://dns.kapite.in/dns-query
 https://dns.kernel-error.de/dns-query
 https://dns.kescher.at/dns-query
 https://pihole.aws.ketan.dev/dns-query
-https://adg.khon.dev/dns-query
 https://dns.koala.us.to/dns-query
 https://dns.kosan.moe/dns-query
 https://adblock.krctech.dev/dns-query
@@ -282,8 +276,6 @@ https://doh.lv/dns-query
 https://doh.nic.lv/dns-query
 https://doh-random-upstream.nicolas-dorriere.fr/dns-query
 https://doh-own-recursion.nicolas-dorriere.fr/dns-query
-https://dns.ningkelle.id/dns-query
-https://family.dns.ningkelle.id/dns-query
 https://doh.niyawe.de/dns-query
 https://dns.njal.la/dns-query
 https://dns.novg.net/dns-query
@@ -314,11 +306,9 @@ https://dns12.quad9.net/dns-query
 https://dns.quiet.rocks/dns-query
 https://dog.dns.qwer.pw/dns-query
 https://lion.dns.qwer.pw/dns-query
-https://frog.dns.qwer.pw/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://dog.dns.qwer.pw/dns-query
 https://lion.dns.qwer.pw/dns-query
-https://frog.dns.qwer.pw/dns-query
 https://tiger.dns.qwer.pw/dns-query
 https://dns.redhosting.com.ar/dns-query
 https://regiopolis.cloud/dns-query
