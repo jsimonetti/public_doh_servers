@@ -127,7 +127,6 @@ dns.faked.org
 dns.farshidhakimy.de
 dns.flatuslifir.is
 dns.floriantinney.de
-dns.flymc.cc
 dns.furrix.zone
 dns.gamban.com
 dns.glf.wtf
@@ -176,7 +175,6 @@ dns.redhosting.com.ar
 dns.retakecs.com
 dns.roedel.cloud
 dns.rubyfish.cn
-dns.sheggi.ch
 dns.silen.org
 dns.skrep.eu
 dns.slinkyman.net
@@ -184,7 +182,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.suhaila.dev
 dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
@@ -236,10 +233,10 @@ doh-02.spectrum.com
 doh-2.seby.io
 doh-ch.blahdns.com
 doh-de.blahdns.com
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-fi.blahdns.com
 doh-jp.blahdns.com
-doh-own-recursion.nicolas-dorriere.fr
-doh-random-upstream.nicolas-dorriere.fr
+doh-recursive-to-root.technitium.nicolas-dorriere.fr
 doh-sg.blahdns.com
 doh.360.cn
 doh.42l.fr
@@ -464,7 +461,6 @@ security.cloudflare-dns.com
 seoul.dnsovertor.cc
 sg-w-p-1.nashkan.net
 sg01.dns4me.net
-shitblocker.com
 sin03.dnscry.pt
 sjc01.dnscry.pt
 sky.rethinkdns.com
