@@ -1,5 +1,3 @@
-https://resolver1.absolight.net/dns-query
-https://resolver2.absolight.net/dns-query
 https://per.adfilter.net/dns-query
 https://syd.adfilter.net/dns-query
 https://adl.adfilter.net/dns-query
@@ -246,10 +244,6 @@ https://base.dns.mullvad.net/dns-query
 https://extended.dns.mullvad.net/dns-query
 https://all.dns.mullvad.net/dns-query
 https://family.dns.mullvad.net/dns-query
-https://freedom.mydns.network/dns-query
-https://paranoia.mydns.network/dns-query
-https://adblock.mydns.network/dns-query
-https://family.mydns.network/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://ae-fuj-w-p-1.nashkan.net/dns-query
@@ -323,7 +317,6 @@ https://dns.silen.org/dns-query
 https://dns.skrep.eu/dns-query
 https://dns.slinkyman.net/dns-query
 https://dns.smartguard.io/dns-query
-https://adg.geili.me/dns-query
 https://dns.startupstack.tech/dns-query
 https://doh.sz-dns.com/dns-query
 https://dns.stirringphoto.com/dns-query

@@ -17,7 +17,6 @@ adblock.mydns.network
 addns1.m-it.ro
 adfree.usableprivacy.net
 adfreedns.top
-adg.geili.me
 adguard.meddy94.de
 adguard.shoupperuser.com
 adl.adfilter.net
@@ -339,7 +338,6 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
-family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
 fi.doh.dns.snopyta.org
@@ -350,7 +348,6 @@ fra01.dnscry.pt
 fra02.dnscry.pt
 free.bravedns.com
 freedns.controld.com
-freedom.mydns.network
 gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 getdnsapi.net
@@ -414,7 +411,6 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
-paranoia.mydns.network
 pdns.faelix.net
 pdx01.dnscry.pt
 per.adfilter.net
@@ -437,10 +433,8 @@ renardbleu.dev
 resolver-eu.lelux.fi
 resolver.sunet.se
 resolver1-fs.opendns.com
-resolver1.absolight.net
 resolver1.opendns.com
 resolver2-fs.opendns.com
-resolver2.absolight.net
 resolver2.opendns.com
 revelio.top
 rfree1.blue-shield.at
