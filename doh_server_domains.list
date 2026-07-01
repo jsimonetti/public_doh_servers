@@ -176,7 +176,6 @@ dns.smartguard.io
 dns.startupstack.tech
 dns.stirringphoto.com
 dns.stormycloud.org
-dns.superstefan.win
 dns.surfsharkdns.com
 dns.switch.ch
 dns.szpadel.ovh
@@ -265,7 +264,6 @@ doh.futa.gg
 doh.gslb2.xfinity.com
 doh.in.ahadns.net
 doh.it.ahadns.net
-doh.kel.pe
 doh.la.ahadns.net
 doh.lacontrevoie.fr
 doh.li
@@ -330,6 +328,7 @@ family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
 family.dns.mullvad.net
+family.mydns.network
 fdns1.dismail.de
 fdns2.dismail.de
 fi.doh.dns.snopyta.org
@@ -340,6 +339,7 @@ fra01.dnscry.pt
 fra02.dnscry.pt
 free.bravedns.com
 freedns.controld.com
+freedom.mydns.network
 gb-lon-w-p-2.nashkan.net
 geg01.dnscry.pt
 getdnsapi.net
@@ -401,6 +401,7 @@ p1.freedns.controld.com
 p2.freedns.controld.com
 p3.freedns.controld.com
 par01.dnscry.pt
+paranoia.mydns.network
 pdns.faelix.net
 pdx01.dnscry.pt
 per.adfilter.net
@@ -459,7 +460,6 @@ tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
 tpa01.dnscry.pt
 trf01.dnscry.pt
-tsm01.dnscry.pt
 uk01.dns4me.net
 uncensored-dot.dnswarden.com
 unfiltered.adguard-dns.com

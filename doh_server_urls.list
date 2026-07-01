@@ -8,7 +8,6 @@ https://unfiltered.adguard-dns.com/dns-query
 https://dns.adnull.com/dns-query
 https://dns.akbxr.com/dns-query
 https://dns.alidns.com/dns-query
-https://doh.kel.pe
 https://dns.aa.net.uk/dns-query
 https://doh.angry.im/dns-query
 https://dns.anon.no/dns-query
@@ -141,7 +140,6 @@ https://sto01.dnscry.pt/dns-query
 https://syd02.dnscry.pt/dns-query
 https://tll01.dnscry.pt/dns-query
 https://tpa01.dnscry.pt/dns-query
-https://tsm01.dnscry.pt/dns-query
 https://tbs01.dnscry.pt/dns-query
 https://yyz01.dnscry.pt/dns-query
 https://yvr01.dnscry.pt/dns-query
@@ -238,6 +236,10 @@ https://base.dns.mullvad.net/dns-query
 https://extended.dns.mullvad.net/dns-query
 https://all.dns.mullvad.net/dns-query
 https://family.dns.mullvad.net/dns-query
+https://freedom.mydns.network/dns-query
+https://paranoia.mydns.network/dns-query
+https://adblock.mydns.network/dns-query
+https://family.mydns.network/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://dns.mzjtechnology.com/dns-query
 https://ae-fuj-w-p-1.nashkan.net/dns-query
@@ -315,7 +317,6 @@ https://dns.stormycloud.org/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://resolver.sunet.se/dns-query
 https://sunnygyl.com/dns-query
-https://dns.superstefan.win/dns-query
 https://dns.switch.ch/dns-query
 https://dns.szpadel.ovh/dns-query
 https://dns.szpadel.ovh/dns-query
