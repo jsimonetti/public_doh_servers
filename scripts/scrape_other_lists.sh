@@ -1,5 +1,5 @@
 #!/bin/bash
-SOURCES="https://raw.githubusercontent.com/crypt0rr/public-doh-servers/main/dns.list"
+SOURCES="https://raw.githubusercontent.com/crypt0rr/public-doh-servers/main/dns.list https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-domains.txt"
 for source in ${SOURCES}; do
   curl -q $source >> doh_server_domains.list
 done
