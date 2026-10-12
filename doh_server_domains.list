@@ -6,6 +6,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 2.dnscrypt-cert.dns.seby.io
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -55,7 +56,6 @@ adguard.depieri.net
 adguard.easez.net
 adguard.ef67daisuki.club
 adguard.gambini.org
-adguard.gbrossi.com.br
 adguard.haneulo.com
 adguard.hartley.cloud
 adguard.ihatemy.live
@@ -155,6 +155,7 @@ bravedns.com
 bts01.dnscry.pt
 c.cicitt.ch
 ca-yyc.doh.sb
+ca-yyz.doh.sb
 ca.doh.cloudveil.org
 ca01.dns4me.net
 ca02.dns4me.net
@@ -200,6 +201,7 @@ dandelionsprout.asuscomm.com
 darkness.is.my.waifu.cz
 dart.kpsn.org
 darya.persiannit.net
+de-ber.doh.sb
 de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
@@ -486,7 +488,6 @@ dns.lermer.nl
 dns.levonet.sk
 dns.lgprk.com
 dns.liberador.net
-dns.lihj.me
 dns.lista.my.id
 dns.listo.click
 dns.lobbygod.com
@@ -659,6 +660,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -1355,6 +1357,7 @@ tk31z.com
 tky-dns.bitdefender.net
 tll01.dnscry.pt
 tls-dns-u.odvr.dns-oarc.net
+tlz.asia
 tor.cloudflare-dns.com
 tor.vasi.li
 tpa01.dnscry.pt
@@ -1385,6 +1388,7 @@ united-arab-emirates.privacy-dns.pw
 urology.wiki
 us-chi-w-f-1.nashkan.net
 us-chi-w-p-1.nashkan.net
+us-chi.doh.sb
 us-hil-w-f-1.nashkan.net
 us-hil-w-p-1.nashkan.net
 us-jac-w-f-1.nashkan.net
@@ -1393,9 +1397,11 @@ us-kan-w-f-1.nashkan.net
 us-kan-w-p-1.nashkan.net
 us-nyc-w-f-1.nashkan.net
 us-nyc-w-p-1.nashkan.net
+us-nyc.doh.sb
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 us-sj.foxyfy.net
+us-sjc.doh.sb
 us.doh.cloudveil.org
 us01.dns4me.net
 us02.dns4me.net
