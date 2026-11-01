@@ -6,6 +6,7 @@
 1dot1dot1dot1.cloudflare-dns.com
 2.dns.noridev.moe
 2.dnscrypt-cert.dns.seby.io
+3dcosas.xyz
 3dns.eu
 3jjxxl.tech
 5g.o0o.re
@@ -139,8 +140,9 @@ base.dns.mullvad.net
 basic.bravedns.com
 basic.rethinkdns.com
 bazooki-infra.dev
-bestwon203.com
+beatquantum.com
 blackhole.myon.lu
+blank.dnsforge.de
 blitz-setup.ahadns.com
 block.abstergo.it
 blocker.thethorsens.org
@@ -243,6 +245,7 @@ dns.9999.sg
 dns.a47.me
 dns.aa.net.uk
 dns.abdullahabas.de
+dns.adfreedns.org
 dns.adguard-dns.com
 dns.adguard.com
 dns.adnull.com
@@ -268,6 +271,7 @@ dns.arapurayil.com
 dns.ares-taiwan.com
 dns.arkbotech.com
 dns.artikel10.org
+dns.as212683.net
 dns.ashleyjackson.net
 dns.asterimoon.com
 dns.asysec.com
@@ -362,13 +366,13 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.east.comss.one
 dns.easyhns.com
 dns.eddi.net
 dns.edison42.dev
 dns.efficientdocuments.com
+dns.ekinao.com
 dns.elemental.software
 dns.eliv.kr
 dns.engineer.web.id
@@ -407,12 +411,14 @@ dns.gi.co.id
 dns.ginovs.nl
 dns.girino.org
 dns.glf.wtf
+dns.glorydns.com
 dns.gnb09.id
 dns.goldplate.org
 dns.google
 dns.google.com
 dns.grqu.de
 dns.guard.io
+dns.guardmydns.com
 dns.gutwe.in
 dns.ha-dvin.pp.ua
 dns.hahnjo.de
@@ -584,6 +590,7 @@ dns.roedel.cloud
 dns.ronc.ru
 dns.rotunneling.net
 dns.rubyfish.cn
+dns.safesurfer.co.nz
 dns.sarak.as
 dns.sarakas.net
 dns.sarilouis.com
@@ -653,6 +660,7 @@ dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
+dns.wahr.top
 dns.wang.art
 dns.wargan.io
 dns.warma.me
@@ -704,9 +712,11 @@ dns4eu.online
 dns4me.net
 dns64.cloudflare-dns.com
 dns64.dns.google
+dns64.dns.yunzheng.space
 dns8.org
 dns9.quad9.net
 dnsblock.grisumedia.de
+dnsbunker.org
 dnscache.e-utp.net
 dnscache0.ns71.net
 dnsdoh.art
@@ -879,6 +889,7 @@ doh2.abmb.win
 doh2.b-cdn.net
 doh2.blahdns.com
 doh2.gslb2.xfinity.com
+doh64.dns4all.eu
 dohdot.coxlab.net
 dohtrial.att.net
 dooh.cloudflare-dns.com
@@ -917,7 +928,6 @@ dus01.dnscry.pt
 ea-dns.rubyfish.cn
 echoe1yidzu4ioo5.myfritz.net
 ecs-doh.dnswarden.com
-edgy-dns.com
 edns.233py.com
 ee-tll.doh.sb
 eliatofani.ovh
@@ -935,7 +945,6 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
-family.dns.doubleangels.com
 family.dns.dremaxx.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
@@ -1080,8 +1089,8 @@ lis01.dnscry.pt
 llk01.dnscry.pt
 loadlow.me
 lon01.dnscry.pt
-lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
+lukscasino-929-tr.xyz
 lux1.nixnet.xyz
 luxembourg.privacy-dns.pw
 lv1.nixnet.xyz
@@ -1097,10 +1106,8 @@ masters-of-cloud.de
 max.rethinkdns.com
 meganerd.nl
 megumin.is.my.waifu.cz
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 morbitzer.de
@@ -1184,7 +1191,6 @@ p3.freedns.controld.com
 par01.dnscry.pt
 paradise-human.shop
 paranoia.mydns.network
-pates.services.sfr.fr.casepp.sfr.fr
 paulo.nom.za
 pdns.faelix.net
 pdns.itxe.net
@@ -1193,6 +1199,7 @@ pepetio.xyz
 per.adfilter.net
 performance.gosami.xyz
 phx01.dnscry.pt
+pidoh.mapledns.net
 pihole.aws.ketan.dev
 pihole.datamatter.co.za
 pihole1.hoerli.net
@@ -1356,7 +1363,6 @@ ttag.dns.nomu.pw
 tuandns.duckdns.org
 tujenasnaszato.xyz
 tungdnsne.duckdns.org
-tuskythehusky.tech
 tyo01.dnscry.pt
 tyo02.dnscry.pt
 typaza.com
