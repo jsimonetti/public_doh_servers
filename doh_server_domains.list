@@ -215,6 +215,7 @@ de-dus.doh.sb
 de-fra-w-p-1.nashkan.net
 de-fra.doh.sb
 de-fsn-w-p-1.nashkan.net
+de.dns.privex.io
 de01.dns4me.net
 deic-lgb.anycast.censurfridns.dk
 deic-lgb.anycast.uncensoreddns.org
@@ -375,7 +376,6 @@ dns.dnswarden.com
 dns.doh.best
 dns.dotnet.win
 dns.dremaxx.de
-dns.dyn1.de
 dns.dynx.pro
 dns.east.comss.one
 dns.easyhns.com
@@ -668,10 +668,10 @@ dns.vaioswolke.xyz
 dns.vault81.de
 dns.velyn.my.id
 dns.vinnyp.xyz
+dns.vip-kingstore.xyz
 dns.vmath.my.id
 dns.vod11.xyz
 dns.w3ctag.org
-dns.wahr.top
 dns.wargan.io
 dns.warma.me
 dns.warpnine.de
@@ -760,6 +760,7 @@ doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-fi.blahdns.com
 doh-ipv6.crypto.sx
 doh-jp.blahdns.com
+doh-mullvad.quad9.net
 doh-primary-pool.detoxifypornblocker.com
 doh-primary-pool.goodbyegambling.com
 doh-pure.onedns.net
@@ -958,6 +959,7 @@ family-filter-dns.cleanbrowsing.org
 family.adguard-dns.com
 family.canadianshield.cira.ca
 family.cloudflare-dns.com
+family.dns.doubleangels.com
 family.dns.dremaxx.com
 family.dns.mullvad.net
 family.dns.ningkelle.id
@@ -1020,6 +1022,7 @@ hk-hkg.doh.sb
 hkg01.dnscry.pt
 hkg02.dnscry.pt
 hkg03.dnscry.pt
+hkname.freecdn.one
 hnsdoh.com
 hole.elbschloss.xyz
 home-server.store
@@ -1134,10 +1137,8 @@ mci01.dnscry.pt
 meganerd.nl
 megumin.is.my.waifu.cz
 mel01.dnscry.pt
-mendozasdelivery.com
 mia01.dnscry.pt
 mickedi.isgood.host
-mikezhang.xyz
 mil01.dnscry.pt
 moamao.shop
 moe01.dnscry.pt
@@ -1164,6 +1165,7 @@ nicsezcheckfbi.gov
 nl-ams.doh.sb
 nl-dro-w-f-1.nashkan.net
 nl-dro-w-p-1.nashkan.net
+nl.dns.privex.io
 noads.imbuffering.com
 noads.joindns4.eu
 ns.00dani.me
